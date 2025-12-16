@@ -1,6 +1,6 @@
 import React from 'react';
 import './index.css';
-import { SLIDE_TYPE, ContentData } from '../../constants/index.ts';
+import { SLIDE_TYPE, ContentData, QR_CODE_URL } from '../../constants/index.ts';
 import { Contribute } from './components/Contribute/index.tsx';
 import { Project } from './components/Project/index.tsx';
 import { CommitInfo } from './components/CommitInfo/index.tsx';
@@ -45,7 +45,12 @@ export const Content = (props: ContentProps) => {
       {slideType === SLIDE_TYPE.SUMMARY && (
         <>
           <div className="content-text-summary-footer">
-            <div className="content-text-summary-qrcode"></div>
+            <div
+              className="content-text-summary-qrcode"
+              style={{
+                backgroundImage: `url('${QR_CODE_URL}')`
+              }}
+            ></div>
             <div className="content-text-summary-footer-text">
               <div>左侧扫码查看你的</div>
               <div>Datawhale年度报告</div>

@@ -1,14 +1,14 @@
 import React, { useEffect, useRef, useState } from 'react';
 import './index.css';
 import logo from '../../assets/logo.png';
-import background from '../../assets/background.png';
-import background01 from '../../assets/01.png';
-import background02 from '../../assets/02.png';
-import background03 from '../../assets/03.png';
-import background04 from '../../assets/04.png';
-import background05 from '../../assets/04.png';
+import background from '../../assets/2025/background.png';
+import background01 from '../../assets/2025/01.png';
+import background02 from '../../assets/2025/02.png';
+import background03 from '../../assets/2025/03.png';
+import background04 from '../../assets/2025/04.png';
+import background05 from '../../assets/2025/05.png';
 import { wait } from '../../utils/wait.ts';
-import { ContentData } from '../../constants/index.ts';
+import { AUDIO_URL, ContentData, USER_DATA_URL } from '../../constants/index.ts';
 import { useWindowSize } from '../../utils/windowSize.ts';
 
 interface IProps {
@@ -45,8 +45,8 @@ export const Welcome = (props: IProps) => {
       const image5 = new Image();
       image5.src = background05;
       const audio = new Audio();
-      audio.src = 'https://datawhale.oss-cn-hangzhou.aliyuncs.com/SEO/state-of-datawhale.mp3';
-      const userData = await fetch(`https://datawhale.oss-cn-hangzhou.aliyuncs.com/SEO/datawhale-2024-data.json`);
+      audio.src = AUDIO_URL;
+      const userData = await fetch(USER_DATA_URL);
       const userDataJson = await userData.json();
       await wait(LOADING_TIME);
       contentDataListRef.current = userDataJson;
@@ -108,7 +108,10 @@ export const Welcome = (props: IProps) => {
       <div className="welcome-content-area">
         <div className="welcome-content-title-wrapper">
           <img className="welcome-logo" src={logo} alt="logo" />
-          <div className="welcome-title">Datawhale贡献者年度总结</div>
+          <div className="welcome-title">
+            <div>Datawhale贡献者</div>
+            <div>2025年度总结</div>
+          </div>
         </div>
         <div className="welcome-control-wrapper">
           <div className={`welcome-scroll-wrapper animate__animated ${loading ? '' : 'animate__fadeOut'}`}>
@@ -128,7 +131,7 @@ export const Welcome = (props: IProps) => {
             <input
               className="welcome-input"
               type="text"
-              placeholder="请输入你的github用户名"
+              placeholder="请输入你的github用户名或邮箱"
               onChange={onInputChange}
             />
             <button className="welcome-button" onClick={onClickSubmit}>

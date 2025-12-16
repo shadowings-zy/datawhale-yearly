@@ -1,5 +1,6 @@
 import React, { useRef, useEffect } from 'react';
 import './index.css';
+import { AUDIO_URL } from '../../constants';
 
 interface IProps {
   muted: boolean;
@@ -112,12 +113,7 @@ export default function Volume(props: IProps) {
       >
         {muted ? mutedIcon() : defaultIcon()}
       </div>
-      <audio
-        ref={audioRef}
-        src="https://zy-oss-sg.oss-ap-southeast-1.aliyuncs.com/state-of-datawhale.mp3"
-        type="audio/mpeg"
-        loop
-      />
+      <audio ref={audioRef} src={AUDIO_URL} type="audio/mpeg" loop />
     </>
   );
 }

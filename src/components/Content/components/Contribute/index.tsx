@@ -14,7 +14,7 @@ export const Contribute = (props: IProps) => {
       <div
         className={`content-text animate__animated ${show ? 'animate-delay-700ms animate__zoomIn' : 'animate__fadeOut'}`}
       >
-        在过去一年，你的贡献如同灵动的音符，在Datawhale的舞台上奏响了精彩的乐章。
+        在过去一年，你的付出就像璀璨的星光，在 Datawhale 的宇宙中绽放出夺目光彩。
       </div>
       <div
         className={`content-text animate__animated ${show ? 'animate-delay-1400ms animate__zoomIn' : 'animate__fadeOut'}`}
@@ -34,15 +34,15 @@ export const Contribute = (props: IProps) => {
           } `}
         </span>
         {data.project.length > 3 ? ' 等等' : ''}
-        ，每一个项目都是一次挑战与机遇的交织。从项目的构思到落地，你的智慧与汗水融入其中，推动项目不断前行。
+        ，每一个项目都是挑战与机遇并存的试炼场。从最初的构思到最终的项目落地，你的智慧与汗水全程倾注，为项目的成长注入强劲动力。
       </div>
       <div
         className={`content-text animate__animated ${show ? 'animate-delay-2100ms animate__zoomIn' : 'animate__fadeOut'}`}
       >
-        全年，你总计提交了
-        <span className="content-text-primary">{` ${data.commitCount} `}</span>次 commit
+        回顾2025年，你总计提交了
+        <span className="content-text-primary">{` ${data.commitCount} `}</span>次 commit，编写了
         <span className="content-text-primary">{` ${data.codeCount} `}</span>
-        行代码，每一次提交都是你为项目添砖加瓦的见证。它们如同城市的建筑，构建出惊艳的项目，为学习者带来价值。
+        行代码，每一次提交都是你推进项目的坚实足迹，它们凝聚成坚实的阶梯，托举起优质的项目，为每一位学习者输送宝贵价值。
       </div>
     </>
   );

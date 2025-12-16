@@ -1,26 +1,10 @@
-const repoList = require("./data/repo.json");
-const dayjs = require("dayjs");
-const fs = require("fs");
-const path = require("path");
+const dayjs = require('dayjs');
+const fs = require('fs');
+const path = require('path');
 
-const yearlyKey = [
-  "2024-1",
-  "2024-2",
-  "2024-3",
-  "2024-4",
-  "2024-5",
-  "2024-6",
-  "2024-7",
-  "2024-8",
-  "2024-9",
-  "2024-10",
-  "2024-11",
-  "2024-12",
-];
-
-const getYearlyGrowth = (monthlyStars) => {
+const getYearlyGrowth = (monthlyStars, yearAndMonthKey) => {
   let yearlyGrowth = 0;
-  for (const key of yearlyKey) {
+  for (const key of yearAndMonthKey) {
     if (monthlyStars[key] !== undefined) {
       yearlyGrowth += monthlyStars[key];
     }
@@ -28,15 +12,32 @@ const getYearlyGrowth = (monthlyStars) => {
   return yearlyGrowth;
 };
 
-const getAllCommit = () => {
+const getAllCommit = (repoNameList, year) => {
   const allCommit = [];
+  const yearAndMonthKey = [
+    `${year}-1`,
+    `${year}-2`,
+    `${year}-3`,
+    `${year}-4`,
+    `${year}-5`,
+    `${year}-6`,
+    `${year}-7`,
+    `${year}-8`,
+    `${year}-9`,
+    `${year}-10`,
+    `${year}-11`,
+    `${year}-12`
+  ];
 
-  for (const repo of repoList) {
-    const repoName = repo.name.split("/")[1];
-    const commitDetail = require(`./data/repoCommitDetail/${repoName}.json`);
-    const starDetail = require(`./data/repoStarDetail/${repoName}.json`);
-    commitDetail.forEach((commit) => {
-      if (commit.date.includes("2024")) {
+  const starDetailStr = fs.readFileSync(path.join(__dirname, `../data/repoStarDetail.json`), 'utf-8');
+  const starDetailList = JSON.parse(starDetailStr);
+  for (const repoName of repoNameList) {
+    const starDetail = starDetailList.find((item) => item.repoName === repoName);
+    const commitDetailStr = fs.readFileSync(path.join(__dirname, `../data/repoCommitDetail/${repoName}.json`), 'utf-8');
+    const commitDetailList = JSON.parse(commitDetailStr);
+
+    commitDetailList.forEach((commit) => {
+      if (commit.date.includes(year)) {
         allCommit.push({
           username: commit.author,
           email: commit.email,
@@ -44,9 +45,9 @@ const getAllCommit = () => {
           codeAdditionsCount: commit.codeAdditionsCount,
           project: {
             name: repoName,
-            yearGrowth: getYearlyGrowth(starDetail.monthlyStars),
-            starCount: starDetail.monthlyTotalStars["2025-1"],
-          },
+            yearGrowth: getYearlyGrowth(starDetail.monthlyStars, yearAndMonthKey),
+            starCount: starDetail.starCount
+          }
         });
       }
     });
@@ -75,7 +76,7 @@ const getProjectByCommitList = (commitList) => {
     } else {
       projectMap[commit.project.name] = {
         ...commit.project,
-        commitCount: 0,
+        commitCount: 0
       };
     }
   }
@@ -85,22 +86,22 @@ const getProjectByCommitList = (commitList) => {
 const getLatestTimeCommit = (commitList) => {
   const earlyMorningCommit = commitList
     .filter((item) => {
-      const date = dayjs(item.date, "HH:mm:ss");
+      const date = dayjs(item.date, 'HH:mm:ss');
       return date.hour() <= 5;
     })
     .sort((a, b) => {
-      const dateA = dayjs(a, "HH:mm:ss");
-      const dateB = dayjs(b, "HH:mm:ss");
+      const dateA = dayjs(a, 'HH:mm:ss');
+      const dateB = dayjs(b, 'HH:mm:ss');
       return dateA.isAfter(dateB);
     });
   const midnightCommit = commitList
     .filter((item) => {
-      const date = dayjs(item.date, "HH:mm:ss");
+      const date = dayjs(item.date, 'HH:mm:ss');
       return date.hour() >= 22;
     })
     .sort((a, b) => {
-      const dateA = dayjs(a, "HH:mm:ss");
-      const dateB = dayjs(b, "HH:mm:ss");
+      const dateA = dayjs(a, 'HH:mm:ss');
+      const dateB = dayjs(b, 'HH:mm:ss');
       return dateA.isAfter(dateB);
     });
   if (earlyMorningCommit.length > 0) {
@@ -114,9 +115,7 @@ const convertCommitMapToTargetFormat = (commitMap) => {
   for (const username in commitMap) {
     const commitList = commitMap[username];
     const projectInfoList = getProjectByCommitList(commitList);
-    const maxCommitProject = projectInfoList.sort(
-      (a, b) => b.commitCount - a.commitCount
-    )[0];
+    const maxCommitProject = projectInfoList.sort((a, b) => b.commitCount - a.commitCount)[0];
     const latestTimeCommitInfo = getLatestTimeCommit(commitList);
     const item = {
       username,
@@ -125,7 +124,7 @@ const convertCommitMapToTargetFormat = (commitMap) => {
       commitCount: commitList.length,
       codeCount: commitList.reduce((a, b) => a + b.codeAdditionsCount, 0),
       maxCommitProject,
-      maxCommitProjectCommitCount: maxCommitProject.commitCount,
+      maxCommitProjectCommitCount: maxCommitProject.commitCount
     };
     if (latestTimeCommitInfo?.date && latestTimeCommitInfo?.project?.name) {
       item.lastCommitTime = latestTimeCommitInfo.date;
@@ -136,16 +135,14 @@ const convertCommitMapToTargetFormat = (commitMap) => {
   return targetFormat;
 };
 
-const main = async () => {
-  const allCommit = getAllCommit();
+const generateContributorData = (repoNameList, year) => {
+  const allCommit = getAllCommit(repoNameList, year);
   const unionCommit = unionCommitByUsername(allCommit);
   const targetFormat = convertCommitMapToTargetFormat(unionCommit);
-  console.log("targetFormat", targetFormat);
-
-  fs.writeFileSync(
-    path.join(__dirname, `./data/datawhale-2024-data.json`),
-    JSON.stringify(targetFormat)
-  );
+  console.log('targetFormat', targetFormat);
+  return targetFormat;
 };
 
-main();
+module.exports = {
+  generateContributorData
+};

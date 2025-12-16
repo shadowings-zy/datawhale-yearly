@@ -1,5 +1,5 @@
 {
-  "name": "datawhale-yearly-2024",
+  "name": "datawhale-yearly",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,6 +14,7 @@
     "browserslist": "^4.18.1",
     "camelcase": "^6.2.1",
     "case-sensitive-paths-webpack-plugin": "^2.4.0",
+    "cheerio": "^1.1.2",
     "cra-template-typescript": "1.2.0",
     "css-loader": "^6.5.1",
     "css-minimizer-webpack-plugin": "^3.2.0",
@@ -55,7 +56,8 @@
   "scripts": {
     "start": "node scripts/start.js",
     "build": "cross-env PUBLIC_URL=https://datawhale.oss-cn-hangzhou.aliyuncs.com/SEO/datawhale-2024/ node scripts/build.js",
-    "format": "prettier --write ./src"
+    "format": "prettier --write ./src",
+    "fetch:data": "node fetchDataScript/getYearlyData/main.js"
   },
   "eslintConfig": {
     "extends": [

@@ -4,11 +4,11 @@ import 'reveal.js/dist/reveal.css';
 import 'reveal.js/dist/theme/sky.css';
 import './index.css';
 import { Content } from '../Content/index.tsx';
-import background01 from '../../assets/01.png';
-import background02 from '../../assets/02.png';
-import background03 from '../../assets/03.png';
-import background04 from '../../assets/04.png';
-import background05 from '../../assets/05.png';
+import background01 from '../../assets/2025/01.png';
+import background02 from '../../assets/2025/02.png';
+import background03 from '../../assets/2025/03.png';
+import background04 from '../../assets/2025/04.png';
+import background05 from '../../assets/2025/05.png';
 import { Welcome } from '../Welcome/index.tsx';
 import { PAGE_TYPE, SLIDE_TYPE } from '../../constants/index.ts';
 import { ContentData } from '../../constants/index.ts';
@@ -36,7 +36,7 @@ export const App = () => {
 
   const handleSubmit = (username: string, contentDataList: ContentData[]) => {
     if (!username) {
-      alert('请输入用户名');
+      alert('请输入用户名或邮箱');
       return;
     }
     const currentUserContentData = contentDataList.find(

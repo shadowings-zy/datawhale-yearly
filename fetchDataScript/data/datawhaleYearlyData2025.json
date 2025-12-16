@@ -1,0 +1,5995 @@
+[
+    {
+        "username": "1985312383",
+        "email": "1985312383@qq.com",
+        "project": [
+            {
+                "name": "torch-rechub",
+                "yearGrowth": 237,
+                "starCount": 671,
+                "commitCount": 144
+            },
+            {
+                "name": "med-imaging-primer",
+                "yearGrowth": 16,
+                "starCount": 16,
+                "commitCount": 48
+            },
+            {
+                "name": "members-visualization",
+                "yearGrowth": 26,
+                "starCount": 26,
+                "commitCount": 47
+            },
+            {
+                "name": "easy-vectordb",
+                "yearGrowth": 128,
+                "starCount": 128,
+                "commitCount": 16
+            },
+            {
+                "name": "daily-interview",
+                "yearGrowth": 760,
+                "starCount": 3395,
+                "commitCount": 11
+            }
+        ],
+        "commitCount": 271,
+        "codeCount": 235637,
+        "maxCommitProject": {
+            "name": "torch-rechub",
+            "yearGrowth": 237,
+            "starCount": 671,
+            "commitCount": 144
+        },
+        "maxCommitProjectCommitCount": 144,
+        "lastCommitTime": "2025-12-11 01:06:32",
+        "lastCommitProjectName": "torch-rechub"
+    },
+    {
+        "username": "2951121599",
+        "email": "37405850+2951121599@users.noreply.github.com",
+        "project": [
+            {
+                "name": "llm-universe",
+                "yearGrowth": 6059,
+                "starCount": 11112,
+                "commitCount": 0
+            },
+            {
+                "name": "whale-quant",
+                "yearGrowth": 1080,
+                "starCount": 1814,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 12,
+        "maxCommitProject": {
+            "name": "llm-universe",
+            "yearGrowth": 6059,
+            "starCount": 11112,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "KMnO4-zx",
+        "email": "1021385881@qq.com",
+        "project": [
+            {
+                "name": "happy-llm",
+                "yearGrowth": 22816,
+                "starCount": 22817,
+                "commitCount": 131
+            },
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 118
+            },
+            {
+                "name": "llm-preview",
+                "yearGrowth": 116,
+                "starCount": 116,
+                "commitCount": 23
+            },
+            {
+                "name": "tiny-universe",
+                "yearGrowth": 2397,
+                "starCount": 4160,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 276,
+        "codeCount": 154046,
+        "maxCommitProject": {
+            "name": "happy-llm",
+            "yearGrowth": 22816,
+            "starCount": 22817,
+            "commitCount": 131
+        },
+        "maxCommitProjectCommitCount": 131,
+        "lastCommitTime": "2025-07-12 00:46:10",
+        "lastCommitProjectName": "happy-llm"
+    },
+    {
+        "username": "moyitech",
+        "email": "admin@9998k.cn",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 9
+            },
+            {
+                "name": "post-training-of-llms",
+                "yearGrowth": 127,
+                "starCount": 127,
+                "commitCount": 1
+            },
+            {
+                "name": "tiny-universe",
+                "yearGrowth": 2397,
+                "starCount": 4160,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 13,
+        "codeCount": 8755,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 9
+        },
+        "maxCommitProjectCommitCount": 9,
+        "lastCommitTime": "2025-04-14 23:08:42",
+        "lastCommitProjectName": "self-llm"
+    },
+    {
+        "username": "Tsumugii24",
+        "email": "2792474059@qq.com",
+        "project": [
+            {
+                "name": "code-your-own-llm",
+                "yearGrowth": 99,
+                "starCount": 99,
+                "commitCount": 51
+            },
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 47
+            },
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 18
+            },
+            {
+                "name": "unlock-deepseek",
+                "yearGrowth": 692,
+                "starCount": 692,
+                "commitCount": 14
+            },
+            {
+                "name": "handy-multi-agent",
+                "yearGrowth": 653,
+                "starCount": 665,
+                "commitCount": 7
+            }
+        ],
+        "commitCount": 142,
+        "codeCount": 36615,
+        "maxCommitProject": {
+            "name": "code-your-own-llm",
+            "yearGrowth": 99,
+            "starCount": 99,
+            "commitCount": 51
+        },
+        "maxCommitProjectCommitCount": 51,
+        "lastCommitTime": "2025-11-07 04:24:40",
+        "lastCommitProjectName": "self-llm"
+    },
+    {
+        "username": "ditingdapeng",
+        "email": "476736794@qq.com",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 2
+            },
+            {
+                "name": "juicy-bigdata",
+                "yearGrowth": 60,
+                "starCount": 347,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 4,
+        "codeCount": 2472,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 2
+        },
+        "maxCommitProjectCommitCount": 2,
+        "lastCommitTime": "2025-10-26 02:48:52",
+        "lastCommitProjectName": "self-llm"
+    },
+    {
+        "username": "li-xiu-qi",
+        "email": "lixiuqixiaoke@qq.com",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 8
+            },
+            {
+                "name": "code-your-own-llm",
+                "yearGrowth": 99,
+                "starCount": 99,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 11,
+        "codeCount": 6680,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 8
+        },
+        "maxCommitProjectCommitCount": 8,
+        "lastCommitTime": "2025-10-16 23:46:31",
+        "lastCommitProjectName": "self-llm"
+    },
+    {
+        "username": "logan-zou",
+        "email": "74288839+logan-zou@users.noreply.github.com",
+        "project": [
+            {
+                "name": "happy-llm",
+                "yearGrowth": 22816,
+                "starCount": 22817,
+                "commitCount": 52
+            },
+            {
+                "name": "llm-universe",
+                "yearGrowth": 6059,
+                "starCount": 11112,
+                "commitCount": 7
+            },
+            {
+                "name": "llm-preview",
+                "yearGrowth": 116,
+                "starCount": 116,
+                "commitCount": 4
+            },
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 1
+            },
+            {
+                "name": "llm-cookbook",
+                "yearGrowth": 10283,
+                "starCount": 22696,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 70,
+        "codeCount": 14011,
+        "maxCommitProject": {
+            "name": "happy-llm",
+            "yearGrowth": 22816,
+            "starCount": 22817,
+            "commitCount": 52
+        },
+        "maxCommitProjectCommitCount": 52,
+        "lastCommitTime": "2025-08-23 00:09:48",
+        "lastCommitProjectName": "llm-preview"
+    },
+    {
+        "username": "KarlvenZhao",
+        "email": "157199407+KarlvenZhao@users.noreply.github.com",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 2,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "郭宣伯",
+        "email": "guoxuanbo@bytedance.com",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 5
+            }
+        ],
+        "commitCount": 6,
+        "codeCount": 1198,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 5
+        },
+        "maxCommitProjectCommitCount": 5
+    },
+    {
+        "username": "Twosugar666",
+        "email": "71106733+Twosugar666@users.noreply.github.com",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 23
+            }
+        ],
+        "commitCount": 24,
+        "codeCount": 3342,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 23
+        },
+        "maxCommitProjectCommitCount": 23,
+        "lastCommitTime": "2025-08-12 22:55:28",
+        "lastCommitProjectName": "self-llm"
+    },
+    {
+        "username": "dipampaul17",
+        "email": "dipampaul17@gmail.com",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 9,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0,
+        "lastCommitTime": "2025-08-08 03:11:46",
+        "lastCommitProjectName": "self-llm"
+    },
+    {
+        "username": "LINHYYY",
+        "email": "lingy4251@163.com",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 15
+            }
+        ],
+        "commitCount": 16,
+        "codeCount": 1779,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 15
+        },
+        "maxCommitProjectCommitCount": 15,
+        "lastCommitTime": "2025-01-18 23:09:22",
+        "lastCommitProjectName": "self-llm"
+    },
+    {
+        "username": "guoxuanbo",
+        "email": "guoxuanbo@bytedance.com",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 5
+            }
+        ],
+        "commitCount": 6,
+        "codeCount": 43156,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 5
+        },
+        "maxCommitProjectCommitCount": 5
+    },
+    {
+        "username": "nusakom",
+        "email": "2031263745@qq.com",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 2
+            }
+        ],
+        "commitCount": 3,
+        "codeCount": 391,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 2
+        },
+        "maxCommitProjectCommitCount": 2,
+        "lastCommitTime": "2025-07-01 23:31:15",
+        "lastCommitProjectName": "self-llm"
+    },
+    {
+        "username": "ilovexsir",
+        "email": "xhr156@outlook.com",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 1355,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1
+    },
+    {
+        "username": "fancyboi999",
+        "email": "z2631966523@163.com",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 2
+            },
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 4,
+        "codeCount": 11238,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 2
+        },
+        "maxCommitProjectCommitCount": 2
+    },
+    {
+        "username": "kalinplus",
+        "email": "142799819+kalinplus@users.noreply.github.com",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 1,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "Zeyi-Lin",
+        "email": "944270057@qq.com",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 8
+            },
+            {
+                "name": "happy-llm",
+                "yearGrowth": 22816,
+                "starCount": 22817,
+                "commitCount": 3
+            },
+            {
+                "name": "thorough-pytorch",
+                "yearGrowth": 797,
+                "starCount": 3467,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 14,
+        "codeCount": 3262,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 8
+        },
+        "maxCommitProjectCommitCount": 8,
+        "lastCommitTime": "2025-01-25 04:06:30",
+        "lastCommitProjectName": "self-llm"
+    },
+    {
+        "username": "Dormiveglia-elf",
+        "email": "120090196@link.cuhk.edu.cn",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 41,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0,
+        "lastCommitTime": "2025-05-04 00:04:49",
+        "lastCommitProjectName": "self-llm"
+    },
+    {
+        "username": "gaoliye",
+        "email": "gaoliye@zhihu.com",
+        "project": [
+            {
+                "name": "llm-universe",
+                "yearGrowth": 6059,
+                "starCount": 11112,
+                "commitCount": 11
+            },
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 6
+            },
+            {
+                "name": "easy-vectordb",
+                "yearGrowth": 128,
+                "starCount": 128,
+                "commitCount": 1
+            },
+            {
+                "name": "happy-llm",
+                "yearGrowth": 22816,
+                "starCount": 22817,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 22,
+        "codeCount": 16923,
+        "maxCommitProject": {
+            "name": "llm-universe",
+            "yearGrowth": 6059,
+            "starCount": 11112,
+            "commitCount": 11
+        },
+        "maxCommitProjectCommitCount": 11,
+        "lastCommitTime": "2025-05-01 22:10:31",
+        "lastCommitProjectName": "self-llm"
+    },
+    {
+        "username": "Aphasia0515",
+        "email": "140427007+Aphasia0515@users.noreply.github.com",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 8
+            },
+            {
+                "name": "llm-preview",
+                "yearGrowth": 116,
+                "starCount": 116,
+                "commitCount": 7
+            }
+        ],
+        "commitCount": 17,
+        "codeCount": 1735,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 8
+        },
+        "maxCommitProjectCommitCount": 8,
+        "lastCommitTime": "2025-05-02 01:09:15",
+        "lastCommitProjectName": "self-llm"
+    },
+    {
+        "username": "Bald0Wang",
+        "email": "928608467@qq.com",
+        "project": [
+            {
+                "name": "smart-card-workshop",
+                "yearGrowth": 32,
+                "starCount": 32,
+                "commitCount": 16
+            },
+            {
+                "name": "video-devour",
+                "yearGrowth": 36,
+                "starCount": 36,
+                "commitCount": 14
+            },
+            {
+                "name": "coffee-therapy",
+                "yearGrowth": 5,
+                "starCount": 5,
+                "commitCount": 14
+            },
+            {
+                "name": "self-dify",
+                "yearGrowth": 192,
+                "starCount": 209,
+                "commitCount": 9
+            },
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 58,
+        "codeCount": 134966,
+        "maxCommitProject": {
+            "name": "smart-card-workshop",
+            "yearGrowth": 32,
+            "starCount": 32,
+            "commitCount": 16
+        },
+        "maxCommitProjectCommitCount": 16,
+        "lastCommitTime": "2025-10-09 00:09:48",
+        "lastCommitProjectName": "video-devour"
+    },
+    {
+        "username": "fanqiNO1",
+        "email": "1848839264@qq.com",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 140,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1
+    },
+    {
+        "username": "Jarki_Huang",
+        "email": "369715630@qq.com",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 6,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "Feimike09",
+        "email": "2862714169@qq.com",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 6
+            }
+        ],
+        "commitCount": 7,
+        "codeCount": 490,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 6
+        },
+        "maxCommitProjectCommitCount": 6
+    },
+    {
+        "username": "yeyeyeyeeeee",
+        "email": "42082658+yeyeyeyeeeee@users.noreply.github.com",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 2
+            }
+        ],
+        "commitCount": 3,
+        "codeCount": 2334,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 2
+        },
+        "maxCommitProjectCommitCount": 2
+    },
+    {
+        "username": "ai520study520",
+        "email": "ai520study520@gmail.com",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 346,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "anarchysaiko",
+        "email": "gcccc@tuta.io",
+        "project": [
+            {
+                "name": "smart-dev",
+                "yearGrowth": 75,
+                "starCount": 75,
+                "commitCount": 14
+            },
+            {
+                "name": "smart-prompt",
+                "yearGrowth": 30,
+                "starCount": 52,
+                "commitCount": 3
+            },
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 2
+            },
+            {
+                "name": "all-in-rag",
+                "yearGrowth": 2283,
+                "starCount": 2283,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 23,
+        "codeCount": 1059,
+        "maxCommitProject": {
+            "name": "smart-dev",
+            "yearGrowth": 75,
+            "starCount": 75,
+            "commitCount": 14
+        },
+        "maxCommitProjectCommitCount": 14,
+        "lastCommitTime": "2025-02-15 22:56:49",
+        "lastCommitProjectName": "smart-prompt"
+    },
+    {
+        "username": "BoyuanGao",
+        "email": "gaoby3@lenovo.com",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 4
+            }
+        ],
+        "commitCount": 5,
+        "codeCount": 191,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 4
+        },
+        "maxCommitProjectCommitCount": 4
+    },
+    {
+        "username": "BozhengLong",
+        "email": "im.bzlong@gmail.com",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 1,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "anine09",
+        "email": "epsilon_luoo@outlook.com",
+        "project": [
+            {
+                "name": "unlock-deepseek",
+                "yearGrowth": 692,
+                "starCount": 692,
+                "commitCount": 28
+            },
+            {
+                "name": "learn-python-the-smart-way-v2",
+                "yearGrowth": 120,
+                "starCount": 357,
+                "commitCount": 6
+            },
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 5
+            }
+        ],
+        "commitCount": 42,
+        "codeCount": 187428,
+        "maxCommitProject": {
+            "name": "unlock-deepseek",
+            "yearGrowth": 692,
+            "starCount": 692,
+            "commitCount": 28
+        },
+        "maxCommitProjectCommitCount": 28,
+        "lastCommitTime": "2025-01-31 01:18:45",
+        "lastCommitProjectName": "unlock-deepseek"
+    },
+    {
+        "username": "hujingdan",
+        "email": "227295863@qq.com",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 1
+            },
+            {
+                "name": "coze-ai-assistant",
+                "yearGrowth": 187,
+                "starCount": 204,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 3,
+        "codeCount": 268,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1,
+        "lastCommitTime": "2025-02-03 23:00:33",
+        "lastCommitProjectName": "self-llm"
+    },
+    {
+        "username": "crcrcr",
+        "email": "ruichen4325@163.com",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 25
+            }
+        ],
+        "commitCount": 26,
+        "codeCount": 371,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 25
+        },
+        "maxCommitProjectCommitCount": 25,
+        "lastCommitTime": "2025-01-20 23:14:34",
+        "lastCommitProjectName": "self-llm"
+    },
+    {
+        "username": "Kedreamix",
+        "email": "1016617094@qq.com",
+        "project": [
+            {
+                "name": "unlock-deepseek",
+                "yearGrowth": 692,
+                "starCount": 692,
+                "commitCount": 4
+            },
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 2
+            }
+        ],
+        "commitCount": 8,
+        "codeCount": 1961,
+        "maxCommitProject": {
+            "name": "unlock-deepseek",
+            "yearGrowth": 692,
+            "starCount": 692,
+            "commitCount": 4
+        },
+        "maxCommitProjectCommitCount": 4,
+        "lastCommitTime": "2025-01-19 22:04:56",
+        "lastCommitProjectName": "self-llm"
+    },
+    {
+        "username": "chg0901",
+        "email": "kwchenghong@gmail.com",
+        "project": [
+            {
+                "name": "yolo-master",
+                "yearGrowth": 265,
+                "starCount": 266,
+                "commitCount": 77
+            },
+            {
+                "name": "med-imaging-primer",
+                "yearGrowth": 16,
+                "starCount": 16,
+                "commitCount": 18
+            },
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 17
+            }
+        ],
+        "commitCount": 115,
+        "codeCount": 193700,
+        "maxCommitProject": {
+            "name": "yolo-master",
+            "yearGrowth": 265,
+            "starCount": 266,
+            "commitCount": 77
+        },
+        "maxCommitProjectCommitCount": 77,
+        "lastCommitTime": "2025-03-27 00:19:11",
+        "lastCommitProjectName": "yolo-master"
+    },
+    {
+        "username": "XiLinky",
+        "email": "1632831976@qq.com",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 115,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "gzhuuser",
+        "email": "2368203939@qq.com",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 185,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "Matahari13",
+        "email": "ai@example.com",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 3
+            }
+        ],
+        "commitCount": 4,
+        "codeCount": 388,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 3
+        },
+        "maxCommitProjectCommitCount": 3
+    },
+    {
+        "username": "isaacahahah",
+        "email": "47911326+isaacahahah@users.noreply.github.com",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 46
+            }
+        ],
+        "commitCount": 47,
+        "codeCount": 4179,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 46
+        },
+        "maxCommitProjectCommitCount": 46,
+        "lastCommitTime": "2025-01-18 01:43:03",
+        "lastCommitProjectName": "self-llm"
+    },
+    {
+        "username": "Unicornlyy",
+        "email": "239065750@qq.com",
+        "project": [
+            {
+                "name": "self-llm",
+                "yearGrowth": 16251,
+                "starCount": 26644,
+                "commitCount": 2
+            }
+        ],
+        "commitCount": 3,
+        "codeCount": 23137,
+        "maxCommitProject": {
+            "name": "self-llm",
+            "yearGrowth": 16251,
+            "starCount": 26644,
+            "commitCount": 2
+        },
+        "maxCommitProjectCommitCount": 2
+    },
+    {
+        "username": "Sm1les",
+        "email": "sm1les@qq.com",
+        "project": [
+            {
+                "name": "pumpkin-book",
+                "yearGrowth": 1487,
+                "starCount": 25555,
+                "commitCount": 9
+            },
+            {
+                "name": "DOPMC",
+                "yearGrowth": 34,
+                "starCount": 236,
+                "commitCount": 7
+            },
+            {
+                "name": ".github",
+                "yearGrowth": 0,
+                "starCount": 0,
+                "commitCount": 4
+            },
+            {
+                "name": "all-in-rag",
+                "yearGrowth": 2283,
+                "starCount": 2283,
+                "commitCount": 3
+            },
+            {
+                "name": "wonderful-sql",
+                "yearGrowth": 166,
+                "starCount": 931,
+                "commitCount": 2
+            },
+            {
+                "name": "daily-interview",
+                "yearGrowth": 760,
+                "starCount": 3395,
+                "commitCount": 1
+            },
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 0
+            },
+            {
+                "name": "handy-ollama",
+                "yearGrowth": 1773,
+                "starCount": 2038,
+                "commitCount": 0
+            },
+            {
+                "name": "machine-learning-toy-code",
+                "yearGrowth": 209,
+                "starCount": 923,
+                "commitCount": 0
+            },
+            {
+                "name": "llmbook",
+                "yearGrowth": 117,
+                "starCount": 117,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 36,
+        "codeCount": 975,
+        "maxCommitProject": {
+            "name": "pumpkin-book",
+            "yearGrowth": 1487,
+            "starCount": 25555,
+            "commitCount": 9
+        },
+        "maxCommitProjectCommitCount": 9,
+        "lastCommitTime": "2025-03-19 00:04:29",
+        "lastCommitProjectName": "pumpkin-book"
+    },
+    {
+        "username": "jackyzzy",
+        "email": "jacky.xupt@gmail.com",
+        "project": [
+            {
+                "name": "happy-llm",
+                "yearGrowth": 22816,
+                "starCount": 22817,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 18,
+        "maxCommitProject": {
+            "name": "happy-llm",
+            "yearGrowth": 22816,
+            "starCount": 22817,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "zxuuuustupid",
+        "email": "1521786784@qq.com",
+        "project": [
+            {
+                "name": "happy-llm",
+                "yearGrowth": 22816,
+                "starCount": 22817,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 23,
+        "maxCommitProject": {
+            "name": "happy-llm",
+            "yearGrowth": 22816,
+            "starCount": 22817,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "JX446",
+        "email": "79908287+JX446@users.noreply.github.com",
+        "project": [
+            {
+                "name": "happy-llm",
+                "yearGrowth": 22816,
+                "starCount": 22817,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 2,
+        "maxCommitProject": {
+            "name": "happy-llm",
+            "yearGrowth": 22816,
+            "starCount": 22817,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "Sheeran02",
+        "email": "77180337+Sheeran02@users.noreply.github.com",
+        "project": [
+            {
+                "name": "happy-llm",
+                "yearGrowth": 22816,
+                "starCount": 22817,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 2,
+        "maxCommitProject": {
+            "name": "happy-llm",
+            "yearGrowth": 22816,
+            "starCount": 22817,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "Hongru0306",
+        "email": "99795077+Hongru0306@users.noreply.github.com",
+        "project": [
+            {
+                "name": "tiny-universe",
+                "yearGrowth": 2397,
+                "starCount": 4160,
+                "commitCount": 16
+            },
+            {
+                "name": "happy-llm",
+                "yearGrowth": 22816,
+                "starCount": 22817,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 19,
+        "codeCount": 15076,
+        "maxCommitProject": {
+            "name": "tiny-universe",
+            "yearGrowth": 2397,
+            "starCount": 4160,
+            "commitCount": 16
+        },
+        "maxCommitProjectCommitCount": 16
+    },
+    {
+        "username": "ShaohonChen",
+        "email": "shaohon_chen@115lab.club",
+        "project": [
+            {
+                "name": "happy-llm",
+                "yearGrowth": 22816,
+                "starCount": 22817,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 742,
+        "maxCommitProject": {
+            "name": "happy-llm",
+            "yearGrowth": 22816,
+            "starCount": 22817,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1
+    },
+    {
+        "username": "xinala-781",
+        "email": "18659346852@163.com",
+        "project": [
+            {
+                "name": "hml-solutions",
+                "yearGrowth": 60,
+                "starCount": 78,
+                "commitCount": 35
+            },
+            {
+                "name": "yolo-master",
+                "yearGrowth": 265,
+                "starCount": 266,
+                "commitCount": 15
+            },
+            {
+                "name": "happy-llm",
+                "yearGrowth": 22816,
+                "starCount": 22817,
+                "commitCount": 10
+            }
+        ],
+        "commitCount": 63,
+        "codeCount": 76974,
+        "maxCommitProject": {
+            "name": "hml-solutions",
+            "yearGrowth": 60,
+            "starCount": 78,
+            "commitCount": 35
+        },
+        "maxCommitProjectCommitCount": 35,
+        "lastCommitTime": "2025-03-19 00:22:42",
+        "lastCommitProjectName": "hml-solutions"
+    },
+    {
+        "username": "xile42",
+        "email": "zpu@pku.edu.cn",
+        "project": [
+            {
+                "name": "happy-llm",
+                "yearGrowth": 22816,
+                "starCount": 22817,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 5,
+        "maxCommitProject": {
+            "name": "happy-llm",
+            "yearGrowth": 22816,
+            "starCount": 22817,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "dapeng",
+        "email": "jiapengwang@xiaomi.com",
+        "project": [
+            {
+                "name": "happy-llm",
+                "yearGrowth": 22816,
+                "starCount": 22817,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 344,
+        "maxCommitProject": {
+            "name": "happy-llm",
+            "yearGrowth": 22816,
+            "starCount": 22817,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "gift-is-coding",
+        "email": "33282030+gift-is-coding@users.noreply.github.com",
+        "project": [
+            {
+                "name": "happy-llm",
+                "yearGrowth": 22816,
+                "starCount": 22817,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 1,
+        "maxCommitProject": {
+            "name": "happy-llm",
+            "yearGrowth": 22816,
+            "starCount": 22817,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "MengYue-MK2000",
+        "email": "reaganzhang123@gmail.com",
+        "project": [
+            {
+                "name": "happy-llm",
+                "yearGrowth": 22816,
+                "starCount": 22817,
+                "commitCount": 2
+            }
+        ],
+        "commitCount": 3,
+        "codeCount": 74,
+        "maxCommitProject": {
+            "name": "happy-llm",
+            "yearGrowth": 22816,
+            "starCount": 22817,
+            "commitCount": 2
+        },
+        "maxCommitProjectCommitCount": 2
+    },
+    {
+        "username": "wasamtc",
+        "email": "81901970+wasamtc@users.noreply.github.com",
+        "project": [
+            {
+                "name": "happy-llm",
+                "yearGrowth": 22816,
+                "starCount": 22817,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 383,
+        "maxCommitProject": {
+            "name": "happy-llm",
+            "yearGrowth": 22816,
+            "starCount": 22817,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1
+    },
+    {
+        "username": "Logan Zou",
+        "email": "loganzou0421@163.com",
+        "project": [
+            {
+                "name": "happy-llm",
+                "yearGrowth": 22816,
+                "starCount": 22817,
+                "commitCount": 11
+            }
+        ],
+        "commitCount": 12,
+        "codeCount": 4043,
+        "maxCommitProject": {
+            "name": "happy-llm",
+            "yearGrowth": 22816,
+            "starCount": 22817,
+            "commitCount": 11
+        },
+        "maxCommitProjectCommitCount": 11
+    },
+    {
+        "username": "Relph1119",
+        "email": "huruifeng1202@163.com",
+        "project": [
+            {
+                "name": "resonant-soul",
+                "yearGrowth": 30,
+                "starCount": 30,
+                "commitCount": 29
+            },
+            {
+                "name": "llm-cookbook",
+                "yearGrowth": 10283,
+                "starCount": 22696,
+                "commitCount": 20
+            },
+            {
+                "name": "mcp-lite-dev",
+                "yearGrowth": 45,
+                "starCount": 45,
+                "commitCount": 14
+            },
+            {
+                "name": "statistical-learning-method-solutions-manual",
+                "yearGrowth": 237,
+                "starCount": 2002,
+                "commitCount": 9
+            }
+        ],
+        "commitCount": 76,
+        "codeCount": 34768,
+        "maxCommitProject": {
+            "name": "resonant-soul",
+            "yearGrowth": 30,
+            "starCount": 30,
+            "commitCount": 29
+        },
+        "maxCommitProjectCommitCount": 29,
+        "lastCommitTime": "2025-06-12 22:47:44",
+        "lastCommitProjectName": "llm-cookbook"
+    },
+    {
+        "username": "LinChentang",
+        "email": "1273611131@qq.com",
+        "project": [
+            {
+                "name": "llm-cookbook",
+                "yearGrowth": 10283,
+                "starCount": 22696,
+                "commitCount": 2
+            },
+            {
+                "name": "math-for-ai",
+                "yearGrowth": 231,
+                "starCount": 231,
+                "commitCount": 2
+            }
+        ],
+        "commitCount": 6,
+        "codeCount": 5952,
+        "maxCommitProject": {
+            "name": "llm-cookbook",
+            "yearGrowth": 10283,
+            "starCount": 22696,
+            "commitCount": 2
+        },
+        "maxCommitProjectCommitCount": 2
+    },
+    {
+        "username": "hiwanz",
+        "email": "princeb4d@gmail.com",
+        "project": [
+            {
+                "name": "llm-cookbook",
+                "yearGrowth": 10283,
+                "starCount": 22696,
+                "commitCount": 7
+            }
+        ],
+        "commitCount": 8,
+        "codeCount": 1860,
+        "maxCommitProject": {
+            "name": "llm-cookbook",
+            "yearGrowth": 10283,
+            "starCount": 22696,
+            "commitCount": 7
+        },
+        "maxCommitProjectCommitCount": 7
+    },
+    {
+        "username": "qiwang",
+        "email": "14494483+qiwang067@user.noreply.gitee.com",
+        "project": [
+            {
+                "name": "easy-rl",
+                "yearGrowth": 3561,
+                "starCount": 13283,
+                "commitCount": 21
+            },
+            {
+                "name": "leedl-tutorial",
+                "yearGrowth": 2163,
+                "starCount": 16145,
+                "commitCount": 6
+            }
+        ],
+        "commitCount": 29,
+        "codeCount": 534,
+        "maxCommitProject": {
+            "name": "easy-rl",
+            "yearGrowth": 3561,
+            "starCount": 13283,
+            "commitCount": 21
+        },
+        "maxCommitProjectCommitCount": 21,
+        "lastCommitTime": "2025-08-14 01:11:27",
+        "lastCommitProjectName": "easy-rl"
+    },
+    {
+        "username": "qiwang067",
+        "email": "qiwang067@163.com",
+        "project": [
+            {
+                "name": "leegenai-tutorial",
+                "yearGrowth": 131,
+                "starCount": 210,
+                "commitCount": 11
+            },
+            {
+                "name": "leedl-tutorial",
+                "yearGrowth": 2163,
+                "starCount": 16145,
+                "commitCount": 6
+            },
+            {
+                "name": "easy-rl",
+                "yearGrowth": 3561,
+                "starCount": 13283,
+                "commitCount": 6
+            }
+        ],
+        "commitCount": 26,
+        "codeCount": 93,
+        "maxCommitProject": {
+            "name": "leegenai-tutorial",
+            "yearGrowth": 131,
+            "starCount": 210,
+            "commitCount": 11
+        },
+        "maxCommitProjectCommitCount": 11,
+        "lastCommitTime": "2025-06-13 23:25:49",
+        "lastCommitProjectName": "leedl-tutorial"
+    },
+    {
+        "username": "yyysjz1997",
+        "email": "yyy1997sjz@gmail.com",
+        "project": [
+            {
+                "name": "leedl-tutorial",
+                "yearGrowth": 2163,
+                "starCount": 16145,
+                "commitCount": 2
+            },
+            {
+                "name": "leegenai-tutorial",
+                "yearGrowth": 131,
+                "starCount": 210,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 5,
+        "codeCount": 10,
+        "maxCommitProject": {
+            "name": "leedl-tutorial",
+            "yearGrowth": 2163,
+            "starCount": 16145,
+            "commitCount": 2
+        },
+        "maxCommitProjectCommitCount": 2,
+        "lastCommitTime": "2025-05-09 23:05:17",
+        "lastCommitProjectName": "leedl-tutorial"
+    },
+    {
+        "username": "lta155",
+        "email": "61408694+lta155@users.noreply.github.com",
+        "project": [
+            {
+                "name": "llm-universe",
+                "yearGrowth": 6059,
+                "starCount": 11112,
+                "commitCount": 51
+            },
+            {
+                "name": "handy-ollama",
+                "yearGrowth": 1773,
+                "starCount": 2038,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 54,
+        "codeCount": 31048,
+        "maxCommitProject": {
+            "name": "llm-universe",
+            "yearGrowth": 6059,
+            "starCount": 11112,
+            "commitCount": 51
+        },
+        "maxCommitProjectCommitCount": 51,
+        "lastCommitTime": "2025-03-08 00:48:39",
+        "lastCommitProjectName": "llm-universe"
+    },
+    {
+        "username": "XhesicaFrost",
+        "email": "142909332+XhesicaFrost@users.noreply.github.com",
+        "project": [
+            {
+                "name": "llm-universe",
+                "yearGrowth": 6059,
+                "starCount": 11112,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 1,
+        "maxCommitProject": {
+            "name": "llm-universe",
+            "yearGrowth": 6059,
+            "starCount": 11112,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "want2sleeep",
+        "email": "116346786+want2sleeep@users.noreply.github.com",
+        "project": [
+            {
+                "name": "llm-universe",
+                "yearGrowth": 6059,
+                "starCount": 11112,
+                "commitCount": 1
+            },
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 3,
+        "codeCount": 10,
+        "maxCommitProject": {
+            "name": "llm-universe",
+            "yearGrowth": 6059,
+            "starCount": 11112,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1
+    },
+    {
+        "username": "0-yy-0",
+        "email": "49327714+0-yy-0@users.noreply.github.com",
+        "project": [
+            {
+                "name": "llm-universe",
+                "yearGrowth": 6059,
+                "starCount": 11112,
+                "commitCount": 1
+            },
+            {
+                "name": "easy-vectordb",
+                "yearGrowth": 128,
+                "starCount": 128,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 4,
+        "codeCount": 47,
+        "maxCommitProject": {
+            "name": "llm-universe",
+            "yearGrowth": 6059,
+            "starCount": 11112,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1
+    },
+    {
+        "username": "JoeyRedfield",
+        "email": "82358154+JoeyRedfield@users.noreply.github.com",
+        "project": [
+            {
+                "name": "llm-universe",
+                "yearGrowth": 6059,
+                "starCount": 11112,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 131,
+        "maxCommitProject": {
+            "name": "llm-universe",
+            "yearGrowth": 6059,
+            "starCount": 11112,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "lelezhou",
+        "email": "52148873+lelezhou@users.noreply.github.com",
+        "project": [
+            {
+                "name": "llm-universe",
+                "yearGrowth": 6059,
+                "starCount": 11112,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 12789,
+        "maxCommitProject": {
+            "name": "llm-universe",
+            "yearGrowth": 6059,
+            "starCount": 11112,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "jjyaoao",
+        "email": "jjyaoao@126.com",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 333
+            },
+            {
+                "name": "handy-multi-agent",
+                "yearGrowth": 653,
+                "starCount": 665,
+                "commitCount": 41
+            },
+            {
+                "name": "resonant-soul",
+                "yearGrowth": 30,
+                "starCount": 30,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 377,
+        "codeCount": 265657,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 333
+        },
+        "maxCommitProjectCommitCount": 333,
+        "lastCommitTime": "2025-12-02 00:16:43",
+        "lastCommitProjectName": "hello-agents"
+    },
+    {
+        "username": "haoye2",
+        "email": "865178512@qq.com",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 2
+            }
+        ],
+        "commitCount": 3,
+        "codeCount": 2420,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 2
+        },
+        "maxCommitProjectCommitCount": 2
+    },
+    {
+        "username": "limingzhong61",
+        "email": "1162314270@qq.com",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 1,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "XiaoMa-PM",
+        "email": "2310325104@email.szu.edu.cn",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 5
+            }
+        ],
+        "commitCount": 6,
+        "codeCount": 30542,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 5
+        },
+        "maxCommitProjectCommitCount": 5,
+        "lastCommitTime": "2025-11-11 00:07:37",
+        "lastCommitProjectName": "hello-agents"
+    },
+    {
+        "username": "jack6249",
+        "email": "75990196+jack6249@users.noreply.github.com",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 4
+            }
+        ],
+        "commitCount": 5,
+        "codeCount": 1106,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 4
+        },
+        "maxCommitProjectCommitCount": 4,
+        "lastCommitTime": "2025-11-30 22:04:03",
+        "lastCommitProjectName": "hello-agents"
+    },
+    {
+        "username": "laoyouf",
+        "email": "qq121huang@sina.com",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 541,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0,
+        "lastCommitTime": "2025-11-25 23:02:43",
+        "lastCommitProjectName": "hello-agents"
+    },
+    {
+        "username": "1zrj",
+        "email": "819519226@qq.com",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 2
+            }
+        ],
+        "commitCount": 3,
+        "codeCount": 1170,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 2
+        },
+        "maxCommitProjectCommitCount": 2,
+        "lastCommitTime": "2025-11-26 00:32:05",
+        "lastCommitProjectName": "hello-agents"
+    },
+    {
+        "username": "chen070808",
+        "email": "chen070808@gmail.com",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 1096,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1,
+        "lastCommitTime": "2025-11-25 22:35:37",
+        "lastCommitProjectName": "hello-agents"
+    },
+    {
+        "username": "allen2000",
+        "email": "lht2008@163.com",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 1243,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "xyliu3",
+        "email": "xyliu3@trip.com",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 10
+            }
+        ],
+        "commitCount": 11,
+        "codeCount": 12271,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 10
+        },
+        "maxCommitProjectCommitCount": 10
+    },
+    {
+        "username": "Nefelibata",
+        "email": "2827867731@qq.comgit",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 14237,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0,
+        "lastCommitTime": "2025-11-24 00:52:50",
+        "lastCommitProjectName": "hello-agents"
+    },
+    {
+        "username": "megg-ops",
+        "email": "1733702342@qq.com",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 286,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0,
+        "lastCommitTime": "2025-11-24 00:32:48",
+        "lastCommitProjectName": "hello-agents"
+    },
+    {
+        "username": "sunpcm",
+        "email": "sunpcm@163.com",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 5
+            }
+        ],
+        "commitCount": 6,
+        "codeCount": 5,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 5
+        },
+        "maxCommitProjectCommitCount": 5,
+        "lastCommitTime": "2025-11-16 22:16:17",
+        "lastCommitProjectName": "hello-agents"
+    },
+    {
+        "username": "moyu026",
+        "email": "514352823@qq.com",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 18,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0,
+        "lastCommitTime": "2025-11-13 22:23:08",
+        "lastCommitProjectName": "hello-agents"
+    },
+    {
+        "username": "HeteroCat",
+        "email": "111065724+HeteroCat@users.noreply.github.com",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 57
+            }
+        ],
+        "commitCount": 58,
+        "codeCount": 35028,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 57
+        },
+        "maxCommitProjectCommitCount": 57,
+        "lastCommitTime": "2025-10-19 01:08:41",
+        "lastCommitProjectName": "hello-agents"
+    },
+    {
+        "username": "fengju0213",
+        "email": "168447269+fengju0213@users.noreply.github.com",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 17
+            },
+            {
+                "name": "handy-multi-agent",
+                "yearGrowth": 653,
+                "starCount": 665,
+                "commitCount": 8
+            }
+        ],
+        "commitCount": 27,
+        "codeCount": 66038,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 17
+        },
+        "maxCommitProjectCommitCount": 17,
+        "lastCommitTime": "2025-03-09 01:20:04",
+        "lastCommitProjectName": "handy-multi-agent"
+    },
+    {
+        "username": "lyxx2535",
+        "email": "843683531@qq.com",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 36,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1,
+        "lastCommitTime": "2025-11-09 00:49:38",
+        "lastCommitProjectName": "hello-agents"
+    },
+    {
+        "username": "zhiheng-yu",
+        "email": "63570164+zhiheng-yu@users.noreply.github.com",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 1,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0,
+        "lastCommitTime": "2025-11-08 23:28:59",
+        "lastCommitProjectName": "hello-agents"
+    },
+    {
+        "username": "yzy-fulture",
+        "email": "71256087+yzy-fulture@users.noreply.github.com",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 5,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1
+    },
+    {
+        "username": "Tasselszcx",
+        "email": "3199601798@qq.com",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 18
+            }
+        ],
+        "commitCount": 19,
+        "codeCount": 18652,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 18
+        },
+        "maxCommitProjectCommitCount": 18,
+        "lastCommitTime": "2025-11-06 04:55:00",
+        "lastCommitProjectName": "hello-agents"
+    },
+    {
+        "username": "upcuserleon",
+        "email": "1731846012@qq.com",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 2,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "stonezhl",
+        "email": "stone@drivemode.com",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 6,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "splashthelight",
+        "email": "1912285210@qq.com",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 1,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "Ethanwhh",
+        "email": "1375290542@qq.com",
+        "project": [
+            {
+                "name": "post-training-of-llms",
+                "yearGrowth": 127,
+                "starCount": 127,
+                "commitCount": 1
+            },
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 0
+            },
+            {
+                "name": "ai-hardware-robotics",
+                "yearGrowth": 256,
+                "starCount": 263,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 4,
+        "codeCount": 155,
+        "maxCommitProject": {
+            "name": "post-training-of-llms",
+            "yearGrowth": 127,
+            "starCount": 127,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1,
+        "lastCommitTime": "2025-07-27 23:28:59",
+        "lastCommitProjectName": "post-training-of-llms"
+    },
+    {
+        "username": "Andy1314Chen",
+        "email": "chenzq@mail.ustc.edu.cn",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 1,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "Sonnet1219",
+        "email": "2450174013@qq.com",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 2,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "weijia99",
+        "email": "646025053@qq.com",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 5
+            }
+        ],
+        "commitCount": 6,
+        "codeCount": 15,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 5
+        },
+        "maxCommitProjectCommitCount": 5,
+        "lastCommitTime": "2025-10-22 00:27:19",
+        "lastCommitProjectName": "hello-agents"
+    },
+    {
+        "username": "thankuyou",
+        "email": "thankuyou@thankuyoudeMacBook-Air.local",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 25,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "ThankUYou",
+        "email": "148185775+ThankUYou@users.noreply.github.com",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 1,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "thunderbolt-fire",
+        "email": "820876325@qq.com",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 453,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1
+    },
+    {
+        "username": "WHQAQ11",
+        "email": "151913535+WHQAQ11@users.noreply.github.com",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 2478,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "LuoPengcheng12138",
+        "email": "2653972504@qq.com",
+        "project": [
+            {
+                "name": "hello-agents",
+                "yearGrowth": 9827,
+                "starCount": 9827,
+                "commitCount": 5
+            }
+        ],
+        "commitCount": 6,
+        "codeCount": 92,
+        "maxCommitProject": {
+            "name": "hello-agents",
+            "yearGrowth": 9827,
+            "starCount": 9827,
+            "commitCount": 5
+        },
+        "maxCommitProjectCommitCount": 5,
+        "lastCommitTime": "2025-10-01 23:38:48",
+        "lastCommitProjectName": "hello-agents"
+    },
+    {
+        "username": "ruyiluo",
+        "email": "ruyiluo96@gmail.com",
+        "project": [
+            {
+                "name": "fun-rec",
+                "yearGrowth": 1730,
+                "starCount": 6547,
+                "commitCount": 20
+            }
+        ],
+        "commitCount": 21,
+        "codeCount": 272975,
+        "maxCommitProject": {
+            "name": "fun-rec",
+            "yearGrowth": 1730,
+            "starCount": 6547,
+            "commitCount": 20
+        },
+        "maxCommitProjectCommitCount": 20,
+        "lastCommitTime": "2025-09-16 00:25:46",
+        "lastCommitProjectName": "fun-rec"
+    },
+    {
+        "username": "bokang-ugent",
+        "email": "klinux@live.com",
+        "project": [
+            {
+                "name": "fun-rec",
+                "yearGrowth": 1730,
+                "starCount": 6547,
+                "commitCount": 23
+            }
+        ],
+        "commitCount": 24,
+        "codeCount": 6046,
+        "maxCommitProject": {
+            "name": "fun-rec",
+            "yearGrowth": 1730,
+            "starCount": 6547,
+            "commitCount": 23
+        },
+        "maxCommitProjectCommitCount": 23,
+        "lastCommitTime": "2025-09-11 05:57:25",
+        "lastCommitProjectName": "fun-rec"
+    },
+    {
+        "username": "luoruyi",
+        "email": "luoruyi@corp.netease.com",
+        "project": [
+            {
+                "name": "fun-rec",
+                "yearGrowth": 1730,
+                "starCount": 6547,
+                "commitCount": 4
+            }
+        ],
+        "commitCount": 5,
+        "codeCount": 15,
+        "maxCommitProject": {
+            "name": "fun-rec",
+            "yearGrowth": 1730,
+            "starCount": 6547,
+            "commitCount": 4
+        },
+        "maxCommitProjectCommitCount": 4,
+        "lastCommitTime": "2025-01-07 22:37:57",
+        "lastCommitProjectName": "fun-rec"
+    },
+    {
+        "username": "zhangfanTJU",
+        "email": "zhangfan.tju@gmail.com",
+        "project": [
+            {
+                "name": "so-large-lm",
+                "yearGrowth": 3038,
+                "starCount": 6325,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 1,
+        "maxCommitProject": {
+            "name": "so-large-lm",
+            "yearGrowth": 3038,
+            "starCount": 6325,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "andongBlue",
+        "email": "33241971+andongBlue@users.noreply.github.com",
+        "project": [
+            {
+                "name": "so-large-lm",
+                "yearGrowth": 3038,
+                "starCount": 6325,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 126,
+        "maxCommitProject": {
+            "name": "so-large-lm",
+            "yearGrowth": 3038,
+            "starCount": 6325,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1
+    },
+    {
+        "username": "finlay-liu",
+        "email": "finlaylyz@gmail.com",
+        "project": [
+            {
+                "name": "competition-baseline",
+                "yearGrowth": 410,
+                "starCount": 4710,
+                "commitCount": 27
+            }
+        ],
+        "commitCount": 28,
+        "codeCount": 24918,
+        "maxCommitProject": {
+            "name": "competition-baseline",
+            "yearGrowth": 410,
+            "starCount": 4710,
+            "commitCount": 27
+        },
+        "maxCommitProjectCommitCount": 27,
+        "lastCommitTime": "2025-09-21 01:39:25",
+        "lastCommitProjectName": "competition-baseline"
+    },
+    {
+        "username": "hkwuks",
+        "email": "25031515+hkwuks@users.noreply.github.com",
+        "project": [
+            {
+                "name": "tiny-universe",
+                "yearGrowth": 2397,
+                "starCount": 4160,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 10,
+        "maxCommitProject": {
+            "name": "tiny-universe",
+            "yearGrowth": 2397,
+            "starCount": 4160,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1,
+        "lastCommitTime": "2025-08-24 23:07:03",
+        "lastCommitProjectName": "tiny-universe"
+    },
+    {
+        "username": "limafang",
+        "email": "azula_fire@163.com",
+        "project": [
+            {
+                "name": "tiny-universe",
+                "yearGrowth": 2397,
+                "starCount": 4160,
+                "commitCount": 2
+            }
+        ],
+        "commitCount": 3,
+        "codeCount": 3385,
+        "maxCommitProject": {
+            "name": "tiny-universe",
+            "yearGrowth": 2397,
+            "starCount": 4160,
+            "commitCount": 2
+        },
+        "maxCommitProjectCommitCount": 2,
+        "lastCommitTime": "2025-08-12 03:02:33",
+        "lastCommitProjectName": "tiny-universe"
+    },
+    {
+        "username": "littlehorse5912",
+        "email": "zxf5912@qq.com",
+        "project": [
+            {
+                "name": "tiny-universe",
+                "yearGrowth": 2397,
+                "starCount": 4160,
+                "commitCount": 6
+            }
+        ],
+        "commitCount": 7,
+        "codeCount": 8202,
+        "maxCommitProject": {
+            "name": "tiny-universe",
+            "yearGrowth": 2397,
+            "starCount": 4160,
+            "commitCount": 6
+        },
+        "maxCommitProjectCommitCount": 6
+    },
+    {
+        "username": "ZhikangNiu",
+        "email": "73390819+ZhikangNiu@users.noreply.github.com",
+        "project": [
+            {
+                "name": "thorough-pytorch",
+                "yearGrowth": 797,
+                "starCount": 3467,
+                "commitCount": 2
+            }
+        ],
+        "commitCount": 3,
+        "codeCount": 300,
+        "maxCommitProject": {
+            "name": "thorough-pytorch",
+            "yearGrowth": 797,
+            "starCount": 3467,
+            "commitCount": 2
+        },
+        "maxCommitProjectCommitCount": 2
+    },
+    {
+        "username": "ThinkerWen",
+        "email": "59362976+ThinkerWen@users.noreply.github.com",
+        "project": [
+            {
+                "name": "thorough-pytorch",
+                "yearGrowth": 797,
+                "starCount": 3467,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 1,
+        "maxCommitProject": {
+            "name": "thorough-pytorch",
+            "yearGrowth": 797,
+            "starCount": 3467,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "xiaokongkong",
+        "email": "1187557832@qq.com",
+        "project": [
+            {
+                "name": "thorough-pytorch",
+                "yearGrowth": 797,
+                "starCount": 3467,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 2,
+        "maxCommitProject": {
+            "name": "thorough-pytorch",
+            "yearGrowth": 797,
+            "starCount": 3467,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "jiewong42",
+        "email": "wangvick@foxmail.com",
+        "project": [
+            {
+                "name": "thorough-pytorch",
+                "yearGrowth": 797,
+                "starCount": 3467,
+                "commitCount": 4
+            }
+        ],
+        "commitCount": 5,
+        "codeCount": 316,
+        "maxCommitProject": {
+            "name": "thorough-pytorch",
+            "yearGrowth": 797,
+            "starCount": 3467,
+            "commitCount": 4
+        },
+        "maxCommitProjectCommitCount": 4,
+        "lastCommitTime": "2025-02-21 22:18:38",
+        "lastCommitProjectName": "thorough-pytorch"
+    },
+    {
+        "username": "muxiaoxiong",
+        "email": "46742031+muxiaoxiong@users.noreply.github.com",
+        "project": [
+            {
+                "name": "easy-vectordb",
+                "yearGrowth": 128,
+                "starCount": 128,
+                "commitCount": 111
+            },
+            {
+                "name": "members-visualization",
+                "yearGrowth": 26,
+                "starCount": 26,
+                "commitCount": 37
+            },
+            {
+                "name": "machine-learning-toy-code",
+                "yearGrowth": 209,
+                "starCount": 923,
+                "commitCount": 30
+            },
+            {
+                "name": "daily-interview",
+                "yearGrowth": 760,
+                "starCount": 3395,
+                "commitCount": 21
+            },
+            {
+                "name": "get-job",
+                "yearGrowth": 6,
+                "starCount": 6,
+                "commitCount": 5
+            }
+        ],
+        "commitCount": 209,
+        "codeCount": 63702,
+        "maxCommitProject": {
+            "name": "easy-vectordb",
+            "yearGrowth": 128,
+            "starCount": 128,
+            "commitCount": 111
+        },
+        "maxCommitProjectCommitCount": 111
+    },
+    {
+        "username": "LiuFan-libiao",
+        "email": "2839988676@qq.com",
+        "project": [
+            {
+                "name": "daily-interview",
+                "yearGrowth": 760,
+                "starCount": 3395,
+                "commitCount": 4
+            }
+        ],
+        "commitCount": 5,
+        "codeCount": 2740,
+        "maxCommitProject": {
+            "name": "daily-interview",
+            "yearGrowth": 760,
+            "starCount": 3395,
+            "commitCount": 4
+        },
+        "maxCommitProjectCommitCount": 4
+    },
+    {
+        "username": "orivine",
+        "email": "1372114668@qq.com",
+        "project": [
+            {
+                "name": "daily-interview",
+                "yearGrowth": 760,
+                "starCount": 3395,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 862,
+        "maxCommitProject": {
+            "name": "daily-interview",
+            "yearGrowth": 760,
+            "starCount": 3395,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0,
+        "lastCommitTime": "2025-11-20 00:08:37",
+        "lastCommitProjectName": "daily-interview"
+    },
+    {
+        "username": "hscspring",
+        "email": "8091453+evil_yam@user.noreply.gitee.com",
+        "project": [
+            {
+                "name": "hugging-llm",
+                "yearGrowth": 262,
+                "starCount": 3053,
+                "commitCount": 7
+            },
+            {
+                "name": "llm-deploy",
+                "yearGrowth": 252,
+                "starCount": 369,
+                "commitCount": 3
+            }
+        ],
+        "commitCount": 12,
+        "codeCount": 1158,
+        "maxCommitProject": {
+            "name": "hugging-llm",
+            "yearGrowth": 262,
+            "starCount": 3053,
+            "commitCount": 7
+        },
+        "maxCommitProjectCommitCount": 7,
+        "lastCommitTime": "2025-02-25 22:37:23",
+        "lastCommitProjectName": "hugging-llm"
+    },
+    {
+        "username": "FutureUnreal",
+        "email": "42101210307@stu.xpu.edu.cn",
+        "project": [
+            {
+                "name": "base-nlp",
+                "yearGrowth": 76,
+                "starCount": 76,
+                "commitCount": 365
+            },
+            {
+                "name": "all-in-rag",
+                "yearGrowth": 2283,
+                "starCount": 2283,
+                "commitCount": 309
+            },
+            {
+                "name": "mcp-lite-dev",
+                "yearGrowth": 45,
+                "starCount": 45,
+                "commitCount": 2
+            }
+        ],
+        "commitCount": 679,
+        "codeCount": 962426,
+        "maxCommitProject": {
+            "name": "base-nlp",
+            "yearGrowth": 76,
+            "starCount": 76,
+            "commitCount": 365
+        },
+        "maxCommitProjectCommitCount": 365,
+        "lastCommitTime": "2025-11-22 04:55:41",
+        "lastCommitProjectName": "all-in-rag"
+    },
+    {
+        "username": "hu-qi",
+        "email": "huqi1024@gmail.com",
+        "project": [
+            {
+                "name": "wow-agent",
+                "yearGrowth": 201,
+                "starCount": 201,
+                "commitCount": 16
+            },
+            {
+                "name": "wow-rag",
+                "yearGrowth": 157,
+                "starCount": 225,
+                "commitCount": 3
+            },
+            {
+                "name": "wow-fullstack",
+                "yearGrowth": 88,
+                "starCount": 221,
+                "commitCount": 3
+            },
+            {
+                "name": "all-in-rag",
+                "yearGrowth": 2283,
+                "starCount": 2283,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 26,
+        "codeCount": 24901,
+        "maxCommitProject": {
+            "name": "wow-agent",
+            "yearGrowth": 201,
+            "starCount": 201,
+            "commitCount": 16
+        },
+        "maxCommitProjectCommitCount": 16,
+        "lastCommitTime": "2025-07-12 02:36:28",
+        "lastCommitProjectName": "wow-agent"
+    },
+    {
+        "username": "sojakaese",
+        "email": "wenjun.pan@outlook.com",
+        "project": [
+            {
+                "name": "all-in-rag",
+                "yearGrowth": 2283,
+                "starCount": 2283,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 45,
+        "maxCommitProject": {
+            "name": "all-in-rag",
+            "yearGrowth": 2283,
+            "starCount": 2283,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1
+    },
+    {
+        "username": "UncleLLD",
+        "email": "duanzhch@tju.edu.cn",
+        "project": [
+            {
+                "name": "all-in-rag",
+                "yearGrowth": 2283,
+                "starCount": 2283,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 2,
+        "maxCommitProject": {
+            "name": "all-in-rag",
+            "yearGrowth": 2283,
+            "starCount": 2283,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "AXYZdong",
+        "email": "axyzdong@gmail.com",
+        "project": [
+            {
+                "name": "handy-ollama",
+                "yearGrowth": 1773,
+                "starCount": 2038,
+                "commitCount": 68
+            }
+        ],
+        "commitCount": 69,
+        "codeCount": 4438,
+        "maxCommitProject": {
+            "name": "handy-ollama",
+            "yearGrowth": 1773,
+            "starCount": 2038,
+            "commitCount": 68
+        },
+        "maxCommitProjectCommitCount": 68,
+        "lastCommitTime": "2025-02-19 22:24:05",
+        "lastCommitProjectName": "handy-ollama"
+    },
+    {
+        "username": "kjlintong",
+        "email": "40327910+kjlintong@users.noreply.github.com",
+        "project": [
+            {
+                "name": "handy-ollama",
+                "yearGrowth": 1773,
+                "starCount": 2038,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 1,
+        "maxCommitProject": {
+            "name": "handy-ollama",
+            "yearGrowth": 1773,
+            "starCount": 2038,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "rainsubtime",
+        "email": "86906569+rainsubtime@users.noreply.github.com",
+        "project": [
+            {
+                "name": "handy-ollama",
+                "yearGrowth": 1773,
+                "starCount": 2038,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 185,
+        "maxCommitProject": {
+            "name": "handy-ollama",
+            "yearGrowth": 1773,
+            "starCount": 2038,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1
+    },
+    {
+        "username": "tomowang",
+        "email": "tomo_wang@163.com",
+        "project": [
+            {
+                "name": "handy-n8n",
+                "yearGrowth": 87,
+                "starCount": 87,
+                "commitCount": 48
+            },
+            {
+                "name": "handy-ollama",
+                "yearGrowth": 1773,
+                "starCount": 2038,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 50,
+        "codeCount": 5663,
+        "maxCommitProject": {
+            "name": "handy-n8n",
+            "yearGrowth": 87,
+            "starCount": 87,
+            "commitCount": 48
+        },
+        "maxCommitProjectCommitCount": 48,
+        "lastCommitTime": "2025-07-23 00:59:52",
+        "lastCommitProjectName": "handy-n8n"
+    },
+    {
+        "username": "RyanLin",
+        "email": "ltong9463@gmail.com",
+        "project": [
+            {
+                "name": "handy-ollama",
+                "yearGrowth": 1773,
+                "starCount": 2038,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 57,
+        "maxCommitProject": {
+            "name": "handy-ollama",
+            "yearGrowth": 1773,
+            "starCount": 2038,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "fuyueagain",
+        "email": "43753416+fuyueagain@users.noreply.github.com",
+        "project": [
+            {
+                "name": "hml-solutions",
+                "yearGrowth": 60,
+                "starCount": 78,
+                "commitCount": 5
+            },
+            {
+                "name": "handy-ollama",
+                "yearGrowth": 1773,
+                "starCount": 2038,
+                "commitCount": 2
+            },
+            {
+                "name": "self-dify",
+                "yearGrowth": 192,
+                "starCount": 209,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 11,
+        "codeCount": 204190,
+        "maxCommitProject": {
+            "name": "hml-solutions",
+            "yearGrowth": 60,
+            "starCount": 78,
+            "commitCount": 5
+        },
+        "maxCommitProjectCommitCount": 5,
+        "lastCommitTime": "2025-02-09 00:38:08",
+        "lastCommitProjectName": "handy-ollama"
+    },
+    {
+        "username": "AllYoung",
+        "email": "allyoung_362@163.com",
+        "project": [
+            {
+                "name": "handy-ollama",
+                "yearGrowth": 1773,
+                "starCount": 2038,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 3,
+        "maxCommitProject": {
+            "name": "handy-ollama",
+            "yearGrowth": 1773,
+            "starCount": 2038,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1
+    },
+    {
+        "username": "little1d",
+        "email": "2431542525@qq.com",
+        "project": [
+            {
+                "name": "llm-deploy",
+                "yearGrowth": 252,
+                "starCount": 369,
+                "commitCount": 6
+            },
+            {
+                "name": "handy-ollama",
+                "yearGrowth": 1773,
+                "starCount": 2038,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 8,
+        "codeCount": 677,
+        "maxCommitProject": {
+            "name": "llm-deploy",
+            "yearGrowth": 252,
+            "starCount": 369,
+            "commitCount": 6
+        },
+        "maxCommitProjectCommitCount": 6,
+        "lastCommitTime": "2025-02-16 02:02:09",
+        "lastCommitProjectName": "llm-deploy"
+    },
+    {
+        "username": "Tipriest",
+        "email": "a1503741059@163.com",
+        "project": [
+            {
+                "name": "handy-ollama",
+                "yearGrowth": 1773,
+                "starCount": 2038,
+                "commitCount": 2
+            }
+        ],
+        "commitCount": 3,
+        "codeCount": 237,
+        "maxCommitProject": {
+            "name": "handy-ollama",
+            "yearGrowth": 1773,
+            "starCount": 2038,
+            "commitCount": 2
+        },
+        "maxCommitProjectCommitCount": 2,
+        "lastCommitTime": "2025-02-11 22:06:34",
+        "lastCommitProjectName": "handy-ollama"
+    },
+    {
+        "username": "Springff",
+        "email": "166700944+Springff@users.noreply.github.com",
+        "project": [
+            {
+                "name": "handy-ollama",
+                "yearGrowth": 1773,
+                "starCount": 2038,
+                "commitCount": 9
+            }
+        ],
+        "commitCount": 10,
+        "codeCount": 715,
+        "maxCommitProject": {
+            "name": "handy-ollama",
+            "yearGrowth": 1773,
+            "starCount": 2038,
+            "commitCount": 9
+        },
+        "maxCommitProjectCommitCount": 9,
+        "lastCommitTime": "2025-01-20 22:42:45",
+        "lastCommitProjectName": "handy-ollama"
+    },
+    {
+        "username": "zhimin-z",
+        "email": "knightyzhao@gmail.com",
+        "project": [
+            {
+                "name": "key-book",
+                "yearGrowth": 93,
+                "starCount": 1661,
+                "commitCount": 6
+            }
+        ],
+        "commitCount": 7,
+        "codeCount": 32,
+        "maxCommitProject": {
+            "name": "key-book",
+            "yearGrowth": 93,
+            "starCount": 1661,
+            "commitCount": 6
+        },
+        "maxCommitProjectCommitCount": 6,
+        "lastCommitTime": "2025-11-10 01:54:11",
+        "lastCommitProjectName": "key-book"
+    },
+    {
+        "username": "itcharge",
+        "email": "i@itcharge.cn",
+        "project": [
+            {
+                "name": "leetcode-notes",
+                "yearGrowth": 269,
+                "starCount": 1015,
+                "commitCount": 6
+            },
+            {
+                "name": "docker-notes",
+                "yearGrowth": 23,
+                "starCount": 23,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 9,
+        "codeCount": 2058,
+        "maxCommitProject": {
+            "name": "leetcode-notes",
+            "yearGrowth": 269,
+            "starCount": 1015,
+            "commitCount": 6
+        },
+        "maxCommitProjectCommitCount": 6,
+        "lastCommitTime": "2025-09-03 00:31:58",
+        "lastCommitProjectName": "leetcode-notes"
+    },
+    {
+        "username": "kriss-spy",
+        "email": "161604749+kriss-spy@users.noreply.github.com",
+        "project": [
+            {
+                "name": "leetcode-notes",
+                "yearGrowth": 269,
+                "starCount": 1015,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 1,
+        "maxCommitProject": {
+            "name": "leetcode-notes",
+            "yearGrowth": 269,
+            "starCount": 1015,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "mba1398",
+        "email": "26516464+mba1398@users.noreply.github.com",
+        "project": [
+            {
+                "name": "wonderful-sql",
+                "yearGrowth": 166,
+                "starCount": 931,
+                "commitCount": 10
+            }
+        ],
+        "commitCount": 11,
+        "codeCount": 124,
+        "maxCommitProject": {
+            "name": "wonderful-sql",
+            "yearGrowth": 166,
+            "starCount": 931,
+            "commitCount": 10
+        },
+        "maxCommitProjectCommitCount": 10,
+        "lastCommitTime": "2025-07-25 22:19:47",
+        "lastCommitProjectName": "wonderful-sql"
+    },
+    {
+        "username": "liling",
+        "email": "liling@westlake.onaliyun.com",
+        "project": [
+            {
+                "name": "unlock-deepseek",
+                "yearGrowth": 692,
+                "starCount": 692,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 15,
+        "maxCommitProject": {
+            "name": "unlock-deepseek",
+            "yearGrowth": 692,
+            "starCount": 692,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "liu-yang-maker",
+        "email": "1668210218@qq.com",
+        "project": [
+            {
+                "name": "unlock-deepseek",
+                "yearGrowth": 692,
+                "starCount": 692,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 7,
+        "maxCommitProject": {
+            "name": "unlock-deepseek",
+            "yearGrowth": 692,
+            "starCount": 692,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1
+    },
+    {
+        "username": "linjh1118",
+        "email": "linjh1118@qq.com",
+        "project": [
+            {
+                "name": "unlock-deepseek",
+                "yearGrowth": 692,
+                "starCount": 692,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 131,
+        "maxCommitProject": {
+            "name": "unlock-deepseek",
+            "yearGrowth": 692,
+            "starCount": 692,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "Tangent-90C",
+        "email": "jianuo@e.gzhu.edu.cn",
+        "project": [
+            {
+                "name": "wow-agent",
+                "yearGrowth": 201,
+                "starCount": 201,
+                "commitCount": 24
+            },
+            {
+                "name": "unlock-deepseek",
+                "yearGrowth": 692,
+                "starCount": 692,
+                "commitCount": 7
+            },
+            {
+                "name": "wow-rag",
+                "yearGrowth": 157,
+                "starCount": 225,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 34,
+        "codeCount": 2142,
+        "maxCommitProject": {
+            "name": "wow-agent",
+            "yearGrowth": 201,
+            "starCount": 201,
+            "commitCount": 24
+        },
+        "maxCommitProjectCommitCount": 24,
+        "lastCommitTime": "2025-10-22 00:48:45",
+        "lastCommitProjectName": "wow-agent"
+    },
+    {
+        "username": "Souloki-ai",
+        "email": "zjh420281@gmail.com",
+        "project": [
+            {
+                "name": "unlock-deepseek",
+                "yearGrowth": 692,
+                "starCount": 692,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 1,
+        "maxCommitProject": {
+            "name": "unlock-deepseek",
+            "yearGrowth": 692,
+            "starCount": 692,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0,
+        "lastCommitTime": "2025-01-31 22:30:03",
+        "lastCommitProjectName": "unlock-deepseek"
+    },
+    {
+        "username": "github-actions[bot]",
+        "email": "github-actions[bot]@users.noreply.github.com",
+        "project": [
+            {
+                "name": "torch-rechub",
+                "yearGrowth": 237,
+                "starCount": 671,
+                "commitCount": 2
+            }
+        ],
+        "commitCount": 3,
+        "codeCount": 86,
+        "maxCommitProject": {
+            "name": "torch-rechub",
+            "yearGrowth": 237,
+            "starCount": 671,
+            "commitCount": 2
+        },
+        "maxCommitProjectCommitCount": 2
+    },
+    {
+        "username": "ywuenthought",
+        "email": "yifengwucms@gmail.com",
+        "project": [
+            {
+                "name": "torch-rechub",
+                "yearGrowth": 237,
+                "starCount": 671,
+                "commitCount": 9
+            }
+        ],
+        "commitCount": 10,
+        "codeCount": 725,
+        "maxCommitProject": {
+            "name": "torch-rechub",
+            "yearGrowth": 237,
+            "starCount": 671,
+            "commitCount": 9
+        },
+        "maxCommitProjectCommitCount": 9,
+        "lastCommitTime": "2025-12-08 05:35:36",
+        "lastCommitProjectName": "torch-rechub"
+    },
+    {
+        "username": "dependabot[bot]",
+        "email": "49699333+dependabot[bot]@users.noreply.github.com",
+        "project": [
+            {
+                "name": "torch-rechub",
+                "yearGrowth": 237,
+                "starCount": 671,
+                "commitCount": 16
+            }
+        ],
+        "commitCount": 17,
+        "codeCount": 39,
+        "maxCommitProject": {
+            "name": "torch-rechub",
+            "yearGrowth": 237,
+            "starCount": 671,
+            "commitCount": 16
+        },
+        "maxCommitProjectCommitCount": 16,
+        "lastCommitTime": "2025-12-09 05:21:46",
+        "lastCommitProjectName": "torch-rechub"
+    },
+    {
+        "username": "yangzhou23",
+        "email": "yangzhou23@iflytek.com",
+        "project": [
+            {
+                "name": "torch-rechub",
+                "yearGrowth": 237,
+                "starCount": 671,
+                "commitCount": 5
+            }
+        ],
+        "commitCount": 6,
+        "codeCount": 535,
+        "maxCommitProject": {
+            "name": "torch-rechub",
+            "yearGrowth": 237,
+            "starCount": 671,
+            "commitCount": 5
+        },
+        "maxCommitProjectCommitCount": 5
+    },
+    {
+        "username": "loliw",
+        "email": "qq1123894162@gmail.com",
+        "project": [
+            {
+                "name": "torch-rechub",
+                "yearGrowth": 237,
+                "starCount": 671,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 23,
+        "maxCommitProject": {
+            "name": "torch-rechub",
+            "yearGrowth": 237,
+            "starCount": 671,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "morningsky",
+        "email": "sky_lmc@foxmail.com",
+        "project": [
+            {
+                "name": "torch-rechub",
+                "yearGrowth": 237,
+                "starCount": 671,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 93,
+        "maxCommitProject": {
+            "name": "torch-rechub",
+            "yearGrowth": 237,
+            "starCount": 671,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "aut-rain",
+        "email": "2545946621@qq.com",
+        "project": [
+            {
+                "name": "handy-multi-agent",
+                "yearGrowth": 653,
+                "starCount": 665,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 360,
+        "maxCommitProject": {
+            "name": "handy-multi-agent",
+            "yearGrowth": 653,
+            "starCount": 665,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "jiang-zx",
+        "email": "2419086320@qq.com",
+        "project": [
+            {
+                "name": "handy-multi-agent",
+                "yearGrowth": 653,
+                "starCount": 665,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 5,
+        "maxCommitProject": {
+            "name": "handy-multi-agent",
+            "yearGrowth": 653,
+            "starCount": 665,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1,
+        "lastCommitTime": "2025-08-21 00:00:57",
+        "lastCommitProjectName": "handy-multi-agent"
+    },
+    {
+        "username": "YoloMao",
+        "email": "a83506677@126.com",
+        "project": [
+            {
+                "name": "handy-multi-agent",
+                "yearGrowth": 653,
+                "starCount": 665,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 10,
+        "maxCommitProject": {
+            "name": "handy-multi-agent",
+            "yearGrowth": 653,
+            "starCount": 665,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1
+    },
+    {
+        "username": "halolah",
+        "email": "295585335@qq.com",
+        "project": [
+            {
+                "name": "llm-deploy",
+                "yearGrowth": 252,
+                "starCount": 369,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 5,
+        "maxCommitProject": {
+            "name": "llm-deploy",
+            "yearGrowth": 252,
+            "starCount": 369,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "ironartisan",
+        "email": "chenyuli@bupt.edu.cn",
+        "project": [
+            {
+                "name": "awesome-compression",
+                "yearGrowth": 136,
+                "starCount": 345,
+                "commitCount": 9
+            }
+        ],
+        "commitCount": 10,
+        "codeCount": 10444,
+        "maxCommitProject": {
+            "name": "awesome-compression",
+            "yearGrowth": 136,
+            "starCount": 345,
+            "commitCount": 9
+        },
+        "maxCommitProjectCommitCount": 9,
+        "lastCommitTime": "2025-06-14 00:20:59",
+        "lastCommitProjectName": "awesome-compression"
+    },
+    {
+        "username": "mYcc-one",
+        "email": "yuchuanmu1@gmail.com",
+        "project": [
+            {
+                "name": "awesome-compression",
+                "yearGrowth": 136,
+                "starCount": 345,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 2318,
+        "maxCommitProject": {
+            "name": "awesome-compression",
+            "yearGrowth": 136,
+            "starCount": 345,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "Barca0412",
+        "email": "92302656+Barca0412@users.noreply.github.com",
+        "project": [
+            {
+                "name": "vibe-vibe",
+                "yearGrowth": 316,
+                "starCount": 316,
+                "commitCount": 2
+            }
+        ],
+        "commitCount": 3,
+        "codeCount": 8,
+        "maxCommitProject": {
+            "name": "vibe-vibe",
+            "yearGrowth": 316,
+            "starCount": 316,
+            "commitCount": 2
+        },
+        "maxCommitProjectCommitCount": 2,
+        "lastCommitTime": "2025-12-14 22:45:51",
+        "lastCommitProjectName": "vibe-vibe"
+    },
+    {
+        "username": "Eyre921",
+        "email": "eyre@hnu.edu.cn",
+        "project": [
+            {
+                "name": "vibe-vibe",
+                "yearGrowth": 316,
+                "starCount": 316,
+                "commitCount": 44
+            }
+        ],
+        "commitCount": 45,
+        "codeCount": 147761,
+        "maxCommitProject": {
+            "name": "vibe-vibe",
+            "yearGrowth": 316,
+            "starCount": 316,
+            "commitCount": 44
+        },
+        "maxCommitProjectCommitCount": 44,
+        "lastCommitTime": "2025-12-02 02:00:37",
+        "lastCommitProjectName": "vibe-vibe"
+    },
+    {
+        "username": "guohao",
+        "email": "dlMcRsTE1GmikWtRQ5zL3A+guohao@noreply.cnb.cool",
+        "project": [
+            {
+                "name": "vibe-vibe",
+                "yearGrowth": 316,
+                "starCount": 316,
+                "commitCount": 7
+            }
+        ],
+        "commitCount": 8,
+        "codeCount": 63514,
+        "maxCommitProject": {
+            "name": "vibe-vibe",
+            "yearGrowth": 316,
+            "starCount": 316,
+            "commitCount": 7
+        },
+        "maxCommitProjectCommitCount": 7,
+        "lastCommitTime": "2025-12-09 03:03:53",
+        "lastCommitProjectName": "vibe-vibe"
+    },
+    {
+        "username": "Barca",
+        "email": "barca@github.com",
+        "project": [
+            {
+                "name": "vibe-vibe",
+                "yearGrowth": 316,
+                "starCount": 316,
+                "commitCount": 4
+            }
+        ],
+        "commitCount": 5,
+        "codeCount": 31785,
+        "maxCommitProject": {
+            "name": "vibe-vibe",
+            "yearGrowth": 316,
+            "starCount": 316,
+            "commitCount": 4
+        },
+        "maxCommitProjectCommitCount": 4,
+        "lastCommitTime": "2025-12-09 03:02:28",
+        "lastCommitProjectName": "vibe-vibe"
+    },
+    {
+        "username": "eyre",
+        "email": "me@hangkangfu.cn",
+        "project": [
+            {
+                "name": "vibe-vibe",
+                "yearGrowth": 316,
+                "starCount": 316,
+                "commitCount": 3
+            }
+        ],
+        "commitCount": 4,
+        "codeCount": 2968,
+        "maxCommitProject": {
+            "name": "vibe-vibe",
+            "yearGrowth": 316,
+            "starCount": 316,
+            "commitCount": 3
+        },
+        "maxCommitProjectCommitCount": 3,
+        "lastCommitTime": "2025-12-02 01:42:03",
+        "lastCommitProjectName": "vibe-vibe"
+    },
+    {
+        "username": "johnjim0816",
+        "email": "39483938+johnjim0816@users.noreply.github.com",
+        "project": [
+            {
+                "name": "joyrl-book",
+                "yearGrowth": 175,
+                "starCount": 283,
+                "commitCount": 165
+            }
+        ],
+        "commitCount": 166,
+        "codeCount": 23671,
+        "maxCommitProject": {
+            "name": "joyrl-book",
+            "yearGrowth": 175,
+            "starCount": 283,
+            "commitCount": 165
+        },
+        "maxCommitProjectCommitCount": 165,
+        "lastCommitTime": "2025-11-15 00:19:33",
+        "lastCommitProjectName": "joyrl-book"
+    },
+    {
+        "username": "scchy",
+        "email": "296294812@qq.com",
+        "project": [
+            {
+                "name": "joyrl-book",
+                "yearGrowth": 175,
+                "starCount": 283,
+                "commitCount": 3
+            }
+        ],
+        "commitCount": 4,
+        "codeCount": 6821,
+        "maxCommitProject": {
+            "name": "joyrl-book",
+            "yearGrowth": 175,
+            "starCount": 283,
+            "commitCount": 3
+        },
+        "maxCommitProjectCommitCount": 3,
+        "lastCommitTime": "2025-10-30 00:58:43",
+        "lastCommitProjectName": "joyrl-book"
+    },
+    {
+        "username": "jayjayhust",
+        "email": "78330209+jayjayhust@users.noreply.github.com",
+        "project": [
+            {
+                "name": "joyrl-book",
+                "yearGrowth": 175,
+                "starCount": 283,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 4,
+        "maxCommitProject": {
+            "name": "joyrl-book",
+            "yearGrowth": 175,
+            "starCount": 283,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1
+    },
+    {
+        "username": "NorthBlueSky",
+        "email": "923508721@qq.com",
+        "project": [
+            {
+                "name": "yolo-master",
+                "yearGrowth": 265,
+                "starCount": 266,
+                "commitCount": 8
+            }
+        ],
+        "commitCount": 9,
+        "codeCount": 610,
+        "maxCommitProject": {
+            "name": "yolo-master",
+            "yearGrowth": 265,
+            "starCount": 266,
+            "commitCount": 8
+        },
+        "maxCommitProjectCommitCount": 8,
+        "lastCommitTime": "2025-03-29 03:31:31",
+        "lastCommitProjectName": "yolo-master"
+    },
+    {
+        "username": "Weihong-Liu",
+        "email": "63888590@qq.com",
+        "project": [
+            {
+                "name": "yolo-master",
+                "yearGrowth": 265,
+                "starCount": 266,
+                "commitCount": 15
+            },
+            {
+                "name": "algo-vis",
+                "yearGrowth": 8,
+                "starCount": 8,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 17,
+        "codeCount": 79721,
+        "maxCommitProject": {
+            "name": "yolo-master",
+            "yearGrowth": 265,
+            "starCount": 266,
+            "commitCount": 15
+        },
+        "maxCommitProjectCommitCount": 15
+    },
+    {
+        "username": "JackBaixue",
+        "email": "1045976139@qq.com",
+        "project": [
+            {
+                "name": "yolo-master",
+                "yearGrowth": 265,
+                "starCount": 266,
+                "commitCount": 3
+            },
+            {
+                "name": "hml-solutions",
+                "yearGrowth": 60,
+                "starCount": 78,
+                "commitCount": 2
+            }
+        ],
+        "commitCount": 7,
+        "codeCount": 8392,
+        "maxCommitProject": {
+            "name": "yolo-master",
+            "yearGrowth": 265,
+            "starCount": 266,
+            "commitCount": 3
+        },
+        "maxCommitProjectCommitCount": 3,
+        "lastCommitTime": "2025-03-11 22:56:49",
+        "lastCommitProjectName": "hml-solutions"
+    },
+    {
+        "username": "TingsongYu",
+        "email": "yts3221@126.com",
+        "project": [
+            {
+                "name": "yolo-master",
+                "yearGrowth": 265,
+                "starCount": 266,
+                "commitCount": 12
+            }
+        ],
+        "commitCount": 13,
+        "codeCount": 22155,
+        "maxCommitProject": {
+            "name": "yolo-master",
+            "yearGrowth": 265,
+            "starCount": 266,
+            "commitCount": 12
+        },
+        "maxCommitProjectCommitCount": 12,
+        "lastCommitTime": "2025-01-20 23:12:29",
+        "lastCommitProjectName": "yolo-master"
+    },
+    {
+        "username": "Ethan-Chen-plus",
+        "email": "84905965+Ethan-Chen-plus@users.noreply.github.com",
+        "project": [
+            {
+                "name": "ai-hardware-robotics",
+                "yearGrowth": 256,
+                "starCount": 263,
+                "commitCount": 36
+            }
+        ],
+        "commitCount": 37,
+        "codeCount": 63709,
+        "maxCommitProject": {
+            "name": "ai-hardware-robotics",
+            "yearGrowth": 256,
+            "starCount": 263,
+            "commitCount": 36
+        },
+        "maxCommitProjectCommitCount": 36,
+        "lastCommitTime": "2025-07-14 22:57:25",
+        "lastCommitProjectName": "ai-hardware-robotics"
+    },
+    {
+        "username": "muzilyd",
+        "email": "73511912+muzilyd@users.noreply.github.com",
+        "project": [
+            {
+                "name": "ai-hardware-robotics",
+                "yearGrowth": 256,
+                "starCount": 263,
+                "commitCount": 22
+            }
+        ],
+        "commitCount": 23,
+        "codeCount": 32233,
+        "maxCommitProject": {
+            "name": "ai-hardware-robotics",
+            "yearGrowth": 256,
+            "starCount": 263,
+            "commitCount": 22
+        },
+        "maxCommitProjectCommitCount": 22
+    },
+    {
+        "username": "Birchove",
+        "email": "zhaoxuanwang666@gmail.com",
+        "project": [
+            {
+                "name": "ai-hardware-robotics",
+                "yearGrowth": 256,
+                "starCount": 263,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 118,
+        "maxCommitProject": {
+            "name": "ai-hardware-robotics",
+            "yearGrowth": 256,
+            "starCount": 263,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1
+    },
+    {
+        "username": "zhangningboo",
+        "email": "zhangningbo21@mails.ucas.ac.cn",
+        "project": [
+            {
+                "name": "ai-hardware-robotics",
+                "yearGrowth": 256,
+                "starCount": 263,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 48,
+        "maxCommitProject": {
+            "name": "ai-hardware-robotics",
+            "yearGrowth": 256,
+            "starCount": 263,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1
+    },
+    {
+        "username": "lmz111111",
+        "email": "130290453+lmz111111@users.noreply.github.com",
+        "project": [
+            {
+                "name": "ai-hardware-robotics",
+                "yearGrowth": 256,
+                "starCount": 263,
+                "commitCount": 9
+            }
+        ],
+        "commitCount": 10,
+        "codeCount": 239,
+        "maxCommitProject": {
+            "name": "ai-hardware-robotics",
+            "yearGrowth": 256,
+            "starCount": 263,
+            "commitCount": 9
+        },
+        "maxCommitProjectCommitCount": 9
+    },
+    {
+        "username": "hrjtju",
+        "email": "gravitastju@gmail.com",
+        "project": [
+            {
+                "name": "math-for-ai",
+                "yearGrowth": 231,
+                "starCount": 231,
+                "commitCount": 206
+            },
+            {
+                "name": "dive-into-bishop-dl",
+                "yearGrowth": 33,
+                "starCount": 33,
+                "commitCount": 48
+            }
+        ],
+        "commitCount": 256,
+        "codeCount": 23751,
+        "maxCommitProject": {
+            "name": "math-for-ai",
+            "yearGrowth": 231,
+            "starCount": 231,
+            "commitCount": 206
+        },
+        "maxCommitProjectCommitCount": 206,
+        "lastCommitTime": "2025-06-19 00:00:19",
+        "lastCommitProjectName": "math-for-ai"
+    },
+    {
+        "username": "mypopydev",
+        "email": "barryjzhao@tencent.com",
+        "project": [
+            {
+                "name": "math-for-ai",
+                "yearGrowth": 231,
+                "starCount": 231,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 1,
+        "maxCommitProject": {
+            "name": "math-for-ai",
+            "yearGrowth": 231,
+            "starCount": 231,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "Misaki-Wang",
+        "email": "misakiwang74@gmail.com",
+        "project": [
+            {
+                "name": "math-for-ai",
+                "yearGrowth": 231,
+                "starCount": 231,
+                "commitCount": 4
+            },
+            {
+                "name": "cs336-tutorial",
+                "yearGrowth": 12,
+                "starCount": 12,
+                "commitCount": 3
+            }
+        ],
+        "commitCount": 9,
+        "codeCount": 873,
+        "maxCommitProject": {
+            "name": "math-for-ai",
+            "yearGrowth": 231,
+            "starCount": 231,
+            "commitCount": 4
+        },
+        "maxCommitProjectCommitCount": 4
+    },
+    {
+        "username": "HuBoyu021124",
+        "email": "166975544+HuBoyu021124@users.noreply.github.com",
+        "project": [
+            {
+                "name": "math-for-ai",
+                "yearGrowth": 231,
+                "starCount": 231,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 3535,
+        "maxCommitProject": {
+            "name": "math-for-ai",
+            "yearGrowth": 231,
+            "starCount": 231,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "HuBoyu1124",
+        "email": "3223563039@qq.com",
+        "project": [
+            {
+                "name": "math-for-ai",
+                "yearGrowth": 231,
+                "starCount": 231,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 38,
+        "maxCommitProject": {
+            "name": "math-for-ai",
+            "yearGrowth": 231,
+            "starCount": 231,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "ShituoMa",
+        "email": "61874427+ShituoMa@users.noreply.github.com",
+        "project": [
+            {
+                "name": "easy-nlp",
+                "yearGrowth": 16,
+                "starCount": 16,
+                "commitCount": 19
+            },
+            {
+                "name": "math-for-ai",
+                "yearGrowth": 231,
+                "starCount": 231,
+                "commitCount": 8
+            },
+            {
+                "name": "ml-for-security",
+                "yearGrowth": 68,
+                "starCount": 94,
+                "commitCount": 8
+            },
+            {
+                "name": "fun-ir",
+                "yearGrowth": 1,
+                "starCount": 1,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 40,
+        "codeCount": 16003,
+        "maxCommitProject": {
+            "name": "easy-nlp",
+            "yearGrowth": 16,
+            "starCount": 16,
+            "commitCount": 19
+        },
+        "maxCommitProjectCommitCount": 19
+    },
+    {
+        "username": "RINZERON",
+        "email": "97895332+RINZERON@users.noreply.github.com",
+        "project": [
+            {
+                "name": "fun-transformer",
+                "yearGrowth": 182,
+                "starCount": 230,
+                "commitCount": 55
+            }
+        ],
+        "commitCount": 56,
+        "codeCount": 8322,
+        "maxCommitProject": {
+            "name": "fun-transformer",
+            "yearGrowth": 182,
+            "starCount": 230,
+            "commitCount": 55
+        },
+        "maxCommitProjectCommitCount": 55,
+        "lastCommitTime": "2025-02-28 23:08:44",
+        "lastCommitProjectName": "fun-transformer"
+    },
+    {
+        "username": "Spr1ng7",
+        "email": "luoqingquan07@163.com",
+        "project": [
+            {
+                "name": "fun-transformer",
+                "yearGrowth": 182,
+                "starCount": 230,
+                "commitCount": 43
+            }
+        ],
+        "commitCount": 44,
+        "codeCount": 8199,
+        "maxCommitProject": {
+            "name": "fun-transformer",
+            "yearGrowth": 182,
+            "starCount": 230,
+            "commitCount": 43
+        },
+        "maxCommitProjectCommitCount": 43,
+        "lastCommitTime": "2025-02-11 04:07:12",
+        "lastCommitProjectName": "fun-transformer"
+    },
+    {
+        "username": "neverbiasu",
+        "email": "neverbiasu@outlook.com",
+        "project": [
+            {
+                "name": "fun-transformer",
+                "yearGrowth": 182,
+                "starCount": 230,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 35,
+        "maxCommitProject": {
+            "name": "fun-transformer",
+            "yearGrowth": 182,
+            "starCount": 230,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0,
+        "lastCommitTime": "2025-02-11 00:34:21",
+        "lastCommitProjectName": "fun-transformer"
+    },
+    {
+        "username": "liwei",
+        "email": "liliweiwei2006@163.com",
+        "project": [
+            {
+                "name": "wow-agent",
+                "yearGrowth": 201,
+                "starCount": 201,
+                "commitCount": 22
+            },
+            {
+                "name": "wow-rag",
+                "yearGrowth": 157,
+                "starCount": 225,
+                "commitCount": 1
+            },
+            {
+                "name": "wow-fullstack",
+                "yearGrowth": 88,
+                "starCount": 221,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 27,
+        "codeCount": 32665,
+        "maxCommitProject": {
+            "name": "wow-agent",
+            "yearGrowth": 201,
+            "starCount": 201,
+            "commitCount": 22
+        },
+        "maxCommitProjectCommitCount": 22,
+        "lastCommitTime": "2025-04-24 22:18:44",
+        "lastCommitProjectName": "wow-agent"
+    },
+    {
+        "username": "LChenxin",
+        "email": "91156198+LChenxin@users.noreply.github.com",
+        "project": [
+            {
+                "name": "wow-rag",
+                "yearGrowth": 157,
+                "starCount": 225,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 29,
+        "maxCommitProject": {
+            "name": "wow-rag",
+            "yearGrowth": 157,
+            "starCount": 225,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "omige",
+        "email": "59905113+omige@users.noreply.github.com",
+        "project": [
+            {
+                "name": "wow-agent",
+                "yearGrowth": 201,
+                "starCount": 201,
+                "commitCount": 7
+            },
+            {
+                "name": "wow-fullstack",
+                "yearGrowth": 88,
+                "starCount": 221,
+                "commitCount": 5
+            },
+            {
+                "name": "wow-rag",
+                "yearGrowth": 157,
+                "starCount": 225,
+                "commitCount": 0
+            },
+            {
+                "name": "whale-coin",
+                "yearGrowth": 0,
+                "starCount": 4,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 16,
+        "codeCount": 50205,
+        "maxCommitProject": {
+            "name": "wow-agent",
+            "yearGrowth": 201,
+            "starCount": 201,
+            "commitCount": 7
+        },
+        "maxCommitProjectCommitCount": 7,
+        "lastCommitTime": "2025-01-15 22:40:10",
+        "lastCommitProjectName": "wow-rag"
+    },
+    {
+        "username": "Zengyu",
+        "email": "“2633706408@qq.com”",
+        "project": [
+            {
+                "name": "smart-card-workshop",
+                "yearGrowth": 32,
+                "starCount": 32,
+                "commitCount": 1
+            },
+            {
+                "name": "algo-vis",
+                "yearGrowth": 8,
+                "starCount": 8,
+                "commitCount": 1
+            },
+            {
+                "name": "wow-fullstack",
+                "yearGrowth": 88,
+                "starCount": 221,
+                "commitCount": 0
+            },
+            {
+                "name": "code-your-own-llm",
+                "yearGrowth": 99,
+                "starCount": 99,
+                "commitCount": 0
+            },
+            {
+                "name": "video-devour",
+                "yearGrowth": 36,
+                "starCount": 36,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 7,
+        "codeCount": 57296,
+        "maxCommitProject": {
+            "name": "smart-card-workshop",
+            "yearGrowth": 32,
+            "starCount": 32,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1,
+        "lastCommitTime": "2025-11-01 02:20:45",
+        "lastCommitProjectName": "code-your-own-llm"
+    },
+    {
+        "username": "Kailigithub",
+        "email": "100wkl@163.com",
+        "project": [
+            {
+                "name": "wow-fullstack",
+                "yearGrowth": 88,
+                "starCount": 221,
+                "commitCount": 9
+            }
+        ],
+        "commitCount": 10,
+        "codeCount": 8336,
+        "maxCommitProject": {
+            "name": "wow-fullstack",
+            "yearGrowth": 88,
+            "starCount": 221,
+            "commitCount": 9
+        },
+        "maxCommitProjectCommitCount": 9,
+        "lastCommitTime": "2025-06-16 23:43:04",
+        "lastCommitProjectName": "wow-fullstack"
+    },
+    {
+        "username": "zxdwhda",
+        "email": "140284547+zxdwhda@users.noreply.github.com",
+        "project": [
+            {
+                "name": "coze-ai-assistant",
+                "yearGrowth": 187,
+                "starCount": 204,
+                "commitCount": 35
+            }
+        ],
+        "commitCount": 36,
+        "codeCount": 12575,
+        "maxCommitProject": {
+            "name": "coze-ai-assistant",
+            "yearGrowth": 187,
+            "starCount": 204,
+            "commitCount": 35
+        },
+        "maxCommitProjectCommitCount": 35,
+        "lastCommitTime": "2025-11-14 01:48:38",
+        "lastCommitProjectName": "coze-ai-assistant"
+    },
+    {
+        "username": "Zgh332358",
+        "email": "3594792139@qq.com",
+        "project": [
+            {
+                "name": "coze-ai-assistant",
+                "yearGrowth": 187,
+                "starCount": 204,
+                "commitCount": 8
+            }
+        ],
+        "commitCount": 9,
+        "codeCount": 3376,
+        "maxCommitProject": {
+            "name": "coze-ai-assistant",
+            "yearGrowth": 187,
+            "starCount": 204,
+            "commitCount": 8
+        },
+        "maxCommitProjectCommitCount": 8,
+        "lastCommitTime": "2025-12-15 22:29:54",
+        "lastCommitProjectName": "coze-ai-assistant"
+    },
+    {
+        "username": "wpcapaper",
+        "email": "crazziepaper@gmail.com",
+        "project": [
+            {
+                "name": "wow-agent",
+                "yearGrowth": 201,
+                "starCount": 201,
+                "commitCount": 6
+            }
+        ],
+        "commitCount": 7,
+        "codeCount": 94,
+        "maxCommitProject": {
+            "name": "wow-agent",
+            "yearGrowth": 201,
+            "starCount": 201,
+            "commitCount": 6
+        },
+        "maxCommitProjectCommitCount": 6,
+        "lastCommitTime": "2025-10-22 00:45:25",
+        "lastCommitProjectName": "wow-agent"
+    },
+    {
+        "username": "SMY1012",
+        "email": "dsmy1012@gmail.com",
+        "project": [
+            {
+                "name": "wow-agent",
+                "yearGrowth": 201,
+                "starCount": 201,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 8,
+        "maxCommitProject": {
+            "name": "wow-agent",
+            "yearGrowth": 201,
+            "starCount": 201,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1
+    },
+    {
+        "username": "SuTang-vain",
+        "email": "1945564086@qq.com",
+        "project": [
+            {
+                "name": "wow-agent",
+                "yearGrowth": 201,
+                "starCount": 201,
+                "commitCount": 2
+            }
+        ],
+        "commitCount": 3,
+        "codeCount": 273,
+        "maxCommitProject": {
+            "name": "wow-agent",
+            "yearGrowth": 201,
+            "starCount": 201,
+            "commitCount": 2
+        },
+        "maxCommitProjectCommitCount": 2
+    },
+    {
+        "username": "InTheFuture7",
+        "email": "2529737579@qq.com",
+        "project": [
+            {
+                "name": "wow-agent",
+                "yearGrowth": 201,
+                "starCount": 201,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 24,
+        "maxCommitProject": {
+            "name": "wow-agent",
+            "yearGrowth": 201,
+            "starCount": 201,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "galaAella",
+        "email": "68503534+galaAella@users.noreply.github.com",
+        "project": [
+            {
+                "name": "wow-agent",
+                "yearGrowth": 201,
+                "starCount": 201,
+                "commitCount": 4
+            }
+        ],
+        "commitCount": 5,
+        "codeCount": 3911,
+        "maxCommitProject": {
+            "name": "wow-agent",
+            "yearGrowth": 201,
+            "starCount": 201,
+            "commitCount": 4
+        },
+        "maxCommitProjectCommitCount": 4,
+        "lastCommitTime": "2025-02-17 00:29:29",
+        "lastCommitProjectName": "wow-agent"
+    },
+    {
+        "username": "seatayu",
+        "email": "enterwizdev@outlook.com",
+        "project": [
+            {
+                "name": "wow-agent",
+                "yearGrowth": 201,
+                "starCount": 201,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 3,
+        "maxCommitProject": {
+            "name": "wow-agent",
+            "yearGrowth": 201,
+            "starCount": 201,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "xjli360",
+        "email": "776307508@qq.com",
+        "project": [
+            {
+                "name": "hugging-vis",
+                "yearGrowth": 55,
+                "starCount": 175,
+                "commitCount": 25
+            }
+        ],
+        "commitCount": 26,
+        "codeCount": 2123,
+        "maxCommitProject": {
+            "name": "hugging-vis",
+            "yearGrowth": 55,
+            "starCount": 175,
+            "commitCount": 25
+        },
+        "maxCommitProjectCommitCount": 25,
+        "lastCommitTime": "2025-01-21 00:13:27",
+        "lastCommitProjectName": "hugging-vis"
+    },
+    {
+        "username": "生信牧小熊",
+        "email": "7594982+muxiaoxiong@user.noreply.gitee.com",
+        "project": [
+            {
+                "name": "easy-vectordb",
+                "yearGrowth": 128,
+                "starCount": 128,
+                "commitCount": 6
+            },
+            {
+                "name": "members-visualization",
+                "yearGrowth": 26,
+                "starCount": 26,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 8,
+        "codeCount": 1568,
+        "maxCommitProject": {
+            "name": "easy-vectordb",
+            "yearGrowth": 128,
+            "starCount": 128,
+            "commitCount": 6
+        },
+        "maxCommitProjectCommitCount": 6
+    },
+    {
+        "username": "Halukisan",
+        "email": "102407304+Halukisan@users.noreply.github.com",
+        "project": [
+            {
+                "name": "easy-vectordb",
+                "yearGrowth": 128,
+                "starCount": 128,
+                "commitCount": 66
+            }
+        ],
+        "commitCount": 67,
+        "codeCount": 73535,
+        "maxCommitProject": {
+            "name": "easy-vectordb",
+            "yearGrowth": 128,
+            "starCount": 128,
+            "commitCount": 66
+        },
+        "maxCommitProjectCommitCount": 66,
+        "lastCommitTime": "2025-09-12 00:04:26",
+        "lastCommitProjectName": "easy-vectordb"
+    },
+    {
+        "username": "晓 刘",
+        "email": "liuxiao@czkj1010.com",
+        "project": [
+            {
+                "name": "easy-vectordb",
+                "yearGrowth": 128,
+                "starCount": 128,
+                "commitCount": 73
+            }
+        ],
+        "commitCount": 74,
+        "codeCount": 113674,
+        "maxCommitProject": {
+            "name": "easy-vectordb",
+            "yearGrowth": 128,
+            "starCount": 128,
+            "commitCount": 73
+        },
+        "maxCommitProjectCommitCount": 73,
+        "lastCommitTime": "2025-09-12 00:03:19",
+        "lastCommitProjectName": "easy-vectordb"
+    },
+    {
+        "username": "unknown",
+        "email": "xinlong.zhao@qunarservers.com",
+        "project": [
+            {
+                "name": "easy-vectordb",
+                "yearGrowth": 128,
+                "starCount": 128,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 394,
+        "maxCommitProject": {
+            "name": "easy-vectordb",
+            "yearGrowth": 128,
+            "starCount": 128,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "dengyunsheng250",
+        "email": "62322343+dengyunsheng250@users.noreply.github.com",
+        "project": [
+            {
+                "name": "easy-vectordb",
+                "yearGrowth": 128,
+                "starCount": 128,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 1,
+        "maxCommitProject": {
+            "name": "easy-vectordb",
+            "yearGrowth": 128,
+            "starCount": 128,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "Joe-2002",
+        "email": "likechen@linchance.com",
+        "project": [
+            {
+                "name": "post-training-of-llms",
+                "yearGrowth": 127,
+                "starCount": 127,
+                "commitCount": 9
+            },
+            {
+                "name": "easy-robot",
+                "yearGrowth": 3,
+                "starCount": 3,
+                "commitCount": 9
+            }
+        ],
+        "commitCount": 20,
+        "codeCount": 9300,
+        "maxCommitProject": {
+            "name": "post-training-of-llms",
+            "yearGrowth": 127,
+            "starCount": 127,
+            "commitCount": 9
+        },
+        "maxCommitProjectCommitCount": 9,
+        "lastCommitTime": "2025-10-08 00:34:45",
+        "lastCommitProjectName": "post-training-of-llms"
+    },
+    {
+        "username": "Paroxetinez",
+        "email": "113444982+Paroxetinez@users.noreply.github.com",
+        "project": [
+            {
+                "name": "post-training-of-llms",
+                "yearGrowth": 127,
+                "starCount": 127,
+                "commitCount": 21
+            }
+        ],
+        "commitCount": 22,
+        "codeCount": 2063,
+        "maxCommitProject": {
+            "name": "post-training-of-llms",
+            "yearGrowth": 127,
+            "starCount": 127,
+            "commitCount": 21
+        },
+        "maxCommitProjectCommitCount": 21,
+        "lastCommitTime": "2025-10-07 03:39:07",
+        "lastCommitProjectName": "post-training-of-llms"
+    },
+    {
+        "username": "shuixian-jcc",
+        "email": "3429952713@qq.com",
+        "project": [
+            {
+                "name": "post-training-of-llms",
+                "yearGrowth": 127,
+                "starCount": 127,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 1,
+        "maxCommitProject": {
+            "name": "post-training-of-llms",
+            "yearGrowth": 127,
+            "starCount": 127,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "TianCai19",
+        "email": "525114566@qq.com",
+        "project": [
+            {
+                "name": "post-training-of-llms",
+                "yearGrowth": 127,
+                "starCount": 127,
+                "commitCount": 2
+            }
+        ],
+        "commitCount": 3,
+        "codeCount": 77,
+        "maxCommitProject": {
+            "name": "post-training-of-llms",
+            "yearGrowth": 127,
+            "starCount": 127,
+            "commitCount": 2
+        },
+        "maxCommitProjectCommitCount": 2,
+        "lastCommitTime": "2025-10-10 00:15:22",
+        "lastCommitProjectName": "post-training-of-llms"
+    },
+    {
+        "username": "baimuchu",
+        "email": "zhuboxiang78@outlook.com",
+        "project": [
+            {
+                "name": "post-training-of-llms",
+                "yearGrowth": 127,
+                "starCount": 127,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 397,
+        "maxCommitProject": {
+            "name": "post-training-of-llms",
+            "yearGrowth": 127,
+            "starCount": 127,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1,
+        "lastCommitTime": "2025-10-06 22:17:56",
+        "lastCommitProjectName": "post-training-of-llms"
+    },
+    {
+        "username": "Fyuan0206",
+        "email": "2401926342@qq.com",
+        "project": [
+            {
+                "name": "agentic-ai",
+                "yearGrowth": 122,
+                "starCount": 122,
+                "commitCount": 38
+            },
+            {
+                "name": "hml-solutions",
+                "yearGrowth": 60,
+                "starCount": 78,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 41,
+        "codeCount": 25950,
+        "maxCommitProject": {
+            "name": "agentic-ai",
+            "yearGrowth": 122,
+            "starCount": 122,
+            "commitCount": 38
+        },
+        "maxCommitProjectCommitCount": 38,
+        "lastCommitTime": "2025-11-04 00:20:37",
+        "lastCommitProjectName": "agentic-ai"
+    },
+    {
+        "username": "mx-pai",
+        "email": "146422771+mx-pai@users.noreply.github.com",
+        "project": [
+            {
+                "name": "agentic-ai",
+                "yearGrowth": 122,
+                "starCount": 122,
+                "commitCount": 3
+            }
+        ],
+        "commitCount": 4,
+        "codeCount": 30,
+        "maxCommitProject": {
+            "name": "agentic-ai",
+            "yearGrowth": 122,
+            "starCount": 122,
+            "commitCount": 3
+        },
+        "maxCommitProjectCommitCount": 3
+    },
+    {
+        "username": "Simuoss",
+        "email": "simuoss.sms@gmail.com",
+        "project": [
+            {
+                "name": "agentic-ai",
+                "yearGrowth": 122,
+                "starCount": 122,
+                "commitCount": 11
+            }
+        ],
+        "commitCount": 12,
+        "codeCount": 8589,
+        "maxCommitProject": {
+            "name": "agentic-ai",
+            "yearGrowth": 122,
+            "starCount": 122,
+            "commitCount": 11
+        },
+        "maxCommitProjectCommitCount": 11,
+        "lastCommitTime": "2025-11-14 00:38:04",
+        "lastCommitProjectName": "agentic-ai"
+    },
+    {
+        "username": "siyuxin",
+        "email": "1434088958@qq.com",
+        "project": [
+            {
+                "name": "llmbook",
+                "yearGrowth": 117,
+                "starCount": 117,
+                "commitCount": 11
+            }
+        ],
+        "commitCount": 12,
+        "codeCount": 96,
+        "maxCommitProject": {
+            "name": "llmbook",
+            "yearGrowth": 117,
+            "starCount": 117,
+            "commitCount": 11
+        },
+        "maxCommitProjectCommitCount": 11
+    },
+    {
+        "username": "mlw67",
+        "email": "maolinw67@gmail.com",
+        "project": [
+            {
+                "name": "code-your-own-llm",
+                "yearGrowth": 99,
+                "starCount": 99,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 1641,
+        "maxCommitProject": {
+            "name": "code-your-own-llm",
+            "yearGrowth": 99,
+            "starCount": 99,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "Li Jiaojiao",
+        "email": "jiojio@LideMacBook-Pro.local",
+        "project": [
+            {
+                "name": "code-your-own-llm",
+                "yearGrowth": 99,
+                "starCount": 99,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 583,
+        "maxCommitProject": {
+            "name": "code-your-own-llm",
+            "yearGrowth": 99,
+            "starCount": 99,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "Yuuukiii77",
+        "email": "144713070+Yuuukiii77@users.noreply.github.com",
+        "project": [
+            {
+                "name": "ai-edu-for-kids",
+                "yearGrowth": 96,
+                "starCount": 96,
+                "commitCount": 32
+            }
+        ],
+        "commitCount": 33,
+        "codeCount": 455,
+        "maxCommitProject": {
+            "name": "ai-edu-for-kids",
+            "yearGrowth": 96,
+            "starCount": 96,
+            "commitCount": 32
+        },
+        "maxCommitProjectCommitCount": 32,
+        "lastCommitTime": "2025-04-01 00:05:24",
+        "lastCommitProjectName": "ai-edu-for-kids"
+    },
+    {
+        "username": "Liyulingyue",
+        "email": "852433440@qq.com",
+        "project": [
+            {
+                "name": "desktop-pet",
+                "yearGrowth": 31,
+                "starCount": 83,
+                "commitCount": 4
+            }
+        ],
+        "commitCount": 5,
+        "codeCount": 858,
+        "maxCommitProject": {
+            "name": "desktop-pet",
+            "yearGrowth": 31,
+            "starCount": 83,
+            "commitCount": 4
+        },
+        "maxCommitProjectCommitCount": 4,
+        "lastCommitTime": "2025-09-16 22:43:08",
+        "lastCommitProjectName": "desktop-pet"
+    },
+    {
+        "username": "motewei",
+        "email": "weiqingwei_01@outlook.com",
+        "project": [
+            {
+                "name": "hml-solutions",
+                "yearGrowth": 60,
+                "starCount": 78,
+                "commitCount": 47
+            }
+        ],
+        "commitCount": 48,
+        "codeCount": 244995,
+        "maxCommitProject": {
+            "name": "hml-solutions",
+            "yearGrowth": 60,
+            "starCount": 78,
+            "commitCount": 47
+        },
+        "maxCommitProjectCommitCount": 47,
+        "lastCommitTime": "2025-09-24 01:20:21",
+        "lastCommitProjectName": "hml-solutions"
+    },
+    {
+        "username": "YoungBossX",
+        "email": "873107451@qq.com",
+        "project": [
+            {
+                "name": "hml-solutions",
+                "yearGrowth": 60,
+                "starCount": 78,
+                "commitCount": 13
+            }
+        ],
+        "commitCount": 14,
+        "codeCount": 171049,
+        "maxCommitProject": {
+            "name": "hml-solutions",
+            "yearGrowth": 60,
+            "starCount": 78,
+            "commitCount": 13
+        },
+        "maxCommitProjectCommitCount": 13
+    },
+    {
+        "username": "riannyway",
+        "email": "priest_cr@163.com",
+        "project": [
+            {
+                "name": "hml-solutions",
+                "yearGrowth": 60,
+                "starCount": 78,
+                "commitCount": 52
+            }
+        ],
+        "commitCount": 53,
+        "codeCount": 10726,
+        "maxCommitProject": {
+            "name": "hml-solutions",
+            "yearGrowth": 60,
+            "starCount": 78,
+            "commitCount": 52
+        },
+        "maxCommitProjectCommitCount": 52
+    },
+    {
+        "username": "ym-kyeV1016",
+        "email": "138840535+ym-kyeV1016@users.noreply.github.com",
+        "project": [
+            {
+                "name": "hml-solutions",
+                "yearGrowth": 60,
+                "starCount": 78,
+                "commitCount": 5
+            }
+        ],
+        "commitCount": 6,
+        "codeCount": 3549,
+        "maxCommitProject": {
+            "name": "hml-solutions",
+            "yearGrowth": 60,
+            "starCount": 78,
+            "commitCount": 5
+        },
+        "maxCommitProjectCommitCount": 5
+    },
+    {
+        "username": "hzzzzz-1",
+        "email": "3597792204@qq.com",
+        "project": [
+            {
+                "name": "mcp-lite-dev",
+                "yearGrowth": 45,
+                "starCount": 45,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 405,
+        "maxCommitProject": {
+            "name": "mcp-lite-dev",
+            "yearGrowth": 45,
+            "starCount": 45,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1,
+        "lastCommitTime": "2025-07-12 23:22:49",
+        "lastCommitProjectName": "mcp-lite-dev"
+    },
+    {
+        "username": "Zengyu Gao",
+        "email": "gaozengyu@jinsanhui.com",
+        "project": [
+            {
+                "name": "algo-vis",
+                "yearGrowth": 8,
+                "starCount": 8,
+                "commitCount": 72
+            },
+            {
+                "name": "video-devour",
+                "yearGrowth": 36,
+                "starCount": 36,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 75,
+        "codeCount": 131685,
+        "maxCommitProject": {
+            "name": "algo-vis",
+            "yearGrowth": 8,
+            "starCount": 8,
+            "commitCount": 72
+        },
+        "maxCommitProjectCommitCount": 72
+    },
+    {
+        "username": "Qingbobo",
+        "email": "304588686@qq.com",
+        "project": [
+            {
+                "name": "video-devour",
+                "yearGrowth": 36,
+                "starCount": 36,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 386,
+        "maxCommitProject": {
+            "name": "video-devour",
+            "yearGrowth": 36,
+            "starCount": 36,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "hesper",
+        "email": "hesper.l@outlook.com",
+        "project": [
+            {
+                "name": "video-devour",
+                "yearGrowth": 36,
+                "starCount": 36,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 7484,
+        "maxCommitProject": {
+            "name": "video-devour",
+            "yearGrowth": 36,
+            "starCount": 36,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1
+    },
+    {
+        "username": "sanbuphy",
+        "email": "96160062+sanbuphy@users.noreply.github.com",
+        "project": [
+            {
+                "name": "design-with-ai",
+                "yearGrowth": 35,
+                "starCount": 35,
+                "commitCount": 36
+            }
+        ],
+        "commitCount": 37,
+        "codeCount": 2801,
+        "maxCommitProject": {
+            "name": "design-with-ai",
+            "yearGrowth": 35,
+            "starCount": 35,
+            "commitCount": 36
+        },
+        "maxCommitProjectCommitCount": 36,
+        "lastCommitTime": "2025-06-03 01:46:26",
+        "lastCommitProjectName": "design-with-ai"
+    },
+    {
+        "username": "xwen111",
+        "email": "xwen2001@163.com",
+        "project": [
+            {
+                "name": "design-with-ai",
+                "yearGrowth": 35,
+                "starCount": 35,
+                "commitCount": 13
+            }
+        ],
+        "commitCount": 14,
+        "codeCount": 792,
+        "maxCommitProject": {
+            "name": "design-with-ai",
+            "yearGrowth": 35,
+            "starCount": 35,
+            "commitCount": 13
+        },
+        "maxCommitProjectCommitCount": 13,
+        "lastCommitTime": "2025-11-14 22:00:23",
+        "lastCommitProjectName": "design-with-ai"
+    },
+    {
+        "username": "LUMINOUS1229",
+        "email": "lxq19991229@gmail.com",
+        "project": [
+            {
+                "name": "design-with-ai",
+                "yearGrowth": 35,
+                "starCount": 35,
+                "commitCount": 3
+            }
+        ],
+        "commitCount": 4,
+        "codeCount": 10,
+        "maxCommitProject": {
+            "name": "design-with-ai",
+            "yearGrowth": 35,
+            "starCount": 35,
+            "commitCount": 3
+        },
+        "maxCommitProjectCommitCount": 3,
+        "lastCommitTime": "2025-11-02 22:17:41",
+        "lastCommitProjectName": "design-with-ai"
+    },
+    {
+        "username": "guojiayu-ai",
+        "email": "2024111952@stu.hit.edu.cn",
+        "project": [
+            {
+                "name": "design-with-ai",
+                "yearGrowth": 35,
+                "starCount": 35,
+                "commitCount": 8
+            }
+        ],
+        "commitCount": 9,
+        "codeCount": 763,
+        "maxCommitProject": {
+            "name": "design-with-ai",
+            "yearGrowth": 35,
+            "starCount": 35,
+            "commitCount": 8
+        },
+        "maxCommitProjectCommitCount": 8
+    },
+    {
+        "username": "fangke-justcan",
+        "email": "85973702+fangke-justcan@users.noreply.github.com",
+        "project": [
+            {
+                "name": "design-with-ai",
+                "yearGrowth": 35,
+                "starCount": 35,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 4,
+        "maxCommitProject": {
+            "name": "design-with-ai",
+            "yearGrowth": 35,
+            "starCount": 35,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "Jee Ding",
+        "email": "dinghy90@outlook.com",
+        "project": [
+            {
+                "name": "design-with-ai",
+                "yearGrowth": 35,
+                "starCount": 35,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 45,
+        "maxCommitProject": {
+            "name": "design-with-ai",
+            "yearGrowth": 35,
+            "starCount": 35,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "1iyouzhen",
+        "email": "513388380@qq.com",
+        "project": [
+            {
+                "name": "dive-into-bishop-dl",
+                "yearGrowth": 33,
+                "starCount": 33,
+                "commitCount": 288
+            },
+            {
+                "name": "med-imaging-primer",
+                "yearGrowth": 16,
+                "starCount": 16,
+                "commitCount": 9
+            }
+        ],
+        "commitCount": 299,
+        "codeCount": 2187,
+        "maxCommitProject": {
+            "name": "dive-into-bishop-dl",
+            "yearGrowth": 33,
+            "starCount": 33,
+            "commitCount": 288
+        },
+        "maxCommitProjectCommitCount": 288,
+        "lastCommitTime": "2025-11-23 05:02:18",
+        "lastCommitProjectName": "dive-into-bishop-dl"
+    },
+    {
+        "username": "Administrator",
+        "email": "yuanfu.yf@alibaba-inc.com",
+        "project": [
+            {
+                "name": "resonant-soul",
+                "yearGrowth": 30,
+                "starCount": 30,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 72,
+        "maxCommitProject": {
+            "name": "resonant-soul",
+            "yearGrowth": 30,
+            "starCount": 30,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1
+    },
+    {
+        "username": "actions-user",
+        "email": "action@github.com",
+        "project": [
+            {
+                "name": "members-visualization",
+                "yearGrowth": 26,
+                "starCount": 26,
+                "commitCount": 106
+            }
+        ],
+        "commitCount": 107,
+        "codeCount": 272401,
+        "maxCommitProject": {
+            "name": "members-visualization",
+            "yearGrowth": 26,
+            "starCount": 26,
+            "commitCount": 106
+        },
+        "maxCommitProjectCommitCount": 106,
+        "lastCommitTime": "2025-11-30 00:50:01",
+        "lastCommitProjectName": "members-visualization"
+    },
+    {
+        "username": "zhaoyue.toutiao",
+        "email": "zhaoyue.toutiao@bytedance.com",
+        "project": [
+            {
+                "name": "members-visualization",
+                "yearGrowth": 26,
+                "starCount": 26,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 25,
+        "maxCommitProject": {
+            "name": "members-visualization",
+            "yearGrowth": 26,
+            "starCount": 26,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1
+    },
+    {
+        "username": "shadowings-zy",
+        "email": "shadowingszy@outlook.com",
+        "project": [
+            {
+                "name": "members-visualization",
+                "yearGrowth": 26,
+                "starCount": 26,
+                "commitCount": 7
+            }
+        ],
+        "commitCount": 8,
+        "codeCount": 48278,
+        "maxCommitProject": {
+            "name": "members-visualization",
+            "yearGrowth": 26,
+            "starCount": 26,
+            "commitCount": 7
+        },
+        "maxCommitProjectCommitCount": 7,
+        "lastCommitTime": "2025-10-09 01:31:38",
+        "lastCommitProjectName": "members-visualization"
+    },
+    {
+        "username": "Dong237",
+        "email": "98683010+Dong237@users.noreply.github.com",
+        "project": [
+            {
+                "name": "distil-rl-introduction",
+                "yearGrowth": 16,
+                "starCount": 16,
+                "commitCount": 147
+            }
+        ],
+        "commitCount": 148,
+        "codeCount": 59671,
+        "maxCommitProject": {
+            "name": "distil-rl-introduction",
+            "yearGrowth": 16,
+            "starCount": 16,
+            "commitCount": 147
+        },
+        "maxCommitProjectCommitCount": 147,
+        "lastCommitTime": "2025-05-23 22:25:08",
+        "lastCommitProjectName": "distil-rl-introduction"
+    },
+    {
+        "username": "yuxinww",
+        "email": "584558109@qq.com",
+        "project": [
+            {
+                "name": "med-imaging-primer",
+                "yearGrowth": 16,
+                "starCount": 16,
+                "commitCount": 5
+            }
+        ],
+        "commitCount": 6,
+        "codeCount": 7297,
+        "maxCommitProject": {
+            "name": "med-imaging-primer",
+            "yearGrowth": 16,
+            "starCount": 16,
+            "commitCount": 5
+        },
+        "maxCommitProjectCommitCount": 5
+    },
+    {
+        "username": "Rainm1st",
+        "email": "azzy1234562005@outlook.com",
+        "project": [
+            {
+                "name": "med-imaging-primer",
+                "yearGrowth": 16,
+                "starCount": 16,
+                "commitCount": 6
+            }
+        ],
+        "commitCount": 7,
+        "codeCount": 1058,
+        "maxCommitProject": {
+            "name": "med-imaging-primer",
+            "yearGrowth": 16,
+            "starCount": 16,
+            "commitCount": 6
+        },
+        "maxCommitProjectCommitCount": 6
+    },
+    {
+        "username": "ACGpp",
+        "email": "15270737104@163.com",
+        "project": [
+            {
+                "name": "simple-ml-code",
+                "yearGrowth": 11,
+                "starCount": 11,
+                "commitCount": 33
+            }
+        ],
+        "commitCount": 34,
+        "codeCount": 14236,
+        "maxCommitProject": {
+            "name": "simple-ml-code",
+            "yearGrowth": 11,
+            "starCount": 11,
+            "commitCount": 33
+        },
+        "maxCommitProjectCommitCount": 33,
+        "lastCommitTime": "2025-03-23 23:15:20",
+        "lastCommitProjectName": "simple-ml-code"
+    },
+    {
+        "username": "Hoshino-wind",
+        "email": "55631528+Hoshino-wind@users.noreply.github.com",
+        "project": [
+            {
+                "name": "algo-vis",
+                "yearGrowth": 8,
+                "starCount": 8,
+                "commitCount": 4
+            }
+        ],
+        "commitCount": 5,
+        "codeCount": 2548,
+        "maxCommitProject": {
+            "name": "algo-vis",
+            "yearGrowth": 8,
+            "starCount": 8,
+            "commitCount": 4
+        },
+        "maxCommitProjectCommitCount": 4
+    },
+    {
+        "username": "Sevsnape",
+        "email": "1792447089@qq.com",
+        "project": [
+            {
+                "name": "coffee-therapy",
+                "yearGrowth": 5,
+                "starCount": 5,
+                "commitCount": 9
+            }
+        ],
+        "commitCount": 10,
+        "codeCount": 2100,
+        "maxCommitProject": {
+            "name": "coffee-therapy",
+            "yearGrowth": 5,
+            "starCount": 5,
+            "commitCount": 9
+        },
+        "maxCommitProjectCommitCount": 9,
+        "lastCommitTime": "2025-07-02 00:58:01",
+        "lastCommitProjectName": "coffee-therapy"
+    },
+    {
+        "username": "菜鸟F",
+        "email": "10691500+rookie-f@user.noreply.gitee.com",
+        "project": [
+            {
+                "name": "coffee-therapy",
+                "yearGrowth": 5,
+                "starCount": 5,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 1124,
+        "maxCommitProject": {
+            "name": "coffee-therapy",
+            "yearGrowth": 5,
+            "starCount": 5,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1
+    },
+    {
+        "username": "WangWang318",
+        "email": "88535083+WangWang318@users.noreply.github.com",
+        "project": [
+            {
+                "name": "fun-marl",
+                "yearGrowth": 0,
+                "starCount": 4,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 1,
+        "maxCommitProject": {
+            "name": "fun-marl",
+            "yearGrowth": 0,
+            "starCount": 4,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "ginkgosh",
+        "email": "xuegaoyuan@aliyun.com",
+        "project": [
+            {
+                "name": "smart-card",
+                "yearGrowth": 4,
+                "starCount": 4,
+                "commitCount": 4
+            }
+        ],
+        "commitCount": 5,
+        "codeCount": 279,
+        "maxCommitProject": {
+            "name": "smart-card",
+            "yearGrowth": 4,
+            "starCount": 4,
+            "commitCount": 4
+        },
+        "maxCommitProjectCommitCount": 4,
+        "lastCommitTime": "2025-07-15 22:31:46",
+        "lastCommitProjectName": "smart-card"
+    },
+    {
+        "username": "yaom2018",
+        "email": "yaoming2018@aliyun.com",
+        "project": [
+            {
+                "name": "smart-card",
+                "yearGrowth": 4,
+                "starCount": 4,
+                "commitCount": 1
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 0,
+        "maxCommitProject": {
+            "name": "smart-card",
+            "yearGrowth": 4,
+            "starCount": 4,
+            "commitCount": 1
+        },
+        "maxCommitProjectCommitCount": 1,
+        "lastCommitTime": "2025-07-15 22:27:37",
+        "lastCommitProjectName": "smart-card"
+    },
+    {
+        "username": "Light-City",
+        "email": "455954986@qq.com",
+        "project": [
+            {
+                "name": "smart-card",
+                "yearGrowth": 4,
+                "starCount": 4,
+                "commitCount": 0
+            },
+            {
+                "name": "university-event",
+                "yearGrowth": 0,
+                "starCount": 0,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 2,
+        "codeCount": 4,
+        "maxCommitProject": {
+            "name": "smart-card",
+            "yearGrowth": 4,
+            "starCount": 4,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0,
+        "lastCommitTime": "2025-05-14 23:58:32",
+        "lastCommitProjectName": "university-event"
+    },
+    {
+        "username": "taoyaotian",
+        "email": "taoyaotian@linchance.com",
+        "project": [
+            {
+                "name": "easy-robot",
+                "yearGrowth": 3,
+                "starCount": 3,
+                "commitCount": 12
+            }
+        ],
+        "commitCount": 13,
+        "codeCount": 7951,
+        "maxCommitProject": {
+            "name": "easy-robot",
+            "yearGrowth": 3,
+            "starCount": 3,
+            "commitCount": 12
+        },
+        "maxCommitProjectCommitCount": 12
+    },
+    {
+        "username": "TonySilva47",
+        "email": "145773853+TonySilva47@users.noreply.github.com",
+        "project": [
+            {
+                "name": "easy-robot",
+                "yearGrowth": 3,
+                "starCount": 3,
+                "commitCount": 0
+            }
+        ],
+        "commitCount": 1,
+        "codeCount": 58,
+        "maxCommitProject": {
+            "name": "easy-robot",
+            "yearGrowth": 3,
+            "starCount": 3,
+            "commitCount": 0
+        },
+        "maxCommitProjectCommitCount": 0
+    },
+    {
+        "username": "DM-llm",
+        "email": "1306574172@qq.com",
+        "project": [
+            {
+                "name": "llm-protocols-guide",
+                "yearGrowth": 1,
+                "starCount": 1,
+                "commitCount": 3
+            }
+        ],
+        "commitCount": 4,
+        "codeCount": 375,
+        "maxCommitProject": {
+            "name": "llm-protocols-guide",
+            "yearGrowth": 1,
+            "starCount": 1,
+            "commitCount": 3
+        },
+        "maxCommitProjectCommitCount": 3,
+        "lastCommitTime": "2025-06-30 23:06:48",
+        "lastCommitProjectName": "llm-protocols-guide"
+    },
+    {
+        "username": "lzdFeiFei",
+        "email": "2802486551@qq.com",
+        "project": [
+            {
+                "name": "university-event",
+                "yearGrowth": 0,
+                "starCount": 0,
+                "commitCount": 2
+            }
+        ],
+        "commitCount": 3,
+        "codeCount": 6576,
+        "maxCommitProject": {
+            "name": "university-event",
+            "yearGrowth": 0,
+            "starCount": 0,
+            "commitCount": 2
+        },
+        "maxCommitProjectCommitCount": 2,
+        "lastCommitTime": "2025-05-21 22:49:35",
+        "lastCommitProjectName": "university-event"
+    }
+]
