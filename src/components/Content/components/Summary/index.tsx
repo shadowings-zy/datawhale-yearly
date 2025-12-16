@@ -12,8 +12,10 @@ export const Summary = (props: IProps) => {
   const { data, username, show } = props;
 
   const getTitle = () => {
-    if (data && data.maxCommitProject.yearGrowth > 1000) {
-      return titleMap[TITLE_TYPE.CONTRIBUTE];
+    if (data && data.maxCommitProject.yearGrowth > 10000) {
+      return titleMap[TITLE_TYPE.WAN_CONTRIBUTE];
+    } else if (data && data.maxCommitProject.yearGrowth > 1000) {
+      return titleMap[TITLE_TYPE.QIAN_CONTRIBUTE];
     } else if (data && data.project.length > 3) {
       return titleMap[TITLE_TYPE.PROJECT];
     } else if (data && data.lastCommitTime) {

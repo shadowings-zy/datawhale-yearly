@@ -83,6 +83,7 @@ const getProjectByCommitList = (commitList) => {
   return Object.values(projectMap);
 };
 
+// 22点到次日5点的commit为深夜commit
 const getLatestTimeCommit = (commitList) => {
   const earlyMorningCommit = commitList
     .filter((item) => {
@@ -90,9 +91,11 @@ const getLatestTimeCommit = (commitList) => {
       return date.hour() <= 5;
     })
     .sort((a, b) => {
-      const dateA = dayjs(a, 'HH:mm:ss');
-      const dateB = dayjs(b, 'HH:mm:ss');
-      return dateA.isAfter(dateB);
+      const dateA = dayjs(a.date, 'HH:mm:ss');
+      const dateB = dayjs(b.date, 'HH:mm:ss');
+      const timeStampA = dateA.hour() * 3600 + dateA.minute() * 60 + dateA.second();
+      const timeStampB = dateB.hour() * 3600 + dateB.minute() * 60 + dateB.second();
+      return timeStampB - timeStampA;
     });
   const midnightCommit = commitList
     .filter((item) => {
@@ -100,9 +103,11 @@ const getLatestTimeCommit = (commitList) => {
       return date.hour() >= 22;
     })
     .sort((a, b) => {
-      const dateA = dayjs(a, 'HH:mm:ss');
-      const dateB = dayjs(b, 'HH:mm:ss');
-      return dateA.isAfter(dateB);
+      const dateA = dayjs(a.date, 'HH:mm:ss');
+      const dateB = dayjs(b.date, 'HH:mm:ss');
+      const timeStampA = dateA.hour() * 3600 + dateA.minute() * 60 + dateA.second();
+      const timeStampB = dateB.hour() * 3600 + dateB.minute() * 60 + dateB.second();
+      return timeStampB - timeStampA;
     });
   if (earlyMorningCommit.length > 0) {
     return earlyMorningCommit[0];
@@ -115,12 +120,13 @@ const convertCommitMapToTargetFormat = (commitMap) => {
   for (const username in commitMap) {
     const commitList = commitMap[username];
     const projectInfoList = getProjectByCommitList(commitList);
-    const maxCommitProject = projectInfoList.sort((a, b) => b.commitCount - a.commitCount)[0];
+    const sortedProjectInfoList = projectInfoList.sort((a, b) => b.commitCount - a.commitCount);
+    const maxCommitProject = sortedProjectInfoList[0];
     const latestTimeCommitInfo = getLatestTimeCommit(commitList);
     const item = {
       username,
       email: commitList[0].email,
-      project: projectInfoList,
+      project: sortedProjectInfoList,
       commitCount: commitList.length,
       codeCount: commitList.reduce((a, b) => a + b.codeAdditionsCount, 0),
       maxCommitProject,
