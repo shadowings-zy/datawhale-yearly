@@ -26,7 +26,7 @@ export const Contribute = (props: IProps) => {
           {` ${
             data.project.length > 3
               ? data.project
-                  .sort((a, b) => b.yearGrowth - a.yearGrowth)
+                  .sort((a, b) => b.commitCount - a.commitCount)
                   .slice(0, 3)
                   .map((item) => item.name)
                   .join('、')

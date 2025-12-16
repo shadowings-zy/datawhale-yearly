@@ -1,4 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
+import VConsole from 'vconsole';
 import Reveal from 'reveal.js';
 import 'reveal.js/dist/reveal.css';
 import 'reveal.js/dist/theme/sky.css';
@@ -14,6 +15,7 @@ import { PAGE_TYPE, SLIDE_TYPE } from '../../constants/index.ts';
 import { ContentData } from '../../constants/index.ts';
 import Volume from '../Volume/index.tsx';
 import { useWindowSize } from '../../utils/windowSize.ts';
+import { logEnvironment } from '../../utils/environmentLog.ts';
 
 const BACKGROUND_MAP = {
   [SLIDE_TYPE.DATAWHALE_INFO]: background01,
@@ -122,6 +124,13 @@ export const App = () => {
       }
     };
   }, [pageType]);
+
+  useEffect(() => {
+    if (window.location.href.includes('debug=true')) {
+      new VConsole();
+    }
+    logEnvironment();
+  }, []);
 
   if (windowInitWidth > windowInitHeight * 0.9) {
     return (
