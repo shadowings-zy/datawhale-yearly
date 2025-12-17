@@ -14,6 +14,8 @@ export const Summary = (props: IProps) => {
   const getTitle = () => {
     if (data && data.project.some((item) => item.yearGrowth > 10000)) {
       return titleMap[TITLE_TYPE.WAN_STAR_ADD_CONTRIBUTE];
+    } else if (data && data.codeCount > 10000) {
+      return titleMap[TITLE_TYPE.WAN_CODE];
     } else if (data && data.project.some((item) => item.starCount > 10000)) {
       return titleMap[TITLE_TYPE.WAN_STAR_CONTRIBUTE];
     } else if (data && data.project.some((item) => item.yearGrowth > 1000)) {
@@ -23,7 +25,7 @@ export const Summary = (props: IProps) => {
     } else if (data && data.lastCommitTime) {
       return titleMap[TITLE_TYPE.HARDWORK];
     } else if (data && data.codeCount > 1000) {
-      return titleMap[TITLE_TYPE.CODE];
+      return titleMap[TITLE_TYPE.QIAN_CODE];
     }
     return titleMap[TITLE_TYPE.DEFAULT];
   };
