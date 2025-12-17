@@ -56,7 +56,7 @@
   },
   "scripts": {
     "start": "node scripts/start.js",
-    "build": "cross-env PUBLIC_URL=https://zy-oss-sg.oss-ap-southeast-1.aliyuncs.com/SEO/datawhale-2025/ node scripts/build.js",
+    "build": "cross-env PUBLIC_URL=https://datawhale.oss-cn-hangzhou.aliyuncs.com/SEO/datawhale-2025/ node scripts/build.js",
     "format": "prettier --write ./src",
     "fetch:data": "node fetchDataScript/getYearlyData/main.js"
   },

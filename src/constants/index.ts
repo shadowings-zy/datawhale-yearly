@@ -1,9 +1,9 @@
 export const QR_CODE_URL =
-  'https://zy-oss-sg.oss-ap-southeast-1.aliyuncs.com/SEO/datawhale-2025/datawhaleYearlyQrcode2025.png';
+  'https://datawhale.oss-cn-hangzhou.aliyuncs.com/SEO/datawhale-2025/datawhaleYearlyQrcode2025.png';
 export const AUDIO_URL =
-  'https://zy-oss-sg.oss-ap-southeast-1.aliyuncs.com/SEO/datawhale-2025/datawhaleYearlyAudio2025.mp3';
+  'https://datawhale.oss-cn-hangzhou.aliyuncs.com/SEO/datawhale-2025/datawhaleYearlyAudio2025.mp3';
 export const USER_DATA_URL =
-  'https://zy-oss-sg.oss-ap-southeast-1.aliyuncs.com/SEO/datawhale-2025/datawhaleYearlyData2025.json';
+  'https://datawhale.oss-cn-hangzhou.aliyuncs.com/SEO/datawhale-2025/datawhaleYearlyData2025.json';
 
 export enum SLIDE_TYPE {
   CONTRIBUTE = 'CONTRIBUTE', // 贡献了几个项目，提交了多少commit，提交了多少代码
