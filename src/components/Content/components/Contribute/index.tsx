@@ -34,7 +34,7 @@ export const Contribute = (props: IProps) => {
           } `}
         </span>
         {data.project.length > 3 ? ' 等等' : ''}
-        ，每一个项目都是挑战与机遇并存的试炼场。从最初的构思到最终的项目落地，你的智慧与汗水全程倾注，为项目的成长注入强劲动力。
+        ，每个项目都是挑战与机遇并存的试炼场。你的智慧与汗水全程倾注，为项目的成长注入强劲动力。
       </div>
       <div
         className={`content-text animate__animated ${show ? 'animate-delay-2100ms animate__zoomIn' : 'animate__fadeOut'}`}
@@ -42,7 +42,7 @@ export const Contribute = (props: IProps) => {
         回顾2025年，你总计提交了
         <span className="content-text-primary">{` ${data.commitCount} `}</span>次 commit，编写了
         <span className="content-text-primary">{` ${data.codeCount} `}</span>
-        行代码，每一次提交都是你推进项目的坚实足迹，它们凝聚成坚实的阶梯，托举起优质的项目，为每一位学习者输送宝贵价值。
+        行代码，每一次提交都是你推进项目的坚实足迹，它们凝聚成坚实的阶梯，托举起优质的项目，为每一位学习者输送宝贵的财富。
       </div>
     </>
   );

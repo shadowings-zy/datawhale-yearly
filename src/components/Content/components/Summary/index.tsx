@@ -12,11 +12,13 @@ export const Summary = (props: IProps) => {
   const { data, username, show } = props;
 
   const getTitle = () => {
-    if (data && data.maxCommitProject.yearGrowth > 10000) {
-      return titleMap[TITLE_TYPE.WAN_CONTRIBUTE];
-    } else if (data && data.maxCommitProject.yearGrowth > 1000) {
-      return titleMap[TITLE_TYPE.QIAN_CONTRIBUTE];
-    } else if (data && data.project.length > 3) {
+    if (data && data.project.some((item) => item.yearGrowth > 10000)) {
+      return titleMap[TITLE_TYPE.WAN_STAR_ADD_CONTRIBUTE];
+    } else if (data && data.project.some((item) => item.starCount > 10000)) {
+      return titleMap[TITLE_TYPE.WAN_STAR_CONTRIBUTE];
+    } else if (data && data.project.some((item) => item.yearGrowth > 1000)) {
+      return titleMap[TITLE_TYPE.QIAN_STAR_ADD_CONTRIBUTE];
+    } else if (data && data.project.length >= 3) {
       return titleMap[TITLE_TYPE.PROJECT];
     } else if (data && data.lastCommitTime) {
       return titleMap[TITLE_TYPE.HARDWORK];
@@ -31,7 +33,7 @@ export const Summary = (props: IProps) => {
       <div
         className={`content-text animate__animated ${show ? 'animate-delay-700ms animate__zoomIn' : 'animate__fadeOut'}`}
       >
-        在过去这一年，我们携手在开源学习的浪潮中奋勇竞渡，每位伙伴用自己的力量为 Datawhale 的成长添薪续力。
+        在过去这一年，我们携手在开源学习的浪潮中奋勇竞渡，每位伙伴都用自己的力量为 Datawhale 的成长添薪续力。
       </div>
       <div
         className={`content-text animate__animated ${show ? 'animate-delay-1400ms animate__zoomIn' : 'animate__fadeOut'}`}

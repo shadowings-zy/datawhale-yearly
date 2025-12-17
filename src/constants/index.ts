@@ -21,6 +21,7 @@ export enum PAGE_TYPE {
 export interface ProjectData {
   name: string;
   yearGrowth: number;
+  starCount: number;
   commitCount: number;
 }
 
@@ -37,21 +38,23 @@ export interface ContentData {
 }
 
 export enum TITLE_TYPE {
-  WAN_CONTRIBUTE = 'WAN_CONTRIBUTE', // 参与项目star数增长超过10000
-  QIAN_CONTRIBUTE = 'QIAN_CONTRIBUTE', // 参与项目star数增长超过1000
+  WAN_STAR_ADD_CONTRIBUTE = 'WAN_STAR_ADD_CONTRIBUTE', // 参与项目star数增长超过10000
+  WAN_STAR_CONTRIBUTE = 'WAN_STAR_CONTRIBUTE', // 参与过超过10000star的项目
+  QIAN_STAR_ADD_CONTRIBUTE = 'QIAN_STAR_ADD_CONTRIBUTE', // 参与项目star数增长超过1000
   PROJECT = 'PROJECT', // 参与的项目超过3个
   CODE = 'CODE', // 提交代码超过1000行
   HARDWORK = 'HARDWORK', // 在较晚时间提交过代码
-  DEFAULT = 'DEFAULT' // 总结
+  DEFAULT = 'DEFAULT' // 默认
 }
 
 export const titleMap = {
-  [TITLE_TYPE.WAN_CONTRIBUTE]: '万星闪耀领航员', // 参与项目star数增长超过10000
-  [TITLE_TYPE.QIAN_CONTRIBUTE]: '千星闪耀领航员', // 参与项目star数增长超过1000
-  [TITLE_TYPE.PROJECT]: '跨项目贡献达人', // 参与的项目超过3个
+  [TITLE_TYPE.WAN_STAR_ADD_CONTRIBUTE]: '万星闪耀领航员', // 参与项目star数增长超过10000
+  [TITLE_TYPE.WAN_STAR_CONTRIBUTE]: '万星项目贡献者', // 参与过超过10000star的项目
+  [TITLE_TYPE.QIAN_STAR_ADD_CONTRIBUTE]: '千星闪耀领航员', // 参与项目star数增长超过1000
+  [TITLE_TYPE.PROJECT]: '多项目贡献达人', // 参与的项目超过3个
   [TITLE_TYPE.CODE]: '硬核编码贡献者', // 提交代码超过1000行
   [TITLE_TYPE.HARDWORK]: '深夜代码奋斗者', // 在较晚时间提交过代码
-  [TITLE_TYPE.DEFAULT]: '开源学习同行者' // 总结
+  [TITLE_TYPE.DEFAULT]: '开源学习同行者' // 默认
 };
 
 export interface SlideData {

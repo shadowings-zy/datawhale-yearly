@@ -23,7 +23,7 @@ export const Project = (props: IProps) => {
         <span className="content-text-primary">
           {` ${data.project.reduce((acc, item) => acc + item.yearGrowth, 0)} `}
         </span>
-        颗 Star，每一次 Star 的跳动，都是项目成长的硬核动力。在新的一年，愿这些星光继续闪耀，引领项目迈向更加广阔的天地。
+        颗 Star，每一次 Star 的跳动，都是项目成长的动力。在新的一年，愿这些星光继续闪耀，引领项目迈向更加广阔的天地。
       </div>
     </>
   );

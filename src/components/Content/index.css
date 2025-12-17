@@ -7,15 +7,16 @@
 
 .slide-content-area {
   width: 85%;
-  height: 75%;
+  min-height: 60%;
+  max-height: 75%;
   background: rgba(255, 255, 255, 0.8);
   border-radius: 12px;
-  padding: 24px;
+  padding: 36px 24px;
   text-align: left;
   position: relative;
 }
 
-@media (max-height: 700px) {
+@media (max-height: 739px) {
   .content-text {
     color: #000;
     font-size: 18px;
@@ -27,7 +28,7 @@
     color: #e7a217;
     font-size: 18px;
     font-weight: bold;
-    line-height: 18px;
+    line-height: 28px;
   }
 
   .slide-content-summary-area {
@@ -44,9 +45,9 @@
   .content-text-summary-title {
     height: 100px;
     color: #e7a217;
-    font-size: 32px;
+    font-size: 28px;
     font-weight: bold;
-    line-height: 120px;
+    line-height: 80px;
     text-align: center;
     width: 100%;
     margin-bottom: 24px;
@@ -80,7 +81,7 @@
   }
 }
 
-@media (min-height: 701px) {
+@media (min-height: 740px) {
   .content-text {
     color: #000;
     font-size: 20px;
@@ -131,8 +132,8 @@
 
   .content-text-summary-qrcode {
     border-radius: 4px;
-    width: 120px;
-    height: 120px;
+    width: 100px;
+    height: 100px;
     background-size: 100% 100%;
   }
 

@@ -5,9 +5,9 @@
         "project": [
             {
                 "name": "torch-rechub",
-                "yearGrowth": 237,
-                "starCount": 671,
-                "commitCount": 144
+                "yearGrowth": 239,
+                "starCount": 673,
+                "commitCount": 145
             },
             {
                 "name": "med-imaging-primer",
@@ -29,20 +29,20 @@
             },
             {
                 "name": "daily-interview",
-                "yearGrowth": 760,
-                "starCount": 3395,
+                "yearGrowth": 765,
+                "starCount": 3400,
                 "commitCount": 11
             }
         ],
-        "commitCount": 271,
-        "codeCount": 235637,
+        "commitCount": 272,
+        "codeCount": 237623,
         "maxCommitProject": {
             "name": "torch-rechub",
-            "yearGrowth": 237,
-            "starCount": 671,
-            "commitCount": 144
+            "yearGrowth": 239,
+            "starCount": 673,
+            "commitCount": 145
         },
-        "maxCommitProjectCommitCount": 144,
+        "maxCommitProjectCommitCount": 145,
         "lastCommitTime": "2025-03-31 05:44:58",
         "lastCommitProjectName": "torch-rechub"
     },
@@ -52,14 +52,14 @@
         "project": [
             {
                 "name": "llm-universe",
-                "yearGrowth": 6059,
-                "starCount": 11112,
+                "yearGrowth": 6072,
+                "starCount": 11125,
                 "commitCount": 0
             },
             {
                 "name": "whale-quant",
-                "yearGrowth": 1080,
-                "starCount": 1814,
+                "yearGrowth": 1082,
+                "starCount": 1816,
                 "commitCount": 0
             }
         ],
@@ -67,8 +67,8 @@
         "codeCount": 12,
         "maxCommitProject": {
             "name": "llm-universe",
-            "yearGrowth": 6059,
-            "starCount": 11112,
+            "yearGrowth": 6072,
+            "starCount": 11125,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -79,14 +79,14 @@
         "project": [
             {
                 "name": "happy-llm",
-                "yearGrowth": 22816,
-                "starCount": 22817,
+                "yearGrowth": 22856,
+                "starCount": 22857,
                 "commitCount": 131
             },
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 118
             },
             {
@@ -97,8 +97,8 @@
             },
             {
                 "name": "tiny-universe",
-                "yearGrowth": 2397,
-                "starCount": 4160,
+                "yearGrowth": 2401,
+                "starCount": 4164,
                 "commitCount": 0
             }
         ],
@@ -106,8 +106,8 @@
         "codeCount": 154046,
         "maxCommitProject": {
             "name": "happy-llm",
-            "yearGrowth": 22816,
-            "starCount": 22817,
+            "yearGrowth": 22856,
+            "starCount": 22857,
             "commitCount": 131
         },
         "maxCommitProjectCommitCount": 131,
@@ -120,20 +120,20 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 9
             },
             {
                 "name": "post-training-of-llms",
-                "yearGrowth": 127,
-                "starCount": 127,
+                "yearGrowth": 128,
+                "starCount": 128,
                 "commitCount": 1
             },
             {
                 "name": "tiny-universe",
-                "yearGrowth": 2397,
-                "starCount": 4160,
+                "yearGrowth": 2401,
+                "starCount": 4164,
                 "commitCount": 0
             }
         ],
@@ -141,8 +141,8 @@
         "codeCount": 8755,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 9
         },
         "maxCommitProjectCommitCount": 9,
@@ -161,14 +161,14 @@
             },
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 47
             },
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 18
             },
             {
@@ -179,8 +179,8 @@
             },
             {
                 "name": "handy-multi-agent",
-                "yearGrowth": 653,
-                "starCount": 665,
+                "yearGrowth": 656,
+                "starCount": 668,
                 "commitCount": 7
             }
         ],
@@ -202,8 +202,8 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 2
             },
             {
@@ -217,8 +217,8 @@
         "codeCount": 2472,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 2
         },
         "maxCommitProjectCommitCount": 2,
@@ -231,8 +231,8 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 8
             },
             {
@@ -246,8 +246,8 @@
         "codeCount": 6680,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 8
         },
         "maxCommitProjectCommitCount": 8,
@@ -260,14 +260,14 @@
         "project": [
             {
                 "name": "happy-llm",
-                "yearGrowth": 22816,
-                "starCount": 22817,
+                "yearGrowth": 22856,
+                "starCount": 22857,
                 "commitCount": 52
             },
             {
                 "name": "llm-universe",
-                "yearGrowth": 6059,
-                "starCount": 11112,
+                "yearGrowth": 6072,
+                "starCount": 11125,
                 "commitCount": 7
             },
             {
@@ -278,14 +278,14 @@
             },
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 1
             },
             {
                 "name": "llm-cookbook",
-                "yearGrowth": 10283,
-                "starCount": 22696,
+                "yearGrowth": 10299,
+                "starCount": 22712,
                 "commitCount": 1
             }
         ],
@@ -293,8 +293,8 @@
         "codeCount": 14011,
         "maxCommitProject": {
             "name": "happy-llm",
-            "yearGrowth": 22816,
-            "starCount": 22817,
+            "yearGrowth": 22856,
+            "starCount": 22857,
             "commitCount": 52
         },
         "maxCommitProjectCommitCount": 52,
@@ -307,8 +307,8 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 0
             }
         ],
@@ -316,8 +316,8 @@
         "codeCount": 2,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -328,8 +328,8 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 5
             }
         ],
@@ -337,8 +337,8 @@
         "codeCount": 1198,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 5
         },
         "maxCommitProjectCommitCount": 5
@@ -349,8 +349,8 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 23
             }
         ],
@@ -358,8 +358,8 @@
         "codeCount": 3342,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 23
         },
         "maxCommitProjectCommitCount": 23,
@@ -372,8 +372,8 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 0
             }
         ],
@@ -381,8 +381,8 @@
         "codeCount": 9,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0,
@@ -395,8 +395,8 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 15
             }
         ],
@@ -404,8 +404,8 @@
         "codeCount": 1779,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 15
         },
         "maxCommitProjectCommitCount": 15,
@@ -418,8 +418,8 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 5
             }
         ],
@@ -427,8 +427,8 @@
         "codeCount": 43156,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 5
         },
         "maxCommitProjectCommitCount": 5
@@ -439,8 +439,8 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 2
             }
         ],
@@ -448,8 +448,8 @@
         "codeCount": 391,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 2
         },
         "maxCommitProjectCommitCount": 2,
@@ -462,8 +462,8 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 1
             }
         ],
@@ -471,8 +471,8 @@
         "codeCount": 1355,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 1
         },
         "maxCommitProjectCommitCount": 1
@@ -483,14 +483,14 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 2
             },
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 0
             }
         ],
@@ -498,8 +498,8 @@
         "codeCount": 11238,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 2
         },
         "maxCommitProjectCommitCount": 2
@@ -510,8 +510,8 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 0
             }
         ],
@@ -519,8 +519,8 @@
         "codeCount": 1,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -531,20 +531,20 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 8
             },
             {
                 "name": "happy-llm",
-                "yearGrowth": 22816,
-                "starCount": 22817,
+                "yearGrowth": 22856,
+                "starCount": 22857,
                 "commitCount": 3
             },
             {
                 "name": "thorough-pytorch",
-                "yearGrowth": 797,
-                "starCount": 3467,
+                "yearGrowth": 799,
+                "starCount": 3469,
                 "commitCount": 0
             }
         ],
@@ -552,8 +552,8 @@
         "codeCount": 3262,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 8
         },
         "maxCommitProjectCommitCount": 8,
@@ -566,8 +566,8 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 0
             }
         ],
@@ -575,8 +575,8 @@
         "codeCount": 41,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0,
@@ -589,14 +589,14 @@
         "project": [
             {
                 "name": "llm-universe",
-                "yearGrowth": 6059,
-                "starCount": 11112,
+                "yearGrowth": 6072,
+                "starCount": 11125,
                 "commitCount": 11
             },
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 6
             },
             {
@@ -607,8 +607,8 @@
             },
             {
                 "name": "happy-llm",
-                "yearGrowth": 22816,
-                "starCount": 22817,
+                "yearGrowth": 22856,
+                "starCount": 22857,
                 "commitCount": 0
             }
         ],
@@ -616,8 +616,8 @@
         "codeCount": 16923,
         "maxCommitProject": {
             "name": "llm-universe",
-            "yearGrowth": 6059,
-            "starCount": 11112,
+            "yearGrowth": 6072,
+            "starCount": 11125,
             "commitCount": 11
         },
         "maxCommitProjectCommitCount": 11,
@@ -630,8 +630,8 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 8
             },
             {
@@ -645,8 +645,8 @@
         "codeCount": 1735,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 8
         },
         "maxCommitProjectCommitCount": 8,
@@ -677,14 +677,14 @@
             },
             {
                 "name": "self-dify",
-                "yearGrowth": 192,
-                "starCount": 209,
+                "yearGrowth": 193,
+                "starCount": 210,
                 "commitCount": 9
             },
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 0
             }
         ],
@@ -706,8 +706,8 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 1
             }
         ],
@@ -715,8 +715,8 @@
         "codeCount": 140,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 1
         },
         "maxCommitProjectCommitCount": 1
@@ -727,8 +727,8 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 0
             }
         ],
@@ -736,8 +736,8 @@
         "codeCount": 6,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -748,8 +748,8 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 6
             }
         ],
@@ -757,8 +757,8 @@
         "codeCount": 490,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 6
         },
         "maxCommitProjectCommitCount": 6
@@ -769,8 +769,8 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 2
             }
         ],
@@ -778,8 +778,8 @@
         "codeCount": 2334,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 2
         },
         "maxCommitProjectCommitCount": 2
@@ -790,8 +790,8 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 0
             }
         ],
@@ -799,8 +799,8 @@
         "codeCount": 346,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -823,14 +823,14 @@
             },
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 2
             },
             {
                 "name": "all-in-rag",
-                "yearGrowth": 2283,
-                "starCount": 2283,
+                "yearGrowth": 2292,
+                "starCount": 2292,
                 "commitCount": 0
             }
         ],
@@ -852,8 +852,8 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 4
             }
         ],
@@ -861,8 +861,8 @@
         "codeCount": 191,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 4
         },
         "maxCommitProjectCommitCount": 4
@@ -873,8 +873,8 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 0
             }
         ],
@@ -882,8 +882,8 @@
         "codeCount": 1,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -900,14 +900,14 @@
             },
             {
                 "name": "learn-python-the-smart-way-v2",
-                "yearGrowth": 120,
-                "starCount": 357,
+                "yearGrowth": 121,
+                "starCount": 358,
                 "commitCount": 6
             },
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 5
             }
         ],
@@ -929,8 +929,8 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 1
             },
             {
@@ -944,8 +944,8 @@
         "codeCount": 268,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 1
         },
         "maxCommitProjectCommitCount": 1,
@@ -958,8 +958,8 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 25
             }
         ],
@@ -967,8 +967,8 @@
         "codeCount": 371,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 25
         },
         "maxCommitProjectCommitCount": 25,
@@ -987,8 +987,8 @@
             },
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 2
             }
         ],
@@ -1022,8 +1022,8 @@
             },
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 17
             }
         ],
@@ -1045,8 +1045,8 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 0
             }
         ],
@@ -1054,8 +1054,8 @@
         "codeCount": 115,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -1066,8 +1066,8 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 0
             }
         ],
@@ -1075,8 +1075,8 @@
         "codeCount": 185,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -1087,8 +1087,8 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 3
             }
         ],
@@ -1096,8 +1096,8 @@
         "codeCount": 388,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 3
         },
         "maxCommitProjectCommitCount": 3
@@ -1108,8 +1108,8 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 46
             }
         ],
@@ -1117,8 +1117,8 @@
         "codeCount": 4179,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 46
         },
         "maxCommitProjectCommitCount": 46,
@@ -1131,8 +1131,8 @@
         "project": [
             {
                 "name": "self-llm",
-                "yearGrowth": 16251,
-                "starCount": 26644,
+                "yearGrowth": 16284,
+                "starCount": 26677,
                 "commitCount": 2
             }
         ],
@@ -1140,8 +1140,8 @@
         "codeCount": 23137,
         "maxCommitProject": {
             "name": "self-llm",
-            "yearGrowth": 16251,
-            "starCount": 26644,
+            "yearGrowth": 16284,
+            "starCount": 26677,
             "commitCount": 2
         },
         "maxCommitProjectCommitCount": 2
@@ -1150,6 +1150,12 @@
         "username": "Sm1les",
         "email": "sm1les@qq.com",
         "project": [
+            {
+                "name": ".github",
+                "yearGrowth": 0,
+                "starCount": 0,
+                "commitCount": 12
+            },
             {
                 "name": "pumpkin-book",
                 "yearGrowth": 1487,
@@ -1163,39 +1169,33 @@
                 "commitCount": 7
             },
             {
-                "name": ".github",
-                "yearGrowth": 0,
-                "starCount": 0,
-                "commitCount": 4
-            },
-            {
                 "name": "all-in-rag",
-                "yearGrowth": 2283,
-                "starCount": 2283,
+                "yearGrowth": 2292,
+                "starCount": 2292,
                 "commitCount": 3
             },
             {
                 "name": "wonderful-sql",
-                "yearGrowth": 166,
-                "starCount": 931,
+                "yearGrowth": 168,
+                "starCount": 933,
                 "commitCount": 2
             },
             {
                 "name": "daily-interview",
-                "yearGrowth": 760,
-                "starCount": 3395,
+                "yearGrowth": 765,
+                "starCount": 3400,
                 "commitCount": 1
             },
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 0
             },
             {
                 "name": "handy-ollama",
-                "yearGrowth": 1773,
-                "starCount": 2038,
+                "yearGrowth": 1774,
+                "starCount": 2039,
                 "commitCount": 0
             },
             {
@@ -1211,15 +1211,15 @@
                 "commitCount": 0
             }
         ],
-        "commitCount": 36,
-        "codeCount": 975,
+        "commitCount": 44,
+        "codeCount": 1010,
         "maxCommitProject": {
-            "name": "pumpkin-book",
-            "yearGrowth": 1487,
-            "starCount": 25555,
-            "commitCount": 9
+            "name": ".github",
+            "yearGrowth": 0,
+            "starCount": 0,
+            "commitCount": 12
         },
-        "maxCommitProjectCommitCount": 9,
+        "maxCommitProjectCommitCount": 12,
         "lastCommitTime": "2025-02-19 00:38:59",
         "lastCommitProjectName": "pumpkin-book"
     },
@@ -1229,8 +1229,8 @@
         "project": [
             {
                 "name": "happy-llm",
-                "yearGrowth": 22816,
-                "starCount": 22817,
+                "yearGrowth": 22856,
+                "starCount": 22857,
                 "commitCount": 0
             }
         ],
@@ -1238,8 +1238,8 @@
         "codeCount": 18,
         "maxCommitProject": {
             "name": "happy-llm",
-            "yearGrowth": 22816,
-            "starCount": 22817,
+            "yearGrowth": 22856,
+            "starCount": 22857,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -1250,8 +1250,8 @@
         "project": [
             {
                 "name": "happy-llm",
-                "yearGrowth": 22816,
-                "starCount": 22817,
+                "yearGrowth": 22856,
+                "starCount": 22857,
                 "commitCount": 0
             }
         ],
@@ -1259,8 +1259,8 @@
         "codeCount": 23,
         "maxCommitProject": {
             "name": "happy-llm",
-            "yearGrowth": 22816,
-            "starCount": 22817,
+            "yearGrowth": 22856,
+            "starCount": 22857,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -1271,8 +1271,8 @@
         "project": [
             {
                 "name": "happy-llm",
-                "yearGrowth": 22816,
-                "starCount": 22817,
+                "yearGrowth": 22856,
+                "starCount": 22857,
                 "commitCount": 0
             }
         ],
@@ -1280,8 +1280,8 @@
         "codeCount": 2,
         "maxCommitProject": {
             "name": "happy-llm",
-            "yearGrowth": 22816,
-            "starCount": 22817,
+            "yearGrowth": 22856,
+            "starCount": 22857,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -1292,8 +1292,8 @@
         "project": [
             {
                 "name": "happy-llm",
-                "yearGrowth": 22816,
-                "starCount": 22817,
+                "yearGrowth": 22856,
+                "starCount": 22857,
                 "commitCount": 0
             }
         ],
@@ -1301,8 +1301,8 @@
         "codeCount": 2,
         "maxCommitProject": {
             "name": "happy-llm",
-            "yearGrowth": 22816,
-            "starCount": 22817,
+            "yearGrowth": 22856,
+            "starCount": 22857,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -1313,14 +1313,14 @@
         "project": [
             {
                 "name": "tiny-universe",
-                "yearGrowth": 2397,
-                "starCount": 4160,
+                "yearGrowth": 2401,
+                "starCount": 4164,
                 "commitCount": 16
             },
             {
                 "name": "happy-llm",
-                "yearGrowth": 22816,
-                "starCount": 22817,
+                "yearGrowth": 22856,
+                "starCount": 22857,
                 "commitCount": 1
             }
         ],
@@ -1328,8 +1328,8 @@
         "codeCount": 15076,
         "maxCommitProject": {
             "name": "tiny-universe",
-            "yearGrowth": 2397,
-            "starCount": 4160,
+            "yearGrowth": 2401,
+            "starCount": 4164,
             "commitCount": 16
         },
         "maxCommitProjectCommitCount": 16
@@ -1340,8 +1340,8 @@
         "project": [
             {
                 "name": "happy-llm",
-                "yearGrowth": 22816,
-                "starCount": 22817,
+                "yearGrowth": 22856,
+                "starCount": 22857,
                 "commitCount": 1
             }
         ],
@@ -1349,8 +1349,8 @@
         "codeCount": 742,
         "maxCommitProject": {
             "name": "happy-llm",
-            "yearGrowth": 22816,
-            "starCount": 22817,
+            "yearGrowth": 22856,
+            "starCount": 22857,
             "commitCount": 1
         },
         "maxCommitProjectCommitCount": 1
@@ -1373,8 +1373,8 @@
             },
             {
                 "name": "happy-llm",
-                "yearGrowth": 22816,
-                "starCount": 22817,
+                "yearGrowth": 22856,
+                "starCount": 22857,
                 "commitCount": 10
             }
         ],
@@ -1396,8 +1396,8 @@
         "project": [
             {
                 "name": "happy-llm",
-                "yearGrowth": 22816,
-                "starCount": 22817,
+                "yearGrowth": 22856,
+                "starCount": 22857,
                 "commitCount": 0
             }
         ],
@@ -1405,8 +1405,8 @@
         "codeCount": 5,
         "maxCommitProject": {
             "name": "happy-llm",
-            "yearGrowth": 22816,
-            "starCount": 22817,
+            "yearGrowth": 22856,
+            "starCount": 22857,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -1417,8 +1417,8 @@
         "project": [
             {
                 "name": "happy-llm",
-                "yearGrowth": 22816,
-                "starCount": 22817,
+                "yearGrowth": 22856,
+                "starCount": 22857,
                 "commitCount": 0
             }
         ],
@@ -1426,8 +1426,8 @@
         "codeCount": 344,
         "maxCommitProject": {
             "name": "happy-llm",
-            "yearGrowth": 22816,
-            "starCount": 22817,
+            "yearGrowth": 22856,
+            "starCount": 22857,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -1438,8 +1438,8 @@
         "project": [
             {
                 "name": "happy-llm",
-                "yearGrowth": 22816,
-                "starCount": 22817,
+                "yearGrowth": 22856,
+                "starCount": 22857,
                 "commitCount": 0
             }
         ],
@@ -1447,8 +1447,8 @@
         "codeCount": 1,
         "maxCommitProject": {
             "name": "happy-llm",
-            "yearGrowth": 22816,
-            "starCount": 22817,
+            "yearGrowth": 22856,
+            "starCount": 22857,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -1459,8 +1459,8 @@
         "project": [
             {
                 "name": "happy-llm",
-                "yearGrowth": 22816,
-                "starCount": 22817,
+                "yearGrowth": 22856,
+                "starCount": 22857,
                 "commitCount": 2
             }
         ],
@@ -1468,8 +1468,8 @@
         "codeCount": 74,
         "maxCommitProject": {
             "name": "happy-llm",
-            "yearGrowth": 22816,
-            "starCount": 22817,
+            "yearGrowth": 22856,
+            "starCount": 22857,
             "commitCount": 2
         },
         "maxCommitProjectCommitCount": 2
@@ -1480,8 +1480,8 @@
         "project": [
             {
                 "name": "happy-llm",
-                "yearGrowth": 22816,
-                "starCount": 22817,
+                "yearGrowth": 22856,
+                "starCount": 22857,
                 "commitCount": 1
             }
         ],
@@ -1489,8 +1489,8 @@
         "codeCount": 383,
         "maxCommitProject": {
             "name": "happy-llm",
-            "yearGrowth": 22816,
-            "starCount": 22817,
+            "yearGrowth": 22856,
+            "starCount": 22857,
             "commitCount": 1
         },
         "maxCommitProjectCommitCount": 1
@@ -1501,8 +1501,8 @@
         "project": [
             {
                 "name": "happy-llm",
-                "yearGrowth": 22816,
-                "starCount": 22817,
+                "yearGrowth": 22856,
+                "starCount": 22857,
                 "commitCount": 11
             }
         ],
@@ -1510,8 +1510,8 @@
         "codeCount": 4043,
         "maxCommitProject": {
             "name": "happy-llm",
-            "yearGrowth": 22816,
-            "starCount": 22817,
+            "yearGrowth": 22856,
+            "starCount": 22857,
             "commitCount": 11
         },
         "maxCommitProjectCommitCount": 11
@@ -1528,8 +1528,8 @@
             },
             {
                 "name": "llm-cookbook",
-                "yearGrowth": 10283,
-                "starCount": 22696,
+                "yearGrowth": 10299,
+                "starCount": 22712,
                 "commitCount": 20
             },
             {
@@ -1563,8 +1563,8 @@
         "project": [
             {
                 "name": "llm-cookbook",
-                "yearGrowth": 10283,
-                "starCount": 22696,
+                "yearGrowth": 10299,
+                "starCount": 22712,
                 "commitCount": 2
             },
             {
@@ -1578,8 +1578,8 @@
         "codeCount": 5952,
         "maxCommitProject": {
             "name": "llm-cookbook",
-            "yearGrowth": 10283,
-            "starCount": 22696,
+            "yearGrowth": 10299,
+            "starCount": 22712,
             "commitCount": 2
         },
         "maxCommitProjectCommitCount": 2
@@ -1590,8 +1590,8 @@
         "project": [
             {
                 "name": "llm-cookbook",
-                "yearGrowth": 10283,
-                "starCount": 22696,
+                "yearGrowth": 10299,
+                "starCount": 22712,
                 "commitCount": 7
             }
         ],
@@ -1599,8 +1599,8 @@
         "codeCount": 1860,
         "maxCommitProject": {
             "name": "llm-cookbook",
-            "yearGrowth": 10283,
-            "starCount": 22696,
+            "yearGrowth": 10299,
+            "starCount": 22712,
             "commitCount": 7
         },
         "maxCommitProjectCommitCount": 7
@@ -1611,14 +1611,14 @@
         "project": [
             {
                 "name": "easy-rl",
-                "yearGrowth": 3561,
-                "starCount": 13283,
+                "yearGrowth": 3568,
+                "starCount": 13290,
                 "commitCount": 21
             },
             {
                 "name": "leedl-tutorial",
-                "yearGrowth": 2163,
-                "starCount": 16145,
+                "yearGrowth": 2166,
+                "starCount": 16148,
                 "commitCount": 6
             }
         ],
@@ -1626,8 +1626,8 @@
         "codeCount": 534,
         "maxCommitProject": {
             "name": "easy-rl",
-            "yearGrowth": 3561,
-            "starCount": 13283,
+            "yearGrowth": 3568,
+            "starCount": 13290,
             "commitCount": 21
         },
         "maxCommitProjectCommitCount": 21,
@@ -1640,20 +1640,20 @@
         "project": [
             {
                 "name": "leegenai-tutorial",
-                "yearGrowth": 131,
-                "starCount": 210,
+                "yearGrowth": 133,
+                "starCount": 212,
                 "commitCount": 11
             },
             {
                 "name": "leedl-tutorial",
-                "yearGrowth": 2163,
-                "starCount": 16145,
+                "yearGrowth": 2166,
+                "starCount": 16148,
                 "commitCount": 6
             },
             {
                 "name": "easy-rl",
-                "yearGrowth": 3561,
-                "starCount": 13283,
+                "yearGrowth": 3568,
+                "starCount": 13290,
                 "commitCount": 6
             }
         ],
@@ -1661,8 +1661,8 @@
         "codeCount": 93,
         "maxCommitProject": {
             "name": "leegenai-tutorial",
-            "yearGrowth": 131,
-            "starCount": 210,
+            "yearGrowth": 133,
+            "starCount": 212,
             "commitCount": 11
         },
         "maxCommitProjectCommitCount": 11,
@@ -1675,14 +1675,14 @@
         "project": [
             {
                 "name": "leedl-tutorial",
-                "yearGrowth": 2163,
-                "starCount": 16145,
+                "yearGrowth": 2166,
+                "starCount": 16148,
                 "commitCount": 2
             },
             {
                 "name": "leegenai-tutorial",
-                "yearGrowth": 131,
-                "starCount": 210,
+                "yearGrowth": 133,
+                "starCount": 212,
                 "commitCount": 1
             }
         ],
@@ -1690,8 +1690,8 @@
         "codeCount": 10,
         "maxCommitProject": {
             "name": "leedl-tutorial",
-            "yearGrowth": 2163,
-            "starCount": 16145,
+            "yearGrowth": 2166,
+            "starCount": 16148,
             "commitCount": 2
         },
         "maxCommitProjectCommitCount": 2,
@@ -1704,14 +1704,14 @@
         "project": [
             {
                 "name": "llm-universe",
-                "yearGrowth": 6059,
-                "starCount": 11112,
+                "yearGrowth": 6072,
+                "starCount": 11125,
                 "commitCount": 51
             },
             {
                 "name": "handy-ollama",
-                "yearGrowth": 1773,
-                "starCount": 2038,
+                "yearGrowth": 1774,
+                "starCount": 2039,
                 "commitCount": 1
             }
         ],
@@ -1719,8 +1719,8 @@
         "codeCount": 31048,
         "maxCommitProject": {
             "name": "llm-universe",
-            "yearGrowth": 6059,
-            "starCount": 11112,
+            "yearGrowth": 6072,
+            "starCount": 11125,
             "commitCount": 51
         },
         "maxCommitProjectCommitCount": 51,
@@ -1733,8 +1733,8 @@
         "project": [
             {
                 "name": "llm-universe",
-                "yearGrowth": 6059,
-                "starCount": 11112,
+                "yearGrowth": 6072,
+                "starCount": 11125,
                 "commitCount": 0
             }
         ],
@@ -1742,8 +1742,8 @@
         "codeCount": 1,
         "maxCommitProject": {
             "name": "llm-universe",
-            "yearGrowth": 6059,
-            "starCount": 11112,
+            "yearGrowth": 6072,
+            "starCount": 11125,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -1754,14 +1754,14 @@
         "project": [
             {
                 "name": "llm-universe",
-                "yearGrowth": 6059,
-                "starCount": 11112,
+                "yearGrowth": 6072,
+                "starCount": 11125,
                 "commitCount": 1
             },
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 0
             }
         ],
@@ -1769,8 +1769,8 @@
         "codeCount": 10,
         "maxCommitProject": {
             "name": "llm-universe",
-            "yearGrowth": 6059,
-            "starCount": 11112,
+            "yearGrowth": 6072,
+            "starCount": 11125,
             "commitCount": 1
         },
         "maxCommitProjectCommitCount": 1
@@ -1781,8 +1781,8 @@
         "project": [
             {
                 "name": "llm-universe",
-                "yearGrowth": 6059,
-                "starCount": 11112,
+                "yearGrowth": 6072,
+                "starCount": 11125,
                 "commitCount": 1
             },
             {
@@ -1796,8 +1796,8 @@
         "codeCount": 47,
         "maxCommitProject": {
             "name": "llm-universe",
-            "yearGrowth": 6059,
-            "starCount": 11112,
+            "yearGrowth": 6072,
+            "starCount": 11125,
             "commitCount": 1
         },
         "maxCommitProjectCommitCount": 1
@@ -1808,8 +1808,8 @@
         "project": [
             {
                 "name": "llm-universe",
-                "yearGrowth": 6059,
-                "starCount": 11112,
+                "yearGrowth": 6072,
+                "starCount": 11125,
                 "commitCount": 0
             }
         ],
@@ -1817,8 +1817,8 @@
         "codeCount": 131,
         "maxCommitProject": {
             "name": "llm-universe",
-            "yearGrowth": 6059,
-            "starCount": 11112,
+            "yearGrowth": 6072,
+            "starCount": 11125,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -1829,8 +1829,8 @@
         "project": [
             {
                 "name": "llm-universe",
-                "yearGrowth": 6059,
-                "starCount": 11112,
+                "yearGrowth": 6072,
+                "starCount": 11125,
                 "commitCount": 0
             }
         ],
@@ -1838,8 +1838,8 @@
         "codeCount": 12789,
         "maxCommitProject": {
             "name": "llm-universe",
-            "yearGrowth": 6059,
-            "starCount": 11112,
+            "yearGrowth": 6072,
+            "starCount": 11125,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -1850,14 +1850,14 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
-                "commitCount": 333
+                "yearGrowth": 10133,
+                "starCount": 10133,
+                "commitCount": 334
             },
             {
                 "name": "handy-multi-agent",
-                "yearGrowth": 653,
-                "starCount": 665,
+                "yearGrowth": 656,
+                "starCount": 668,
                 "commitCount": 41
             },
             {
@@ -1867,15 +1867,15 @@
                 "commitCount": 0
             }
         ],
-        "commitCount": 377,
-        "codeCount": 265657,
+        "commitCount": 378,
+        "codeCount": 265661,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
-            "commitCount": 333
+            "yearGrowth": 10133,
+            "starCount": 10133,
+            "commitCount": 334
         },
-        "maxCommitProjectCommitCount": 333,
+        "maxCommitProjectCommitCount": 334,
         "lastCommitTime": "2025-12-16 05:00:59",
         "lastCommitProjectName": "hello-agents"
     },
@@ -1885,8 +1885,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 2
             }
         ],
@@ -1894,8 +1894,8 @@
         "codeCount": 2420,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 2
         },
         "maxCommitProjectCommitCount": 2
@@ -1906,8 +1906,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 0
             }
         ],
@@ -1915,8 +1915,8 @@
         "codeCount": 1,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -1927,8 +1927,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 5
             }
         ],
@@ -1936,8 +1936,8 @@
         "codeCount": 30542,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 5
         },
         "maxCommitProjectCommitCount": 5,
@@ -1950,8 +1950,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 4
             }
         ],
@@ -1959,8 +1959,8 @@
         "codeCount": 1106,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 4
         },
         "maxCommitProjectCommitCount": 4,
@@ -1973,8 +1973,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 0
             }
         ],
@@ -1982,8 +1982,8 @@
         "codeCount": 541,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0,
@@ -1996,8 +1996,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 2
             }
         ],
@@ -2005,8 +2005,8 @@
         "codeCount": 1170,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 2
         },
         "maxCommitProjectCommitCount": 2,
@@ -2019,8 +2019,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 1
             }
         ],
@@ -2028,8 +2028,8 @@
         "codeCount": 1096,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 1
         },
         "maxCommitProjectCommitCount": 1,
@@ -2042,8 +2042,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 0
             }
         ],
@@ -2051,8 +2051,8 @@
         "codeCount": 1243,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -2063,8 +2063,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 10
             }
         ],
@@ -2072,8 +2072,8 @@
         "codeCount": 12271,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 10
         },
         "maxCommitProjectCommitCount": 10
@@ -2084,8 +2084,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 0
             }
         ],
@@ -2093,8 +2093,8 @@
         "codeCount": 14237,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0,
@@ -2107,8 +2107,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 0
             }
         ],
@@ -2116,8 +2116,8 @@
         "codeCount": 286,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0,
@@ -2130,8 +2130,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 5
             }
         ],
@@ -2139,8 +2139,8 @@
         "codeCount": 5,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 5
         },
         "maxCommitProjectCommitCount": 5,
@@ -2153,8 +2153,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 0
             }
         ],
@@ -2162,8 +2162,8 @@
         "codeCount": 18,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0,
@@ -2176,8 +2176,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 57
             }
         ],
@@ -2185,8 +2185,8 @@
         "codeCount": 35028,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 57
         },
         "maxCommitProjectCommitCount": 57,
@@ -2199,14 +2199,14 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 17
             },
             {
                 "name": "handy-multi-agent",
-                "yearGrowth": 653,
-                "starCount": 665,
+                "yearGrowth": 656,
+                "starCount": 668,
                 "commitCount": 8
             }
         ],
@@ -2214,8 +2214,8 @@
         "codeCount": 66038,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 17
         },
         "maxCommitProjectCommitCount": 17,
@@ -2228,8 +2228,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 1
             }
         ],
@@ -2237,8 +2237,8 @@
         "codeCount": 36,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 1
         },
         "maxCommitProjectCommitCount": 1,
@@ -2251,8 +2251,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 0
             }
         ],
@@ -2260,8 +2260,8 @@
         "codeCount": 1,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0,
@@ -2274,8 +2274,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 1
             }
         ],
@@ -2283,8 +2283,8 @@
         "codeCount": 5,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 1
         },
         "maxCommitProjectCommitCount": 1
@@ -2295,8 +2295,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 18
             }
         ],
@@ -2304,8 +2304,8 @@
         "codeCount": 18652,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 18
         },
         "maxCommitProjectCommitCount": 18,
@@ -2318,8 +2318,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 0
             }
         ],
@@ -2327,8 +2327,8 @@
         "codeCount": 2,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -2339,8 +2339,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 0
             }
         ],
@@ -2348,8 +2348,8 @@
         "codeCount": 6,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -2360,8 +2360,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 0
             }
         ],
@@ -2369,8 +2369,8 @@
         "codeCount": 1,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -2381,14 +2381,14 @@
         "project": [
             {
                 "name": "post-training-of-llms",
-                "yearGrowth": 127,
-                "starCount": 127,
+                "yearGrowth": 128,
+                "starCount": 128,
                 "commitCount": 1
             },
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 0
             },
             {
@@ -2402,8 +2402,8 @@
         "codeCount": 155,
         "maxCommitProject": {
             "name": "post-training-of-llms",
-            "yearGrowth": 127,
-            "starCount": 127,
+            "yearGrowth": 128,
+            "starCount": 128,
             "commitCount": 1
         },
         "maxCommitProjectCommitCount": 1,
@@ -2416,8 +2416,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 0
             }
         ],
@@ -2425,8 +2425,8 @@
         "codeCount": 1,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -2437,8 +2437,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 0
             }
         ],
@@ -2446,8 +2446,8 @@
         "codeCount": 2,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -2458,8 +2458,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 5
             }
         ],
@@ -2467,8 +2467,8 @@
         "codeCount": 15,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 5
         },
         "maxCommitProjectCommitCount": 5,
@@ -2481,8 +2481,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 0
             }
         ],
@@ -2490,8 +2490,8 @@
         "codeCount": 25,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -2502,8 +2502,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 0
             }
         ],
@@ -2511,8 +2511,8 @@
         "codeCount": 1,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -2523,8 +2523,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 1
             }
         ],
@@ -2532,8 +2532,8 @@
         "codeCount": 453,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 1
         },
         "maxCommitProjectCommitCount": 1
@@ -2544,8 +2544,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 0
             }
         ],
@@ -2553,8 +2553,8 @@
         "codeCount": 2478,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -2565,8 +2565,8 @@
         "project": [
             {
                 "name": "hello-agents",
-                "yearGrowth": 9827,
-                "starCount": 9827,
+                "yearGrowth": 10133,
+                "starCount": 10133,
                 "commitCount": 5
             }
         ],
@@ -2574,8 +2574,8 @@
         "codeCount": 92,
         "maxCommitProject": {
             "name": "hello-agents",
-            "yearGrowth": 9827,
-            "starCount": 9827,
+            "yearGrowth": 10133,
+            "starCount": 10133,
             "commitCount": 5
         },
         "maxCommitProjectCommitCount": 5,
@@ -2657,8 +2657,8 @@
         "project": [
             {
                 "name": "so-large-lm",
-                "yearGrowth": 3038,
-                "starCount": 6325,
+                "yearGrowth": 3043,
+                "starCount": 6330,
                 "commitCount": 0
             }
         ],
@@ -2666,8 +2666,8 @@
         "codeCount": 1,
         "maxCommitProject": {
             "name": "so-large-lm",
-            "yearGrowth": 3038,
-            "starCount": 6325,
+            "yearGrowth": 3043,
+            "starCount": 6330,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -2678,8 +2678,8 @@
         "project": [
             {
                 "name": "so-large-lm",
-                "yearGrowth": 3038,
-                "starCount": 6325,
+                "yearGrowth": 3043,
+                "starCount": 6330,
                 "commitCount": 1
             }
         ],
@@ -2687,8 +2687,8 @@
         "codeCount": 126,
         "maxCommitProject": {
             "name": "so-large-lm",
-            "yearGrowth": 3038,
-            "starCount": 6325,
+            "yearGrowth": 3043,
+            "starCount": 6330,
             "commitCount": 1
         },
         "maxCommitProjectCommitCount": 1
@@ -2699,8 +2699,8 @@
         "project": [
             {
                 "name": "competition-baseline",
-                "yearGrowth": 410,
-                "starCount": 4710,
+                "yearGrowth": 411,
+                "starCount": 4711,
                 "commitCount": 27
             }
         ],
@@ -2708,8 +2708,8 @@
         "codeCount": 24918,
         "maxCommitProject": {
             "name": "competition-baseline",
-            "yearGrowth": 410,
-            "starCount": 4710,
+            "yearGrowth": 411,
+            "starCount": 4711,
             "commitCount": 27
         },
         "maxCommitProjectCommitCount": 27,
@@ -2722,8 +2722,8 @@
         "project": [
             {
                 "name": "tiny-universe",
-                "yearGrowth": 2397,
-                "starCount": 4160,
+                "yearGrowth": 2401,
+                "starCount": 4164,
                 "commitCount": 1
             }
         ],
@@ -2731,8 +2731,8 @@
         "codeCount": 10,
         "maxCommitProject": {
             "name": "tiny-universe",
-            "yearGrowth": 2397,
-            "starCount": 4160,
+            "yearGrowth": 2401,
+            "starCount": 4164,
             "commitCount": 1
         },
         "maxCommitProjectCommitCount": 1,
@@ -2745,8 +2745,8 @@
         "project": [
             {
                 "name": "tiny-universe",
-                "yearGrowth": 2397,
-                "starCount": 4160,
+                "yearGrowth": 2401,
+                "starCount": 4164,
                 "commitCount": 2
             }
         ],
@@ -2754,8 +2754,8 @@
         "codeCount": 3385,
         "maxCommitProject": {
             "name": "tiny-universe",
-            "yearGrowth": 2397,
-            "starCount": 4160,
+            "yearGrowth": 2401,
+            "starCount": 4164,
             "commitCount": 2
         },
         "maxCommitProjectCommitCount": 2,
@@ -2768,8 +2768,8 @@
         "project": [
             {
                 "name": "tiny-universe",
-                "yearGrowth": 2397,
-                "starCount": 4160,
+                "yearGrowth": 2401,
+                "starCount": 4164,
                 "commitCount": 6
             }
         ],
@@ -2777,8 +2777,8 @@
         "codeCount": 8202,
         "maxCommitProject": {
             "name": "tiny-universe",
-            "yearGrowth": 2397,
-            "starCount": 4160,
+            "yearGrowth": 2401,
+            "starCount": 4164,
             "commitCount": 6
         },
         "maxCommitProjectCommitCount": 6
@@ -2789,8 +2789,8 @@
         "project": [
             {
                 "name": "thorough-pytorch",
-                "yearGrowth": 797,
-                "starCount": 3467,
+                "yearGrowth": 799,
+                "starCount": 3469,
                 "commitCount": 2
             }
         ],
@@ -2798,8 +2798,8 @@
         "codeCount": 300,
         "maxCommitProject": {
             "name": "thorough-pytorch",
-            "yearGrowth": 797,
-            "starCount": 3467,
+            "yearGrowth": 799,
+            "starCount": 3469,
             "commitCount": 2
         },
         "maxCommitProjectCommitCount": 2
@@ -2810,8 +2810,8 @@
         "project": [
             {
                 "name": "thorough-pytorch",
-                "yearGrowth": 797,
-                "starCount": 3467,
+                "yearGrowth": 799,
+                "starCount": 3469,
                 "commitCount": 0
             }
         ],
@@ -2819,8 +2819,8 @@
         "codeCount": 1,
         "maxCommitProject": {
             "name": "thorough-pytorch",
-            "yearGrowth": 797,
-            "starCount": 3467,
+            "yearGrowth": 799,
+            "starCount": 3469,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -2831,8 +2831,8 @@
         "project": [
             {
                 "name": "thorough-pytorch",
-                "yearGrowth": 797,
-                "starCount": 3467,
+                "yearGrowth": 799,
+                "starCount": 3469,
                 "commitCount": 0
             }
         ],
@@ -2840,8 +2840,8 @@
         "codeCount": 2,
         "maxCommitProject": {
             "name": "thorough-pytorch",
-            "yearGrowth": 797,
-            "starCount": 3467,
+            "yearGrowth": 799,
+            "starCount": 3469,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -2852,8 +2852,8 @@
         "project": [
             {
                 "name": "thorough-pytorch",
-                "yearGrowth": 797,
-                "starCount": 3467,
+                "yearGrowth": 799,
+                "starCount": 3469,
                 "commitCount": 4
             }
         ],
@@ -2861,8 +2861,8 @@
         "codeCount": 316,
         "maxCommitProject": {
             "name": "thorough-pytorch",
-            "yearGrowth": 797,
-            "starCount": 3467,
+            "yearGrowth": 799,
+            "starCount": 3469,
             "commitCount": 4
         },
         "maxCommitProjectCommitCount": 4,
@@ -2893,8 +2893,8 @@
             },
             {
                 "name": "daily-interview",
-                "yearGrowth": 760,
-                "starCount": 3395,
+                "yearGrowth": 765,
+                "starCount": 3400,
                 "commitCount": 21
             },
             {
@@ -2920,8 +2920,8 @@
         "project": [
             {
                 "name": "daily-interview",
-                "yearGrowth": 760,
-                "starCount": 3395,
+                "yearGrowth": 765,
+                "starCount": 3400,
                 "commitCount": 4
             }
         ],
@@ -2929,8 +2929,8 @@
         "codeCount": 2740,
         "maxCommitProject": {
             "name": "daily-interview",
-            "yearGrowth": 760,
-            "starCount": 3395,
+            "yearGrowth": 765,
+            "starCount": 3400,
             "commitCount": 4
         },
         "maxCommitProjectCommitCount": 4
@@ -2941,8 +2941,8 @@
         "project": [
             {
                 "name": "daily-interview",
-                "yearGrowth": 760,
-                "starCount": 3395,
+                "yearGrowth": 765,
+                "starCount": 3400,
                 "commitCount": 0
             }
         ],
@@ -2950,8 +2950,8 @@
         "codeCount": 862,
         "maxCommitProject": {
             "name": "daily-interview",
-            "yearGrowth": 760,
-            "starCount": 3395,
+            "yearGrowth": 765,
+            "starCount": 3400,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0,
@@ -2993,14 +2993,14 @@
         "project": [
             {
                 "name": "base-nlp",
-                "yearGrowth": 76,
-                "starCount": 76,
-                "commitCount": 365
+                "yearGrowth": 78,
+                "starCount": 78,
+                "commitCount": 366
             },
             {
                 "name": "all-in-rag",
-                "yearGrowth": 2283,
-                "starCount": 2283,
+                "yearGrowth": 2292,
+                "starCount": 2292,
                 "commitCount": 309
             },
             {
@@ -3010,15 +3010,15 @@
                 "commitCount": 2
             }
         ],
-        "commitCount": 679,
-        "codeCount": 962426,
+        "commitCount": 680,
+        "codeCount": 962439,
         "maxCommitProject": {
             "name": "base-nlp",
-            "yearGrowth": 76,
-            "starCount": 76,
-            "commitCount": 365
+            "yearGrowth": 78,
+            "starCount": 78,
+            "commitCount": 366
         },
-        "maxCommitProjectCommitCount": 365,
+        "maxCommitProjectCommitCount": 366,
         "lastCommitTime": "2025-06-08 05:41:56",
         "lastCommitProjectName": "all-in-rag"
     },
@@ -3036,7 +3036,7 @@
                 "name": "wow-rag",
                 "yearGrowth": 157,
                 "starCount": 225,
-                "commitCount": 3
+                "commitCount": 4
             },
             {
                 "name": "wow-fullstack",
@@ -3046,13 +3046,13 @@
             },
             {
                 "name": "all-in-rag",
-                "yearGrowth": 2283,
-                "starCount": 2283,
+                "yearGrowth": 2292,
+                "starCount": 2292,
                 "commitCount": 0
             }
         ],
-        "commitCount": 26,
-        "codeCount": 24901,
+        "commitCount": 27,
+        "codeCount": 25424,
         "maxCommitProject": {
             "name": "wow-agent",
             "yearGrowth": 201,
@@ -3069,8 +3069,8 @@
         "project": [
             {
                 "name": "all-in-rag",
-                "yearGrowth": 2283,
-                "starCount": 2283,
+                "yearGrowth": 2292,
+                "starCount": 2292,
                 "commitCount": 1
             }
         ],
@@ -3078,8 +3078,8 @@
         "codeCount": 45,
         "maxCommitProject": {
             "name": "all-in-rag",
-            "yearGrowth": 2283,
-            "starCount": 2283,
+            "yearGrowth": 2292,
+            "starCount": 2292,
             "commitCount": 1
         },
         "maxCommitProjectCommitCount": 1
@@ -3090,8 +3090,8 @@
         "project": [
             {
                 "name": "all-in-rag",
-                "yearGrowth": 2283,
-                "starCount": 2283,
+                "yearGrowth": 2292,
+                "starCount": 2292,
                 "commitCount": 0
             }
         ],
@@ -3099,8 +3099,8 @@
         "codeCount": 2,
         "maxCommitProject": {
             "name": "all-in-rag",
-            "yearGrowth": 2283,
-            "starCount": 2283,
+            "yearGrowth": 2292,
+            "starCount": 2292,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -3111,8 +3111,8 @@
         "project": [
             {
                 "name": "handy-ollama",
-                "yearGrowth": 1773,
-                "starCount": 2038,
+                "yearGrowth": 1774,
+                "starCount": 2039,
                 "commitCount": 68
             }
         ],
@@ -3120,8 +3120,8 @@
         "codeCount": 4438,
         "maxCommitProject": {
             "name": "handy-ollama",
-            "yearGrowth": 1773,
-            "starCount": 2038,
+            "yearGrowth": 1774,
+            "starCount": 2039,
             "commitCount": 68
         },
         "maxCommitProjectCommitCount": 68,
@@ -3134,8 +3134,8 @@
         "project": [
             {
                 "name": "handy-ollama",
-                "yearGrowth": 1773,
-                "starCount": 2038,
+                "yearGrowth": 1774,
+                "starCount": 2039,
                 "commitCount": 0
             }
         ],
@@ -3143,8 +3143,8 @@
         "codeCount": 1,
         "maxCommitProject": {
             "name": "handy-ollama",
-            "yearGrowth": 1773,
-            "starCount": 2038,
+            "yearGrowth": 1774,
+            "starCount": 2039,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -3155,8 +3155,8 @@
         "project": [
             {
                 "name": "handy-ollama",
-                "yearGrowth": 1773,
-                "starCount": 2038,
+                "yearGrowth": 1774,
+                "starCount": 2039,
                 "commitCount": 1
             }
         ],
@@ -3164,8 +3164,8 @@
         "codeCount": 185,
         "maxCommitProject": {
             "name": "handy-ollama",
-            "yearGrowth": 1773,
-            "starCount": 2038,
+            "yearGrowth": 1774,
+            "starCount": 2039,
             "commitCount": 1
         },
         "maxCommitProjectCommitCount": 1
@@ -3182,8 +3182,8 @@
             },
             {
                 "name": "handy-ollama",
-                "yearGrowth": 1773,
-                "starCount": 2038,
+                "yearGrowth": 1774,
+                "starCount": 2039,
                 "commitCount": 0
             }
         ],
@@ -3205,8 +3205,8 @@
         "project": [
             {
                 "name": "handy-ollama",
-                "yearGrowth": 1773,
-                "starCount": 2038,
+                "yearGrowth": 1774,
+                "starCount": 2039,
                 "commitCount": 0
             }
         ],
@@ -3214,8 +3214,8 @@
         "codeCount": 57,
         "maxCommitProject": {
             "name": "handy-ollama",
-            "yearGrowth": 1773,
-            "starCount": 2038,
+            "yearGrowth": 1774,
+            "starCount": 2039,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -3232,14 +3232,14 @@
             },
             {
                 "name": "handy-ollama",
-                "yearGrowth": 1773,
-                "starCount": 2038,
+                "yearGrowth": 1774,
+                "starCount": 2039,
                 "commitCount": 2
             },
             {
                 "name": "self-dify",
-                "yearGrowth": 192,
-                "starCount": 209,
+                "yearGrowth": 193,
+                "starCount": 210,
                 "commitCount": 1
             }
         ],
@@ -3261,8 +3261,8 @@
         "project": [
             {
                 "name": "handy-ollama",
-                "yearGrowth": 1773,
-                "starCount": 2038,
+                "yearGrowth": 1774,
+                "starCount": 2039,
                 "commitCount": 1
             }
         ],
@@ -3270,8 +3270,8 @@
         "codeCount": 3,
         "maxCommitProject": {
             "name": "handy-ollama",
-            "yearGrowth": 1773,
-            "starCount": 2038,
+            "yearGrowth": 1774,
+            "starCount": 2039,
             "commitCount": 1
         },
         "maxCommitProjectCommitCount": 1
@@ -3288,8 +3288,8 @@
             },
             {
                 "name": "handy-ollama",
-                "yearGrowth": 1773,
-                "starCount": 2038,
+                "yearGrowth": 1774,
+                "starCount": 2039,
                 "commitCount": 0
             }
         ],
@@ -3311,8 +3311,8 @@
         "project": [
             {
                 "name": "handy-ollama",
-                "yearGrowth": 1773,
-                "starCount": 2038,
+                "yearGrowth": 1774,
+                "starCount": 2039,
                 "commitCount": 2
             }
         ],
@@ -3320,8 +3320,8 @@
         "codeCount": 237,
         "maxCommitProject": {
             "name": "handy-ollama",
-            "yearGrowth": 1773,
-            "starCount": 2038,
+            "yearGrowth": 1774,
+            "starCount": 2039,
             "commitCount": 2
         },
         "maxCommitProjectCommitCount": 2,
@@ -3334,8 +3334,8 @@
         "project": [
             {
                 "name": "handy-ollama",
-                "yearGrowth": 1773,
-                "starCount": 2038,
+                "yearGrowth": 1774,
+                "starCount": 2039,
                 "commitCount": 9
             }
         ],
@@ -3343,8 +3343,8 @@
         "codeCount": 715,
         "maxCommitProject": {
             "name": "handy-ollama",
-            "yearGrowth": 1773,
-            "starCount": 2038,
+            "yearGrowth": 1774,
+            "starCount": 2039,
             "commitCount": 9
         },
         "maxCommitProjectCommitCount": 9,
@@ -3357,8 +3357,8 @@
         "project": [
             {
                 "name": "key-book",
-                "yearGrowth": 93,
-                "starCount": 1661,
+                "yearGrowth": 94,
+                "starCount": 1662,
                 "commitCount": 6
             }
         ],
@@ -3366,8 +3366,8 @@
         "codeCount": 32,
         "maxCommitProject": {
             "name": "key-book",
-            "yearGrowth": 93,
-            "starCount": 1661,
+            "yearGrowth": 94,
+            "starCount": 1662,
             "commitCount": 6
         },
         "maxCommitProjectCommitCount": 6,
@@ -3430,8 +3430,8 @@
         "project": [
             {
                 "name": "wonderful-sql",
-                "yearGrowth": 166,
-                "starCount": 931,
+                "yearGrowth": 168,
+                "starCount": 933,
                 "commitCount": 10
             }
         ],
@@ -3439,8 +3439,8 @@
         "codeCount": 124,
         "maxCommitProject": {
             "name": "wonderful-sql",
-            "yearGrowth": 166,
-            "starCount": 931,
+            "yearGrowth": 168,
+            "starCount": 933,
             "commitCount": 10
         },
         "maxCommitProjectCommitCount": 10,
@@ -3574,20 +3574,20 @@
         "project": [
             {
                 "name": "torch-rechub",
-                "yearGrowth": 237,
-                "starCount": 671,
-                "commitCount": 2
+                "yearGrowth": 239,
+                "starCount": 673,
+                "commitCount": 3
             }
         ],
-        "commitCount": 3,
-        "codeCount": 86,
+        "commitCount": 4,
+        "codeCount": 103,
         "maxCommitProject": {
             "name": "torch-rechub",
-            "yearGrowth": 237,
-            "starCount": 671,
-            "commitCount": 2
+            "yearGrowth": 239,
+            "starCount": 673,
+            "commitCount": 3
         },
-        "maxCommitProjectCommitCount": 2
+        "maxCommitProjectCommitCount": 3
     },
     {
         "username": "ywuenthought",
@@ -3595,20 +3595,20 @@
         "project": [
             {
                 "name": "torch-rechub",
-                "yearGrowth": 237,
-                "starCount": 671,
-                "commitCount": 9
+                "yearGrowth": 239,
+                "starCount": 673,
+                "commitCount": 31
             }
         ],
-        "commitCount": 10,
-        "codeCount": 725,
+        "commitCount": 32,
+        "codeCount": 2918,
         "maxCommitProject": {
             "name": "torch-rechub",
-            "yearGrowth": 237,
-            "starCount": 671,
-            "commitCount": 9
+            "yearGrowth": 239,
+            "starCount": 673,
+            "commitCount": 31
         },
-        "maxCommitProjectCommitCount": 9,
+        "maxCommitProjectCommitCount": 31,
         "lastCommitTime": "2025-12-08 05:35:36",
         "lastCommitProjectName": "torch-rechub"
     },
@@ -3618,8 +3618,8 @@
         "project": [
             {
                 "name": "torch-rechub",
-                "yearGrowth": 237,
-                "starCount": 671,
+                "yearGrowth": 239,
+                "starCount": 673,
                 "commitCount": 16
             }
         ],
@@ -3627,8 +3627,8 @@
         "codeCount": 39,
         "maxCommitProject": {
             "name": "torch-rechub",
-            "yearGrowth": 237,
-            "starCount": 671,
+            "yearGrowth": 239,
+            "starCount": 673,
             "commitCount": 16
         },
         "maxCommitProjectCommitCount": 16,
@@ -3641,8 +3641,8 @@
         "project": [
             {
                 "name": "torch-rechub",
-                "yearGrowth": 237,
-                "starCount": 671,
+                "yearGrowth": 239,
+                "starCount": 673,
                 "commitCount": 5
             }
         ],
@@ -3650,8 +3650,8 @@
         "codeCount": 535,
         "maxCommitProject": {
             "name": "torch-rechub",
-            "yearGrowth": 237,
-            "starCount": 671,
+            "yearGrowth": 239,
+            "starCount": 673,
             "commitCount": 5
         },
         "maxCommitProjectCommitCount": 5
@@ -3662,8 +3662,8 @@
         "project": [
             {
                 "name": "torch-rechub",
-                "yearGrowth": 237,
-                "starCount": 671,
+                "yearGrowth": 239,
+                "starCount": 673,
                 "commitCount": 0
             }
         ],
@@ -3671,8 +3671,8 @@
         "codeCount": 23,
         "maxCommitProject": {
             "name": "torch-rechub",
-            "yearGrowth": 237,
-            "starCount": 671,
+            "yearGrowth": 239,
+            "starCount": 673,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -3683,8 +3683,8 @@
         "project": [
             {
                 "name": "torch-rechub",
-                "yearGrowth": 237,
-                "starCount": 671,
+                "yearGrowth": 239,
+                "starCount": 673,
                 "commitCount": 0
             }
         ],
@@ -3692,8 +3692,8 @@
         "codeCount": 93,
         "maxCommitProject": {
             "name": "torch-rechub",
-            "yearGrowth": 237,
-            "starCount": 671,
+            "yearGrowth": 239,
+            "starCount": 673,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -3704,8 +3704,8 @@
         "project": [
             {
                 "name": "handy-multi-agent",
-                "yearGrowth": 653,
-                "starCount": 665,
+                "yearGrowth": 656,
+                "starCount": 668,
                 "commitCount": 0
             }
         ],
@@ -3713,8 +3713,8 @@
         "codeCount": 360,
         "maxCommitProject": {
             "name": "handy-multi-agent",
-            "yearGrowth": 653,
-            "starCount": 665,
+            "yearGrowth": 656,
+            "starCount": 668,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -3725,8 +3725,8 @@
         "project": [
             {
                 "name": "handy-multi-agent",
-                "yearGrowth": 653,
-                "starCount": 665,
+                "yearGrowth": 656,
+                "starCount": 668,
                 "commitCount": 1
             }
         ],
@@ -3734,8 +3734,8 @@
         "codeCount": 5,
         "maxCommitProject": {
             "name": "handy-multi-agent",
-            "yearGrowth": 653,
-            "starCount": 665,
+            "yearGrowth": 656,
+            "starCount": 668,
             "commitCount": 1
         },
         "maxCommitProjectCommitCount": 1,
@@ -3748,8 +3748,8 @@
         "project": [
             {
                 "name": "handy-multi-agent",
-                "yearGrowth": 653,
-                "starCount": 665,
+                "yearGrowth": 656,
+                "starCount": 668,
                 "commitCount": 1
             }
         ],
@@ -3757,11 +3757,126 @@
         "codeCount": 10,
         "maxCommitProject": {
             "name": "handy-multi-agent",
-            "yearGrowth": 653,
-            "starCount": 665,
+            "yearGrowth": 656,
+            "starCount": 668,
             "commitCount": 1
         },
         "maxCommitProjectCommitCount": 1
+    },
+    {
+        "username": "Barca0412",
+        "email": "92302656+Barca0412@users.noreply.github.com",
+        "project": [
+            {
+                "name": "vibe-vibe",
+                "yearGrowth": 432,
+                "starCount": 432,
+                "commitCount": 2
+            }
+        ],
+        "commitCount": 3,
+        "codeCount": 8,
+        "maxCommitProject": {
+            "name": "vibe-vibe",
+            "yearGrowth": 432,
+            "starCount": 432,
+            "commitCount": 2
+        },
+        "maxCommitProjectCommitCount": 2,
+        "lastCommitTime": "2025-12-14 22:45:51",
+        "lastCommitProjectName": "vibe-vibe"
+    },
+    {
+        "username": "Eyre921",
+        "email": "eyre@hnu.edu.cn",
+        "project": [
+            {
+                "name": "vibe-vibe",
+                "yearGrowth": 432,
+                "starCount": 432,
+                "commitCount": 44
+            }
+        ],
+        "commitCount": 45,
+        "codeCount": 147761,
+        "maxCommitProject": {
+            "name": "vibe-vibe",
+            "yearGrowth": 432,
+            "starCount": 432,
+            "commitCount": 44
+        },
+        "maxCommitProjectCommitCount": 44,
+        "lastCommitTime": "2025-12-02 02:00:37",
+        "lastCommitProjectName": "vibe-vibe"
+    },
+    {
+        "username": "guohao",
+        "email": "dlMcRsTE1GmikWtRQ5zL3A+guohao@noreply.cnb.cool",
+        "project": [
+            {
+                "name": "vibe-vibe",
+                "yearGrowth": 432,
+                "starCount": 432,
+                "commitCount": 7
+            }
+        ],
+        "commitCount": 8,
+        "codeCount": 63514,
+        "maxCommitProject": {
+            "name": "vibe-vibe",
+            "yearGrowth": 432,
+            "starCount": 432,
+            "commitCount": 7
+        },
+        "maxCommitProjectCommitCount": 7,
+        "lastCommitTime": "2025-12-09 03:03:53",
+        "lastCommitProjectName": "vibe-vibe"
+    },
+    {
+        "username": "Barca",
+        "email": "barca@github.com",
+        "project": [
+            {
+                "name": "vibe-vibe",
+                "yearGrowth": 432,
+                "starCount": 432,
+                "commitCount": 4
+            }
+        ],
+        "commitCount": 5,
+        "codeCount": 31785,
+        "maxCommitProject": {
+            "name": "vibe-vibe",
+            "yearGrowth": 432,
+            "starCount": 432,
+            "commitCount": 4
+        },
+        "maxCommitProjectCommitCount": 4,
+        "lastCommitTime": "2025-12-09 03:02:28",
+        "lastCommitProjectName": "vibe-vibe"
+    },
+    {
+        "username": "eyre",
+        "email": "me@hangkangfu.cn",
+        "project": [
+            {
+                "name": "vibe-vibe",
+                "yearGrowth": 432,
+                "starCount": 432,
+                "commitCount": 3
+            }
+        ],
+        "commitCount": 4,
+        "codeCount": 2968,
+        "maxCommitProject": {
+            "name": "vibe-vibe",
+            "yearGrowth": 432,
+            "starCount": 432,
+            "commitCount": 3
+        },
+        "maxCommitProjectCommitCount": 3,
+        "lastCommitTime": "2025-12-02 01:42:03",
+        "lastCommitProjectName": "vibe-vibe"
     },
     {
         "username": "halolah",
@@ -3827,121 +3942,6 @@
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
-    },
-    {
-        "username": "Barca0412",
-        "email": "92302656+Barca0412@users.noreply.github.com",
-        "project": [
-            {
-                "name": "vibe-vibe",
-                "yearGrowth": 316,
-                "starCount": 316,
-                "commitCount": 2
-            }
-        ],
-        "commitCount": 3,
-        "codeCount": 8,
-        "maxCommitProject": {
-            "name": "vibe-vibe",
-            "yearGrowth": 316,
-            "starCount": 316,
-            "commitCount": 2
-        },
-        "maxCommitProjectCommitCount": 2,
-        "lastCommitTime": "2025-12-14 22:45:51",
-        "lastCommitProjectName": "vibe-vibe"
-    },
-    {
-        "username": "Eyre921",
-        "email": "eyre@hnu.edu.cn",
-        "project": [
-            {
-                "name": "vibe-vibe",
-                "yearGrowth": 316,
-                "starCount": 316,
-                "commitCount": 44
-            }
-        ],
-        "commitCount": 45,
-        "codeCount": 147761,
-        "maxCommitProject": {
-            "name": "vibe-vibe",
-            "yearGrowth": 316,
-            "starCount": 316,
-            "commitCount": 44
-        },
-        "maxCommitProjectCommitCount": 44,
-        "lastCommitTime": "2025-12-02 02:00:37",
-        "lastCommitProjectName": "vibe-vibe"
-    },
-    {
-        "username": "guohao",
-        "email": "dlMcRsTE1GmikWtRQ5zL3A+guohao@noreply.cnb.cool",
-        "project": [
-            {
-                "name": "vibe-vibe",
-                "yearGrowth": 316,
-                "starCount": 316,
-                "commitCount": 7
-            }
-        ],
-        "commitCount": 8,
-        "codeCount": 63514,
-        "maxCommitProject": {
-            "name": "vibe-vibe",
-            "yearGrowth": 316,
-            "starCount": 316,
-            "commitCount": 7
-        },
-        "maxCommitProjectCommitCount": 7,
-        "lastCommitTime": "2025-12-09 03:03:53",
-        "lastCommitProjectName": "vibe-vibe"
-    },
-    {
-        "username": "Barca",
-        "email": "barca@github.com",
-        "project": [
-            {
-                "name": "vibe-vibe",
-                "yearGrowth": 316,
-                "starCount": 316,
-                "commitCount": 4
-            }
-        ],
-        "commitCount": 5,
-        "codeCount": 31785,
-        "maxCommitProject": {
-            "name": "vibe-vibe",
-            "yearGrowth": 316,
-            "starCount": 316,
-            "commitCount": 4
-        },
-        "maxCommitProjectCommitCount": 4,
-        "lastCommitTime": "2025-12-09 03:02:28",
-        "lastCommitProjectName": "vibe-vibe"
-    },
-    {
-        "username": "eyre",
-        "email": "me@hangkangfu.cn",
-        "project": [
-            {
-                "name": "vibe-vibe",
-                "yearGrowth": 316,
-                "starCount": 316,
-                "commitCount": 3
-            }
-        ],
-        "commitCount": 4,
-        "codeCount": 2968,
-        "maxCommitProject": {
-            "name": "vibe-vibe",
-            "yearGrowth": 316,
-            "starCount": 316,
-            "commitCount": 3
-        },
-        "maxCommitProjectCommitCount": 3,
-        "lastCommitTime": "2025-12-02 01:42:03",
-        "lastCommitProjectName": "vibe-vibe"
     },
     {
         "username": "johnjim0816",
@@ -4818,8 +4818,8 @@
         "project": [
             {
                 "name": "post-training-of-llms",
-                "yearGrowth": 127,
-                "starCount": 127,
+                "yearGrowth": 128,
+                "starCount": 128,
                 "commitCount": 9
             },
             {
@@ -4833,8 +4833,8 @@
         "codeCount": 9300,
         "maxCommitProject": {
             "name": "post-training-of-llms",
-            "yearGrowth": 127,
-            "starCount": 127,
+            "yearGrowth": 128,
+            "starCount": 128,
             "commitCount": 9
         },
         "maxCommitProjectCommitCount": 9,
@@ -4847,8 +4847,8 @@
         "project": [
             {
                 "name": "post-training-of-llms",
-                "yearGrowth": 127,
-                "starCount": 127,
+                "yearGrowth": 128,
+                "starCount": 128,
                 "commitCount": 21
             }
         ],
@@ -4856,8 +4856,8 @@
         "codeCount": 2063,
         "maxCommitProject": {
             "name": "post-training-of-llms",
-            "yearGrowth": 127,
-            "starCount": 127,
+            "yearGrowth": 128,
+            "starCount": 128,
             "commitCount": 21
         },
         "maxCommitProjectCommitCount": 21,
@@ -4870,8 +4870,8 @@
         "project": [
             {
                 "name": "post-training-of-llms",
-                "yearGrowth": 127,
-                "starCount": 127,
+                "yearGrowth": 128,
+                "starCount": 128,
                 "commitCount": 0
             }
         ],
@@ -4879,8 +4879,8 @@
         "codeCount": 1,
         "maxCommitProject": {
             "name": "post-training-of-llms",
-            "yearGrowth": 127,
-            "starCount": 127,
+            "yearGrowth": 128,
+            "starCount": 128,
             "commitCount": 0
         },
         "maxCommitProjectCommitCount": 0
@@ -4891,8 +4891,8 @@
         "project": [
             {
                 "name": "post-training-of-llms",
-                "yearGrowth": 127,
-                "starCount": 127,
+                "yearGrowth": 128,
+                "starCount": 128,
                 "commitCount": 2
             }
         ],
@@ -4900,8 +4900,8 @@
         "codeCount": 77,
         "maxCommitProject": {
             "name": "post-training-of-llms",
-            "yearGrowth": 127,
-            "starCount": 127,
+            "yearGrowth": 128,
+            "starCount": 128,
             "commitCount": 2
         },
         "maxCommitProjectCommitCount": 2,
@@ -4914,8 +4914,8 @@
         "project": [
             {
                 "name": "post-training-of-llms",
-                "yearGrowth": 127,
-                "starCount": 127,
+                "yearGrowth": 128,
+                "starCount": 128,
                 "commitCount": 1
             }
         ],
@@ -4923,8 +4923,8 @@
         "codeCount": 397,
         "maxCommitProject": {
             "name": "post-training-of-llms",
-            "yearGrowth": 127,
-            "starCount": 127,
+            "yearGrowth": 128,
+            "starCount": 128,
             "commitCount": 1
         },
         "maxCommitProjectCommitCount": 1,
@@ -5052,8 +5052,8 @@
         "project": [
             {
                 "name": "agentic-ai",
-                "yearGrowth": 122,
-                "starCount": 122,
+                "yearGrowth": 123,
+                "starCount": 123,
                 "commitCount": 38
             },
             {
@@ -5067,8 +5067,8 @@
         "codeCount": 25950,
         "maxCommitProject": {
             "name": "agentic-ai",
-            "yearGrowth": 122,
-            "starCount": 122,
+            "yearGrowth": 123,
+            "starCount": 123,
             "commitCount": 38
         },
         "maxCommitProjectCommitCount": 38,
@@ -5081,8 +5081,8 @@
         "project": [
             {
                 "name": "agentic-ai",
-                "yearGrowth": 122,
-                "starCount": 122,
+                "yearGrowth": 123,
+                "starCount": 123,
                 "commitCount": 3
             }
         ],
@@ -5090,8 +5090,8 @@
         "codeCount": 30,
         "maxCommitProject": {
             "name": "agentic-ai",
-            "yearGrowth": 122,
-            "starCount": 122,
+            "yearGrowth": 123,
+            "starCount": 123,
             "commitCount": 3
         },
         "maxCommitProjectCommitCount": 3
@@ -5102,8 +5102,8 @@
         "project": [
             {
                 "name": "agentic-ai",
-                "yearGrowth": 122,
-                "starCount": 122,
+                "yearGrowth": 123,
+                "starCount": 123,
                 "commitCount": 11
             }
         ],
@@ -5111,8 +5111,8 @@
         "codeCount": 8589,
         "maxCommitProject": {
             "name": "agentic-ai",
-            "yearGrowth": 122,
-            "starCount": 122,
+            "yearGrowth": 123,
+            "starCount": 123,
             "commitCount": 11
         },
         "maxCommitProjectCommitCount": 11,
@@ -5188,8 +5188,8 @@
         "project": [
             {
                 "name": "ai-edu-for-kids",
-                "yearGrowth": 96,
-                "starCount": 96,
+                "yearGrowth": 97,
+                "starCount": 97,
                 "commitCount": 32
             }
         ],
@@ -5197,8 +5197,8 @@
         "codeCount": 455,
         "maxCommitProject": {
             "name": "ai-edu-for-kids",
-            "yearGrowth": 96,
-            "starCount": 96,
+            "yearGrowth": 97,
+            "starCount": 97,
             "commitCount": 32
         },
         "maxCommitProjectCommitCount": 32,
@@ -5596,18 +5596,18 @@
                 "name": "members-visualization",
                 "yearGrowth": 26,
                 "starCount": 26,
-                "commitCount": 106
+                "commitCount": 107
             }
         ],
-        "commitCount": 107,
-        "codeCount": 272401,
+        "commitCount": 108,
+        "codeCount": 281145,
         "maxCommitProject": {
             "name": "members-visualization",
             "yearGrowth": 26,
             "starCount": 26,
-            "commitCount": 106
+            "commitCount": 107
         },
-        "maxCommitProjectCommitCount": 106,
+        "maxCommitProjectCommitCount": 107,
         "lastCommitTime": "2025-09-19 01:42:14",
         "lastCommitProjectName": "members-visualization"
     },

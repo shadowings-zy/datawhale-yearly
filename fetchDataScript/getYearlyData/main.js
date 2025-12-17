@@ -68,12 +68,12 @@ const main = async () => {
   for (const repo of repoNameList) {
     const output = await getGithubRepoCommit(repo, githubToken);
     if (output.length !== 0) {
-      fs.writeFileSync(path.join(__dirname, COMMIT_DETAIL_DIR, `${repo}.json`), JSON.stringify(output, null, 4));
+      fs.writeFileSync(path.join(COMMIT_DETAIL_DIR, `${repo}.json`), JSON.stringify(output, null, 4));
     }
   }
 
   const targetFormat = generateContributorData(repoNameList, YEAR);
-  fs.writeFileSync(path.join(__dirname, YEARLY_DATA_OUTPUT_PATH), JSON.stringify(targetFormat, null, 4));
+  fs.writeFileSync(YEARLY_DATA_OUTPUT_PATH, JSON.stringify(targetFormat, null, 4));
 };
 
 main();
