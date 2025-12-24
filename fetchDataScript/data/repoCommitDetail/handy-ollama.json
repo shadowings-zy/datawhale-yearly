@@ -2527,5 +2527,23 @@
         "codeAdditionsCount": 2,
         "codeDeletionsCount": 0,
         "codeChangesCount": 2
+    },
+    {
+        "sha": "d009c0f886ee5af073ba7757755592ea4be7b955",
+        "author": "kjlintong",
+        "email": "40327910+kjlintong@users.noreply.github.com",
+        "date": "2025-12-20 16:52:30",
+        "codeAdditionsCount": 1,
+        "codeDeletionsCount": 1,
+        "codeChangesCount": 2
+    },
+    {
+        "sha": "eb339cb3493d85ccec82cf5d06daf102d72badc8",
+        "author": "wangh86",
+        "email": "wangh86@xiaopeng.com",
+        "date": "2025-11-28 16:05:43",
+        "codeAdditionsCount": 1,
+        "codeDeletionsCount": 1,
+        "codeChangesCount": 2
     }
 ]
